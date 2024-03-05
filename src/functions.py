@@ -3,17 +3,11 @@ import nltk
 from nltk.stem import WordNetLemmatizer
 import numpy as np
 import pandas as pd
-import pickle
-import os
-
-lemmatizer = WordNetLemmatizer()
-model = pickle.load(open(os.path.join(os.path.dirname(os.path.realpath(__file__)), 'model.pkl'), 'rb'))
-data = pickle.load(open(os.path.join(os.path.dirname(os.path.realpath(__file__)), 'data.pkl'), 'rb'))
-words = data['words']
-classes = data['tags']
+import tensorflow as tf
 
 def clean_up_sentence(sentence):
     # tokenize the pattern - split words into array
+    lemmatizer = WordNetLemmatizer()
     sentence_words = nltk.word_tokenize(sentence)
     # stem each word - create short form for word
     sentence_words = [lemmatizer.lemmatize(word.lower()) for word in sentence_words]
@@ -35,7 +29,7 @@ def bow(sentence, words, show_details=True):
 
     return(np.array(bag))
 
-def classify_local(sentence):
+def classify_local(sentence, model, words, classes):
     ERROR_THRESHOLD = 0.25
     
     # generate probabilities from the model
@@ -60,3 +54,18 @@ def get_response(ints, intents_json):
             result = random.choice(i['responses'])
             break
     return result
+
+def train_model(train_x, train_y):
+    model = tf.keras.Sequential()
+    model.add(tf.keras.layers.Dense(128, input_shape=(len(train_x[0]),), activation='relu'))
+    model.add(tf.keras.layers.Dropout(0.5))
+    model.add(tf.keras.layers.Dense(64, activation='relu'))
+    model.add(tf.keras.layers.Dropout(0.5))
+    model.add(tf.keras.layers.Dense(len(train_y[0]), activation='softmax'))
+
+    sgd = tf.keras.optimizers.SGD(learning_rate=0.01, momentum=0.9, nesterov=True)
+    model.compile(loss='categorical_crossentropy', optimizer=sgd, metrics=['accuracy'])
+
+    # train model
+    model.fit(train_x, train_y, epochs=200, batch_size=5, verbose=1)
+    return model

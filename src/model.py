@@ -3,12 +3,13 @@ import os
 import json
 import nltk
 import pickle
-import tensorflow as tf
+from functions import train_model
 
 lemmatizer = nltk.stem.WordNetLemmatizer()
 
 base_path = os.path.dirname(os.path.realpath(__file__))
 raw_data_path = os.path.join(base_path, '../raw_data/intents.json')
+clean_data_path = os.path.join(base_path, '../clean_data/')
 
 with open(raw_data_path, 'r') as f:
     data = json.loads(open(raw_data_path).read())
@@ -52,19 +53,9 @@ train_x = np.array(train_x)
 train_y = np.array(train_y)
 
 # build model
-model = tf.keras.Sequential()
-model.add(tf.keras.layers.Dense(128, input_shape=(len(train_x[0]),), activation='relu'))
-model.add(tf.keras.layers.Dropout(0.5))
-model.add(tf.keras.layers.Dense(64, activation='relu'))
-model.add(tf.keras.layers.Dropout(0.5))
-model.add(tf.keras.layers.Dense(len(train_y[0]), activation='softmax'))
-
-sgd = tf.keras.optimizers.SGD(lr=0.01, momentum=0.9, nesterov=True)
-model.compile(loss='categorical_crossentropy', optimizer=sgd, metrics=['accuracy'])
-
-# train model
-model.fit(train_x, train_y, epochs=200, batch_size=5, verbose=1)
+model = train_model(train_x, train_y)
 
 # save model and data
-pickle.dump(model, open("model.pkl", "wb"))
-pickle.dump( {'words':words, 'tags':tags, 'train_x':train_x, 'train_y':train_y}, open( "data.pkl", "wb"))
+model.save(os.path.join(clean_data_path, "model.keras"))
+# pickle.dump(model, open(os.path.join(clean_data_path, "model.pkl"), "wb"))
+pickle.dump( {'words':words, 'tags':tags, 'train_x':train_x, 'train_y':train_y}, open( os.path.join(clean_data_path, "data.pkl"), "wb"))
