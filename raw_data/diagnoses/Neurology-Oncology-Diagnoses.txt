@@ -1,0 +1,203 @@
+## Anaplastic Astrocytoma
+__Occurrence: Ultra Rare | Base Payment: $4040__
+Anaplastic astrocytoma is a rare malignant brain tumour. Astrocytomas are tumours that develop from certain star-shaped brain cells called astrocytes. Astrocytes and similar cells form tissue that surrounds and protects other nerve cells found within the brain and spinal cord.
+
+__Symptoms__
+
++ Anaplastic Astrocytoma Detected (100% of cases | Medium Hazard)
+    + Revealed with __biopsy testing__.
+    + Treated with __surgical debulking__.
++ Headache (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Abnormal Brain Wave Patterns (90% of cases | Low Hazard)
+    + Revealed with __an EEG__.
+    + Cannot be treated.
++ Antigen KI-67 Brisk Labeling Index (90% of cases | Low Hazard)
+    + Revealed with __a flow cytometry test__.
+    + Cannot be treated.
++ Nausea (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Fatigue (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Focal Neurologic Deficit (80% of cases | Medium Hazard)
+    + Revealed with __neurological testing__.
+    + Cannot be treated.
++ Vomiting (70% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Increased ICP (70% of cases | Low Hazard)
+    + Revealed with __CSF analysis__.
+    + Treated with __VP shunting__.
++ Seizures (60% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anti-seizure medication__.
+    + Can lead to __coma__ if left untreated for __6 to 24__ hours.
++ Confusion (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __tranquilizers__.
++ Dysphasia (60% of cases | Low Hazard)
+    + Revealed with __an interview__, __speech listening__, or __neurological testing__.
+    + Cannot be treated.
++ Blurred Vision (60% of cases | Low Hazard)
+    + Revealed with __an interview__, __a basic visual test__, or __ophthalmoscopy__.
+    + Treated with __eye drops__.
++ Li-Fraumeni Syndrome (LFS) (20% of cases | Low Hazard)
+    + Revealed with __PCR testing__ or __F.I.S.H. test__.
+    + Cannot be treated.
+
+## Diffuse Astrocytoma
+__Occurrence: Ultra Rare | Base Payment: $4040__
+Diffuse astrocytomas, also referred to as low-grade infiltrative astrocytomas, are designated as WHO II tumours of the brain. The term diffuse infiltrating means there is no identifiable border between the tumour and normal brain tissue, even though the borders may appear well-marginated on imaging.
+
+__Symptoms__
+
++ Diffuse Astrocytoma Detected (100% of cases | Medium Hazard)
+    + Revealed with __biopsy testing__.
+    + Treated with __surgical debulking__.
++ Headache (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Antigen KI-67 Low Labeling Index (90% of cases | Low Hazard)
+    + Revealed with __a flow cytometry test__.
+    + Cannot be treated.
++ Abnormal Brain Wave Patterns (90% of cases | Low Hazard)
+    + Revealed with __an EEG__.
+    + Cannot be treated.
++ Nausea (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Fatigue (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Focal Neurologic Deficit (75% of cases | Medium Hazard)
+    + Revealed with __neurological testing__.
+    + Cannot be treated.
++ Seizures (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anti-seizure medication__.
+    + Can lead to __coma__ if left untreated for __6 to 24__ hours.
++ Vomiting (70% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Increased ICP (60% of cases | Low Hazard)
+    + Revealed with __CSF analysis__.
+    + Treated with __VP shunting__.
++ Blurred Vision (60% of cases | Low Hazard)
+    + Revealed with __an interview__, __a basic visual test__, or __ophthalmoscopy__.
+    + Treated with __eye drops__.
++ Confusion (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __tranquilizers__.
++ Microcysts (40% of cases | Low Hazard)
+    + Revealed with __a fine needle aspiration test__.
+    + Cannot be treated.
+
+## Glioblastoma
+__Occurrence: Ultra Rare | Base Payment: $5180__
+Glioblastoma, also known as glioblastoma multiforme (GBM), is the most aggressive cancer that begins within the brain. Initially, signs and symptoms of glioblastoma are nonspecific. They may include headaches, personality changes, nausea, and symptoms similar to those of a stroke.
+
+__Symptoms__
+
++ Glioblastoma Detected (100% of cases | Medium Hazard)
+    + Revealed with __biopsy testing__.
+    + Treated with __a gross-total resection craniotomy__.
++ Headache (95% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Fatigue (90% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Nausea (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Abnormal Brain Wave Patterns (90% of cases | Low Hazard)
+    + Revealed with __an EEG__.
+    + Cannot be treated.
++ IDH1/IDH2 Negative Findings (90% of cases | Low Hazard)
+    + Revealed with __PCR testing__ or __F.I.S.H. test__.
+    + Cannot be treated.
++ Vomiting (80% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Focal Neurologic Deficit (80% of cases | Medium Hazard)
+    + Revealed with __neurological testing__.
+    + Cannot be treated.
++ Loss of Heterozygosity (80% of cases | Low Hazard)
+    + Revealed with __PCR testing__ or __F.I.S.H. test__.
+    + Cannot be treated.
++ Increased ICP (70% of cases | Low Hazard)
+    + Revealed with __CSF analysis__.
+    + Treated with __VP shunting__.
++ Dysphasia (70% of cases | Low Hazard)
+    + Revealed with __an interview__, __speech listening__, or __neurological testing__.
+    + Cannot be treated.
++ Confusion (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __tranquilizers__.
++ Overexpression of PDGFR (60% of cases | Low Hazard)
+    + Revealed with __PCR testing__ or __F.I.S.H. test__.
+    + Cannot be treated.
++ Blurred Vision (60% of cases | Low Hazard)
+    + Revealed with __an interview__, __a basic visual test__, or __ophthalmoscopy__.
+    + Treated with __eye drops__.
++ BRAF V599E Mutation Detected (50% of cases | Low Hazard)
+    + Revealed with __PCR testing__ or __F.I.S.H. test__.
+    + Treated with __BRAF inhibitors__.
++ Seizures (30% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anti-seizure medication__.
+    + Can lead to __coma__ if left untreated for __6 to 24__ hours.
+
+## Pilocytic Astrocytoma
+__Occurrence: Ultra Rare | Base Payment: $3620__
+Grade I astrocytomas are also called pilocytic astrocytomas. These tumours occur in children and young adults. They are less invasive than other grades and have a relatively good prognosis.  They usually arise in the cerebellum, near the brainstem, in the hypothalamic region, or the optic chiasm, but they may occur in any area where astrocytes are present, including the cerebral hemispheres and the spinal cord. These tumours are usually slow growing and benign.
+
+__Symptoms__
+
++ Pilocytic Astrocytoma Detected (100% of cases | Medium Hazard)
+    + Revealed with __biopsy testing__.
+    + Treated with __craniotomy__.
++ Eosinophilic Granular Bodies (95% of cases | Medium Hazard)
+    + Revealed with __an electron microscopy test__.
+    + Cannot be treated.
++ Headache (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Abnormal Brain Wave Patterns (90% of cases | Low Hazard)
+    + Revealed with __an EEG__.
+    + Cannot be treated.
++ Abnormal Mass Detected (88% of cases | Medium Hazard)
+    + Revealed with __a CT scan__ or __an MRI scan__.
+    + Cannot be treated.
++ Nausea (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Seizures (80% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anti-seizure medication__.
+    + Can lead to __coma__ if left untreated for __6 to 24__ hours.
++ Fatigue (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Vomiting (70% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Irritability (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __tranquilizers__.
++ Poor Balance (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Blurred Vision (60% of cases | Low Hazard)
+    + Revealed with __an interview__, __a basic visual test__, or __ophthalmoscopy__.
+    + Treated with __eye drops__.
++ Increased ICP (60% of cases | Low Hazard)
+    + Revealed with __CSF analysis__.
+    + Treated with __VP shunting__.
++ Neurofibromatosis Type I (NF-1) Findings (35% of cases | Low Hazard)
+    + Revealed with __PCR testing__ or __F.I.S.H. test__.
+    + Cannot be treated.
+

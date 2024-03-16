@@ -1,0 +1,1704 @@
+## ACL Injury
+__Occurrence: Common | Base Payment: $700__
+The Anterior Cruciate Ligament, is a ligament located inside the knee joint that prevents forward displacement between the leg bones. Injury to this ligament is common in sports and is caused by abnormal inward rotation.
+
+__Symptoms__
+
++ Knee Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ ACL Injury (100% of cases | Low Hazard)
+    + Revealed with __an MRI scan__.
+    + Treated with __RICE__.
++ Swelling (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Walking Problems (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Limited Leg Motion (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
+
+## Acute Osteomyelitis
+__Occurrence: Common | Base Payment: $3100__
+Acute osteomyelitis is a bacterial infection of the bone. It can develop into chronic osteomyelitis which is very difficult to treat.
+
+__Symptoms__
+
++ Bone Infection (100% of cases | Medium Hazard)
+    + Revealed with __an MRI scan__.
+    + Treated with __osteomyelitis surgery__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Chills (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antipyretics__.
++ Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Swelling Limbs (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anti-inflammatory cream__.
++ Redness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Irritability (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __tranquilizers__.
++ Leukocytosis (50% of cases | Medium Hazard)
+    + Revealed with __CBC testing__.
+    + Cannot be treated.
+
+## Ankle Fracture
+__Occurrence: Common | Base Payment: $500__
+Fracture of one or more bones of the ankle, without damage to the surrounding tissues.
+
+__Symptoms__
+
++ Ankle Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a leg orthosis__.
++ Ankle Fracture (100% of cases | Low Hazard)
+    + Revealed with __a lower limb X-ray__.
+    + Treated with __a leg cast__.
++ Stiffness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __EMS__.
++ Swelling (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Ankle Bruise (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __numbing ointment__.
++ Tenderness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Warmth (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Joint Immobility (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Limited Leg Motion (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Spasms (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __spasmolytics__.
+
+## Ankle Sprain
+__Occurrence: Common | Base Payment: $900__
+A sprain is a condition where a ligament surrounding a joint is taken beyond its functional range of motion, causing tears and sometimes to complete rupture of the affected ligaments.
+
+__Symptoms__
+
++ Ankle Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a leg orthosis__.
++ Ankle Sprain (100% of cases | Low Hazard)
+    + Revealed with __an MRI scan__.
+    + Treated with __NSAIDs__.
++ Stiffness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __EMS__.
++ Warmth (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Swelling (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Spasms (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __spasmolytics__.
++ Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Bruise (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Limited Leg Motion (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
+
+## Broken Ribs
+__Occurrence: Common | Base Payment: $500__
+Simple fracture of one or more ribs with no damage to surrounding tissues or breaking of the skin.
+
+__Symptoms__
+
++ Chest Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __emergency care__.
++ Fractured Ribs (100% of cases | Low Hazard)
+    + Revealed with __a chest X-ray__.
+    + Treated with __compression wraps__.
++ Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Swelling (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Tenderness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Breathing Problems (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Redness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Bruise (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
+
+## Carpal Tunnel Syndrome
+__Occurrence: Common | Base Payment: $2900__
+A condition where the median nerve in the wrist is compressed by the surrounding structures when passing through the tunnel near the base of the wrist. Pain and a sleeping sensation of the hand are the main symptoms. 
+
+__Symptoms__
+
++ Median Nerve Compression (100% of cases | Medium Hazard)
+    + Revealed with __a CT scan__.
+    + Treated with __endoscopic surgery__.
++ Finger Numbness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Wrist Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Hand Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Hand Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Thumb Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Cramps (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
+
+## Cervical Spondylosis
+__Occurrence: Uncommon | Base Payment: $700__
+Cervical spondylosis is a degeneration of the cervical spine from any cause. Often it is synonymous with age-related wear and tear causing spinal osteoarthritis.
+
+__Symptoms__
+
++ Neck Bone Spurs (100% of cases | Low Hazard)
+    + Revealed with __an MRI scan__.
+    + Treated with __corticosteroids__.
++ Numbness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Hand Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Poor Balance (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Walking Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Neck Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Finger Numbness (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
+
+## Complicated Fracture of Femur
+__Occurrence: Common | Base Payment: $3300__
+Complicated fracture consists of open wound, dislocated fractured bone and various fragments of broken bone. The femur is the bone in the thigh.
+
+__Symptoms__
+
++ Leg Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __bandage__.
++ Open Wound (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __emergency care__.
++ Exposed Bone (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __bandage__.
++ Multiple Arteries Damage (100% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
+    + Can lead to __hypovolemic shock__ if left untreated for __2 to 4__ hours.
++ Femur Fragments Fracture (100% of cases | Medium Hazard)
+    + Revealed with __a lower limb X-ray__.
+    + Treated with __fracture surgery of the leg__.
++ Hemorrhage (80% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Severe Leg Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Dizziness (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Muscle and Skin Damage (80% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Cannot be treated.
++ Unstoppable Bleeding (80% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 2__ hours.
++ Hypovolemic Shock (20% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __death__ if left untreated for __2 to 4__ hours.
+
+## Complicated Fracture of Humerus
+__Occurrence: Common | Base Payment: $3300__
+Complicated fracture consists of open wound, dislocated fractured bone and various fragments of broken bone. Humerus is the bone in the upper arm.
+
+__Symptoms__
+
++ Arm Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __bandage__.
++ Open Wound (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __emergency care__.
++ Exposed Bone (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __bandage__.
++ Multiple Arteries Damage (100% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
+    + Can lead to __hypovolemic shock__ if left untreated for __2 to 4__ hours.
++ Humerus Fragments Fracture (100% of cases | Medium Hazard)
+    + Revealed with __an upper limb X-ray__.
+    + Treated with __fracture surgery of the arm__.
++ Hemorrhage (80% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Severe Arm Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Muscle and Skin Damage (80% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Cannot be treated.
++ Unstoppable Bleeding (80% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 2__ hours.
++ Dizziness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Hypovolemic Shock (20% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __death__ if left untreated for __2 to 4__ hours.
+
+## Complicated Fracture of Ulna
+__Occurrence: Common | Base Payment: $3300__
+Complicated fracture consists of open wound, dislocated fractured bone and various fragments of broken bone. Ulna is one of the two bones in the forearm.
+
+__Symptoms__
+
++ Arm Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __bandage__.
++ Open Wound (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __emergency care__.
++ Exposed Bone (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __bandage__.
++ Multiple Arteries Damage (100% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
+    + Can lead to __hypovolemic shock__ if left untreated for __2 to 4__ hours.
++ Ulna Fragments Fracture (100% of cases | Medium Hazard)
+    + Revealed with __an upper limb X-ray__.
+    + Treated with __fracture surgery of the arm__.
++ Hemorrhage (80% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Severe Arm Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Muscle and Skin Damage (80% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Cannot be treated.
++ Unstoppable Bleeding (80% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 2__ hours.
++ Dizziness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Hypovolemic Shock (20% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __death__ if left untreated for __2 to 4__ hours.
+
+## Cubital Tunnel Syndrome
+__Occurrence: Common | Base Payment: $300__
+Cubital tunnel syndrome is caused by the compression of the ulnar nerve in the elbow area.
+
+__Symptoms__
+
++ Ulnar Nerve Compression (100% of cases | Low Hazard)
+    + Revealed with __an EMG__.
+    + Treated with __elbow pad__.
++ Elbow Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Hand Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Finger Numbness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Hand Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Limited Arm Motion (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Muscle Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Ulnar Claw (20% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __exercise__.
+
+## Deep Wound On Arm
+__Occurrence: Common | Base Payment: $500__
+A bleeding deep, smooth or jagged wound. It needs suturing.
+
+__Symptoms__
+
++ Arm Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __bandage__.
++ Open Wound (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __emergency care__.
++ Arm Penetration (100% of cases | Low Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __wound closure__.
++ Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Hemorrhage (80% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Skin Avulsion (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __wound closure__.
++ Muscle and Skin Damage (80% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Cannot be treated.
++ Infected Wound (30% of cases | Low Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __antiseptics__.
+
+## Deep Wound On Feet
+__Occurrence: Common | Base Payment: $800__
+A bleeding deep, smooth or jagged wound. It needs suturing.
+
+__Symptoms__
+
++ Leg Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __bandage__.
++ Open Wound (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __emergency care__.
++ Foot Penetrated (100% of cases | Low Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __wound closure__.
++ Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Hemorrhage (80% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Skin Avulsion (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __wound closure__.
++ Degloved Skin (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __replantation__.
++ Muscle and Skin Damage (80% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Cannot be treated.
++ Infected Wound (50% of cases | Low Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __antiseptics__.
+
+## Deep Wound On Hand
+__Occurrence: Common | Base Payment: $800__
+A bleeding deep, smooth or jagged wound. It needs suturing.
+
+__Symptoms__
+
++ Hand Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __bandage__.
++ Open Wound (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __emergency care__.
++ Hand Penetrated (100% of cases | Low Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __wound closure__.
++ Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Hemorrhage (80% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Skin Avulsion (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __wound closure__.
++ Degloved Skin (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __replantation__.
++ Muscle and Skin Damage (80% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Cannot be treated.
++ Infected Wound (30% of cases | Low Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __antiseptics__.
+
+## Deep Wound On Leg
+__Occurrence: Common | Base Payment: $500__
+A bleeding deep, smooth or jagged wound. It needs suturing..
+
+__Symptoms__
+
++ Leg Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __bandage__.
++ Open Wound (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __emergency care__.
++ Leg Penetrated (100% of cases | Low Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __wound closure__.
++ Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Hemorrhage (80% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Skin Avulsion (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __wound closure__.
++ Muscle and Skin Damage (80% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Cannot be treated.
++ Infected Wound (30% of cases | Low Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __antiseptics__.
+
+## Dermatomyositis
+__Occurrence: Uncommon | Base Payment: $800__
+Dermatomyositis is chronic progressive inflammation of the muscles. Symptoms are usually a skin rash and increased muscle weakness over time.
+
+__Symptoms__
+
++ Muscles Inflamed (100% of cases | Low Hazard)
+    + Revealed with __an MRI scan__.
+    + Treated with __corticosteroids__.
++ Trouble Rising (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Muscle Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Tenderness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Rash (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Elevated CK (70% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Cannot be treated.
++ Hoarseness (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __NSAIDs__.
++ Fatigue (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Weight Loss (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
+
+## Dislocated Ankle
+__Occurrence: Common | Base Payment: $900__
+Joint dislocation, also known as luxation, is a condition where the bones connected by a joint are abnormally separated. Damage to the adjacent tissue is common.
+
+__Symptoms__
+
++ Ankle Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a leg orthosis__.
++ Out-of-Place Ankle (100% of cases | Medium Hazard)
+    + Revealed with __a lower limb X-ray__.
+    + Treated with __closed reduction__.
++ Swelling (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Bruise (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Joint Immobility (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
+
+## Elbow Bursitis
+__Occurrence: Common | Base Payment: $500__
+A bursae is a small fluid filled sac which acts as a cushion between bone and areas prone to friction. Bursitis refers to swelling of said sac caused by inflammation.
+
+__Symptoms__
+
++ Olecranon Bursae Inflamed (100% of cases | Low Hazard)
+    + Revealed with __USG__.
+    + Treated with __corticosteroid injections__.
++ Elbow Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Tenderness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Swelling (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Limited Arm Motion (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Elbow Stiffness (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Fever (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Redness of A Swelling (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
+
+## Fracture of Finger
+__Occurrence: Common | Base Payment: $500__
+Fracture of one or more of the finger bones, without damage to the surrounding tissues.
+
+__Symptoms__
+
++ Hand Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __bandage__.
++ Finger Fracture (100% of cases | Low Hazard)
+    + Revealed with __an upper limb X-ray__.
+    + Treated with __an arm cast__.
++ Stiffness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __EMS__.
++ Swelling (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Hand Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Bruise (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Tenderness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Warmth (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Hand Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Spasms (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __spasmolytics__.
+
+## Hand Bursitis
+__Occurrence: Common | Base Payment: $500__
+A bursae is a small fluid filled sac which acts as a cushion between bone and areas prone to friction. Bursitis refers to swelling of said sac caused by inflammation
+
+__Symptoms__
+
++ Inflamed Hand Bursae (100% of cases | Low Hazard)
+    + Revealed with __USG__.
+    + Treated with __corticosteroid injections__.
++ Wrist Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Hand Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Swelling (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Hand Weakness (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Fever (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Redness of A Swelling (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
+
+## Hip Osteoarthritis
+__Occurrence: Common | Base Payment: $3000__
+Osteoarthritis is a condition where cartilage slowly degenerates and deformities arise in the affected joint. Hip osteoarthritis typically makes walking painful and cumbersome.
+
+__Symptoms__
+
++ Hip Joints Damaged (100% of cases | Medium Hazard)
+    + Revealed with __an MRI scan__.
+    + Treated with __hip replacement surgery__.
++ Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Astasis (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __exercise__.
++ Abdominal Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
++ Walking Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Stiffness of the Hip (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __EMS__.
++ Back Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Sleeping Problems (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __sleeping drugs__.
++ Limited Leg Motion (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Waddling Gait (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
+
+## Inclusion-Body Myositis
+__Occurrence: Uncommon | Base Payment: $400__
+Inclusion-body myositis is chronic progressive inflammation and weakening of the muscles. It is most apparent the finger flexor and knee extensor muscles.
+
+__Symptoms__
+
++ Sibm Findings (100% of cases | Low Hazard)
+    + Revealed with __an EMG__.
+    + Treated with __corticosteroids__.
++ Trouble Rising (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Frequent Falling (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Muscle Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Muscle Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Elevated CK (70% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Cannot be treated.
++ Elevated CRP (60% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Hand Weakness (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Dysphagia (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __diet modification__.
++ Poor Balance (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
+
+## Knee Bursitis 
+__Occurrence: Common | Base Payment: $800__
+A bursae is a small fluid filled sac which acts as a cushion between bone and areas prone to friction. Bursitis refers to swelling of said sac caused by inflammation.
+
+__Symptoms__
+
++ Knee Bursae Inflamed (100% of cases | Low Hazard)
+    + Revealed with __USG__.
+    + Treated with __corticosteroid injections__.
++ Stiffness of the Knee (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __EMS__.
++ Swelling Knee (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anti-inflammatory cream__.
++ Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Limited Leg Motion (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Tenderness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Rash (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Fever (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Redness of A Swelling (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
+
+## Knee Dislocation
+__Occurrence: Common | Base Payment: $2800__
+Joint dislocation, also known as luxation, is a condition where the bones connected by a joint are abnormally separated. Damage to the adjacent tissue is common.
+
+__Symptoms__
+
++ Knee Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Out-of-Place Knee (100% of cases | Medium Hazard)
+    + Revealed with __a lower limb X-ray__.
+    + Treated with __joint surgery of the leg__.
++ Swelling (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Bruise (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Joint Immobility (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
+
+## Knee Osteoarthritis
+__Occurrence: Common | Base Payment: $700__
+Knee Osteoarthritis is one of the most common types of arthritis. A slow degradation of the knee cartilage causes pain when walking and stiffness of the joint.
+
+__Symptoms__
+
++ Knee Joint Damaged (100% of cases | Low Hazard)
+    + Revealed with __an MRI scan__.
+    + Treated with __corticosteroid injections__.
++ Swelling Knee (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anti-inflammatory cream__.
++ Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Limited Leg Motion (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Stiffness of the Knee (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __EMS__.
++ Walking Problems (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Astasis (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __exercise__.
++ Waddling Gait (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
+
+## Knee Sprain
+__Occurrence: Common | Base Payment: $900__
+A sprain is a condition where a ligament surrounding a joint is taken beyond its functional range of motion, causing tears and sometimes to complete rupture of the affected ligaments.
+
+__Symptoms__
+
++ Knee Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Knee Sprain (100% of cases | Low Hazard)
+    + Revealed with __an MRI scan__.
+    + Treated with __NSAIDs__.
++ Stiffness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __EMS__.
++ Warmth (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Swelling (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Spasms (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __spasmolytics__.
++ Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Bruise (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Limited Leg Motion (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
+
+## Mandibular Fracture
+__Occurrence: Common | Base Payment: $2800__
+Fracture of the jaw. Often includes a break in two places. Usually causes decreased ability to open the mouth fully.
+
+__Symptoms__
+
++ Mandibular Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __emergency care__.
++ Fracture of the Mandible (100% of cases | Medium Hazard)
+    + Revealed with __a head X-ray__.
+    + Treated with __fracture surgery of the head__.
++ Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Redness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Swelling (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Numbness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Tenderness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Pain In the Ears (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __analgesics__.
+
+## Metatarsal Bones Fracture
+__Occurrence: Common | Base Payment: $500__
+Fracture of one or more metatarsal bones, without damage to the surrounding tissues.
+
+__Symptoms__
+
++ Foot Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __bandage__.
++ Metatarsal Fracture (100% of cases | Low Hazard)
+    + Revealed with __a lower limb X-ray__.
+    + Treated with __a leg cast__.
++ Stiffness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __EMS__.
++ Swelling (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Bruise (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Tenderness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Warmth (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Limited Leg Motion (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Spasms (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __spasmolytics__.
+
+## Nasal Fracture
+__Occurrence: Common | Base Payment: $500__
+Simple fracture of one or more nasal bones with some bleeding present.
+
+__Symptoms__
+
++ Fracture of the Nose (100% of cases | Low Hazard)
+    + Revealed with __a head X-ray__.
+    + Treated with __closed reduction__.
++ Nasal Deformity (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __closed reduction__.
++ Bruise (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Swelling (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Tenderness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Nosebleed (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
+
+## Open Fracture of Femur
+__Occurrence: Common | Base Payment: $2800__
+Open fracture, also called compound fracture, is a fracture resulting in an open wound, cause by the dislocated bone, often with bone protruding through the wound. The femur is the bone in the thigh.
+
+__Symptoms__
+
++ Leg Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __bandage__.
++ Open Wound (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __emergency care__.
++ Exposed Bone (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __bandage__.
++ Fractured Femur Depicted (100% of cases | Medium Hazard)
+    + Revealed with __a lower limb X-ray__.
+    + Treated with __fracture surgery of the leg__.
++ Hemorrhage (80% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Severe Leg Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Muscle and Skin Damage (80% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Cannot be treated.
++ Dizziness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Hypovolemic Shock (20% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __death__ if left untreated for __2 to 4__ hours.
+
+## Open Fracture of Humerus
+__Occurrence: Common | Base Payment: $2800__
+Open fracture, also called compound fracture, is a fracture resulting in an open wound, cause by the dislocated bone, often with bone protruding through the wound. Humerus is the bone in the upper arm.
+
+__Symptoms__
+
++ Arm Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __bandage__.
++ Open Wound (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __emergency care__.
++ Exposed Bone (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __bandage__.
++ Fractured Humerus Depicted (100% of cases | Medium Hazard)
+    + Revealed with __an upper limb X-ray__.
+    + Treated with __fracture surgery of the arm__.
++ Hemorrhage (80% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Severe Arm Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Muscle and Skin Damage (80% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Cannot be treated.
++ Dizziness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Hypovolemic Shock (20% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __death__ if left untreated for __2 to 4__ hours.
+
+## Open Fracture of Tibia
+__Occurrence: Common | Base Payment: $2800__
+Open fracture, also called compound fracture, is a fracture resulting in an open wound, cause by the dislocated bone, often with bone protruding through the wound. Tibia is the large bone in the lower leg.
+
+__Symptoms__
+
++ Leg Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __bandage__.
++ Open Wound (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __emergency care__.
++ Exposed Bone (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __bandage__.
++ Fractured Tibia Depicted (100% of cases | Medium Hazard)
+    + Revealed with __a lower limb X-ray__.
+    + Treated with __fracture surgery of the leg__.
++ Hemorrhage (80% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Severe Leg Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Dizziness (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Muscle and Skin Damage (80% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Cannot be treated.
++ Hypovolemic Shock (20% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __death__ if left untreated for __2 to 4__ hours.
+
+## Open Fracture of Ulna
+__Occurrence: Common | Base Payment: $2800__
+Open fracture, also called compound fracture, is a fracture resulting in an open wound, cause by the dislocated bone, often with bone protruding through the wound. Ulna is one of the two bones in the forearm.
+
+__Symptoms__
+
++ Arm Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __bandage__.
++ Open Wound (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __emergency care__.
++ Exposed Bone (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __bandage__.
++ Fractured Ulna Depicted (100% of cases | Medium Hazard)
+    + Revealed with __an upper limb X-ray__.
+    + Treated with __fracture surgery of the arm__.
++ Hemorrhage (80% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Severe Arm Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Muscle and Skin Damage (80% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Cannot be treated.
++ Dizziness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Hypovolemic Shock (20% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __death__ if left untreated for __2 to 4__ hours.
+
+## Osteomalacia
+__Occurrence: Uncommon | Base Payment: $1000__
+Osteomalacia, known as Rickets if it occurs in childhood, refers to a condition where the bones soften due to impaired bone metabolism.
+
+__Symptoms__
+
++ Pseudofractures (100% of cases | Medium Hazard)
+    + Revealed with __a CT scan__.
+    + Treated with __vitamin-D supplement__.
++ Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Muscle Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Hypocalcaemia (70% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __IV calcium gluconate__.
++ Osteoporosis (70% of cases | Low Hazard)
+    + Revealed with __a CT scan__.
+    + Treated with __bone strengthening pills__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Vitamin Deficiency (70% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __vitamin supplementation__.
++ Frequent Falling (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Astasis (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __exercise__.
+
+## Polymyositis
+__Occurrence: Uncommon | Base Payment: $400__
+Polymyositis is chronic progressive inflammation and weakening of the muscles. It begins with weakness in the muscles closest to the body trunk from where it spreads.
+
+__Symptoms__
+
++ Polymyositic Findings (100% of cases | Low Hazard)
+    + Revealed with __an EMG__.
+    + Treated with __corticosteroids__.
++ Muscle Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Muscle Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Dry Cough (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Elevated CK (70% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Cannot be treated.
++ Fatigue (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Elevated CRP (60% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Weight Loss (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Frequent Falling (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Poor Balance (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Trouble Rising (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Hoarseness (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __NSAIDs__.
++ Dysphagia (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __diet modification__.
+
+## Rheumatoid Arthritis
+__Occurrence: Common | Base Payment: $1100__
+Rheumatoid arthritis is a chronic autoimmune disease affecting various joints. It typically results in warm, swollen, and painful joints. Pain and stiffness often worsen following rest. 
+
+__Symptoms__
+
++ Rheumatoid Factor (100% of cases | Medium Hazard)
+    + Revealed with __serologic testing__.
+    + Treated with __corticosteroids__.
++ Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Redness of Skin (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Swelling Joints (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anti-inflammatory cream__.
++ Weight Loss (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Elevated CRP (60% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Walking Problems (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Anemia (60% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __vitamin supplementation__.
++ Fatigue (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Fever (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Stiffness of the Joints (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __EMS__.
++ Stiffness of the Knee (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __EMS__.
++ Stiffness of the Hip (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __EMS__.
++ Osteoporosis (30% of cases | Low Hazard)
+    + Revealed with __a CT scan__.
+    + Treated with __bone strengthening pills__.
+
+## Shaft Fracture of Clavicle
+__Occurrence: Common | Base Payment: $2900__
+Fracture of the clavicle with dislocation of part of the fractured bone.
+
+__Symptoms__
+
++ Collarbone Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __emergency care__.
++ Clavicle Shaft Fracture (100% of cases | Medium Hazard)
+    + Revealed with __a CT scan__.
+    + Treated with __fracture surgery of the arm__.
++ Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Tenderness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Sagging Shoulder (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an arm orthosis__.
++ Swelling (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Redness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Nausea (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Dizziness (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
+
+## Shoulder Dislocation
+__Occurrence: Common | Base Payment: $2800__
+Joint dislocation, also known as luxation, is a condition where the bones connected by a joint are abnormally separated. Damage to the adjacent tissue is common.
+
+__Symptoms__
+
++ Shoulder Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Cannot be treated.
++ Out-of-Place Shoulder (100% of cases | Medium Hazard)
+    + Revealed with __an upper limb X-ray__.
+    + Treated with __joint surgery of the arm__.
++ Swelling (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Bruise (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Joint Immobility (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
+
+## Shoulder Sprain
+__Occurrence: Common | Base Payment: $900__
+A sprain is a condition where a ligament surrounding a joint is taken beyond its functional range of motion, causing tears and sometimes to complete rupture of the affected ligaments.
+
+__Symptoms__
+
++ Shoulder Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Cannot be treated.
++ Shoulder Sprain (100% of cases | Low Hazard)
+    + Revealed with __an MRI scan__.
+    + Treated with __NSAIDs__.
++ Stiffness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __EMS__.
++ Warmth (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Swelling (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Spasms (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __spasmolytics__.
++ Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Bruise (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Limited Arm Motion (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
+
+## Simple Fracture of Clavicle
+__Occurrence: Common | Base Payment: $600__
+Fracture of the clavicle without damage to the surrounding tissues or breaking of the skin.
+
+__Symptoms__
+
++ Collarbone Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __emergency care__.
++ Clavicle Fracture (100% of cases | Low Hazard)
+    + Revealed with __a CT scan__.
+    + Treated with __an arm orthosis__.
++ Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Tenderness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Sagging Shoulder (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an arm orthosis__.
++ Swelling (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Redness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Nausea (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Dizziness (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
+
+## Simple Fracture of Femur
+__Occurrence: Common | Base Payment: $500__
+Fracture of the femur, the bone in the thigh, without damage to the surrounding tissues or breaking of the skin.
+
+__Symptoms__
+
++ Leg Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __bandage__.
++ Femur Fracture (100% of cases | Low Hazard)
+    + Revealed with __a lower limb X-ray__.
+    + Treated with __a leg cast__.
++ Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Limited Leg Motion (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Swelling (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Redness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Tenderness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Bruise (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
+
+## Simple Fracture of Fibula
+__Occurrence: Common | Base Payment: $500__
+Fracture of fibula, the thin bone in the lower leg, without damage to the surrounding tissues or breaking of the skin.
+
+__Symptoms__
+
++ Leg Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __bandage__.
++ Fibula Fracture (100% of cases | Low Hazard)
+    + Revealed with __a lower limb X-ray__.
+    + Treated with __a leg cast__.
++ Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Limited Leg Motion (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Swelling (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Redness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Tenderness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Bruise (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
+
+## Simple Fracture of Humerus
+__Occurrence: Common | Base Payment: $500__
+Fracture of humerus, the bone in the upper arm, without damage to the surrounding tissues or breaking of the skin.
+
+__Symptoms__
+
++ Arm Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __bandage__.
++ Humerus Fractured (100% of cases | Low Hazard)
+    + Revealed with __an upper limb X-ray__.
+    + Treated with __an arm cast__.
++ Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Limited Arm Motion (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Swelling (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Tenderness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Redness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Bruise (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
+
+## Simple Fracture of Radius
+__Occurrence: Common | Base Payment: $500__
+Fracture of radius, one of the two bones in the forearm, without damage to the surrounding tissues or breaking of the skin.
+
+__Symptoms__
+
++ Arm Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __bandage__.
++ Radius Fracture (100% of cases | Low Hazard)
+    + Revealed with __an upper limb X-ray__.
+    + Treated with __an arm cast__.
++ Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Limited Arm Motion (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Swelling (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Tenderness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Redness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Bruise (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
+
+## Simple Fracture of Tibia
+__Occurrence: Common | Base Payment: $500__
+Fracture of tibia, the large bone in the lower leg, without damage to the surrounding tissues or breaking of the skin.
+
+__Symptoms__
+
++ Leg Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __bandage__.
++ Tibia Fracture (100% of cases | Low Hazard)
+    + Revealed with __a lower limb X-ray__.
+    + Treated with __a leg cast__.
++ Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Limited Leg Motion (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Swelling (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Redness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Tenderness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Bruise (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
+
+## Simple Fracture of Ulna
+__Occurrence: Common | Base Payment: $500__
+Fracture of ulna, one of the two bones in the forearm, without damage to the surrounding tissues or breaking of the skin.
+
+__Symptoms__
+
++ Arm Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __bandage__.
++ Ulnar Fracture (100% of cases | Low Hazard)
+    + Revealed with __an upper limb X-ray__.
+    + Treated with __an arm cast__.
++ Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Limited Arm Motion (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Swelling (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Redness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Bruise (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Tenderness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
+
+## Spinal Stenosis
+__Occurrence: Uncommon | Base Payment: $700__
+Spinal stenosis refers to an abnormal narrowing of the spinal canal, which affects the spinal cord or nerve roots. It causes pain, discomfort and loss of mobility usually in the limbs corresponding to the level of the stenosis.
+
+__Symptoms__
+
++ Degenerative Findings (100% of cases | Low Hazard)
+    + Revealed with __an MRI scan__.
+    + Treated with __exercise__.
++ Neck Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Back Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Numbness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Walking Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Muscle Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
+
+## Spiral Fracture of Tibia
+__Occurrence: Common | Base Payment: $500__
+Special spiral fracture of tibia bone, with no damage to surrounding tissues.
+
+__Symptoms__
+
++ Leg Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __bandage__.
++ Tibia Spiral Fracture (100% of cases | Low Hazard)
+    + Revealed with __a lower limb X-ray__.
+    + Treated with __a leg cast__.
++ Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Limited Leg Motion (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Swelling (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Redness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Tenderness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Bruise (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
+
+## Spondylolisthesis
+__Occurrence: Uncommon | Base Payment: $800__
+Spondylolisthesis refers to a displaced vertebrae. Several conditions can cause spondylolisthesis; degenerative changes, trauma, congenital abnormalities, malignancy etc.
+
+__Symptoms__
+
++ Fractured and Dislocated Vertebra (100% of cases | Low Hazard)
+    + Revealed with __a back X-ray__.
+    + Treated with __Boston brace__.
++ Back Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Stiffness of the Back (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __EMS__.
++ Spasms (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __spasmolytics__.
++ Walking Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Poor Balance (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Numbness (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Weakness (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Waddling Gait (20% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
+
+## Spondylolysis
+__Occurrence: Common | Base Payment: $500__
+Spondylolysis is a defect, crack or stress fracture in one of the vertebrae, typically in the L5-S1 level. The condition can be painful. 
+
+__Symptoms__
+
++ Vertebral Stress Fracture (100% of cases | Low Hazard)
+    + Revealed with __an MRI scan__.
+    + Treated with __Boston brace__.
++ Back Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Tenderness (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Stiffness of the Back (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __EMS__.
+
+## Tennis Elbow
+__Occurrence: Common | Base Payment: $700__
+Tennis elbow, also known as lateral epicondylitis, is characterized by radiating pain from the outside of the elbow to the wrist. The condition is caused by performing repetitive movement and, thus, irritation of the muscles and tendons associated with said movement.
+
+__Symptoms__
+
++ Elbow Muscles Damaged (100% of cases | Low Hazard)
+    + Revealed with __an MRI scan__.
+    + Treated with __proliferation therapy__.
++ Tenderness (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Hand Pain (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Elbow Pain (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Limited Arm Motion (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Wrist Pain (30% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
+

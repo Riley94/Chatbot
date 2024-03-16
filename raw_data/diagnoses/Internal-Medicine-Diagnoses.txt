@@ -1,0 +1,2592 @@
+## Acute Mastoiditis
+__Occurrence: Common | Base Payment: $900__
+Mastoiditis refers to an infection and inflammation of the mastoid cells located in the mastoid process in the temporal bone (beneath the ear). 
+
+__Symptoms__
+
++ Mastoiditis Detected (100% of cases | Medium Hazard)
+    + Revealed with __a CT scan__.
+    + Treated with __IV antibiotics__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Irritability (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __tranquilizers__.
++ Ear Discharge (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __NSAIDs__.
++ Otalgia (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __analgesics__.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Swollen Ear Lobe (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Nausea (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Vomiting (30% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Diminished Hearing (20% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __audiometry__.
+    + Treated with __ear drops__.
+
+## American Trypanosomias
+__Occurrence: Uncommon | Base Payment: $1700__
+American trypanosomias also known as Chagas disease is serious infectious disease caused by the parasite Trypanosoma cruzi. If left untreated, it can lead to serious heart and digestive complications.
+
+__Symptoms__
+
++ Trypanosoma Detected (100% of cases | Medium Hazard | __Serious__)
+    + Revealed with __serologic testing__.
+    + Treated with __antiparasitic drugs__.
+    + Can lead to __exhaustion__ if left untreated for __6 to 24__ hours.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Muscle and Joint Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Headache (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Loss of Appetite (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Nausea (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Diarrhea (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __antidiarrheals__.
++ Vomiting (50% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Rash (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Irregular Heartbeat (30% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __beta blockers__.
+    + Can lead to __heart failure__ if left untreated for __4 to 24__ hours.
++ Abdominal Pain (30% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
+
+## Amoebiasis
+__Occurrence: Uncommon | Base Payment: $500__
+Amoebiasis is caused by Entamoeba histolytica, the infection spreads through water or food contaminated by feces.
+
+__Symptoms__
+
++ E. Histolytica Discovered (100% of cases | Low Hazard)
+    + Revealed with __microbial cultivation__.
+    + Treated with __antibiotics__.
++ Abdominal Cramps (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __spasmolytics__.
++ Diarrhea (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __antidiarrheals__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Vomiting (70% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Fatigue (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Excessive Belching (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Excessive Flatulence (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Weight Loss (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
+
+## Asbestosis
+__Occurrence: Uncommon | Base Payment: $2200__
+Asbestosis refers to a condition that is caused by microscopic asbestos mineral deposits in the lungs.
+
+__Symptoms__
+
++ Asbestosis Detected (100% of cases | High Hazard | __Serious__)
+    + Revealed with __a CT scan__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __respiratory failure__ if left untreated for __8 to 24__ hours.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Abnormal Lung Findings (70% of cases | Medium Hazard)
+    + Revealed with __a chest X-ray__.
+    + Treated with __NSAIDs__.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Irritable Cough (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ Elevated CRP (70% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Wheezing (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Cannot be treated.
+
+## ASOM
+__Occurrence: Common | Base Payment: $200__
+Acute suppurative otitis media is a very painful infection of the middle ear.
+
+__Symptoms__
+
++ Tympanic Membrane Inflammation (100% of cases | Low Hazard)
+    + Revealed with __an ear examination__.
+    + Treated with __antibiotics__.
++ Irritability (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __tranquilizers__.
++ Otalgia (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __analgesics__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Diminished Hearing (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __audiometry__.
+    + Treated with __ear drops__.
++ Swollen Ear Canal (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __ear drops__.
++ Ear Discharge (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __NSAIDs__.
++ Headache (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Diarrhea (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __antidiarrheals__.
+
+## Aspergillosis
+__Occurrence: Common | Base Payment: $2700__
+Aspergillosis is a respiratory disease caused by the fungus Aspergillus. If the patient has a weakened immune system, the invasive form of the disease spreads through the lungs. Infected lungs must undergo pulmonary surgery to clear the infection.
+
+__Symptoms__
+
++ Aspergilloma Discovered (100% of cases | Medium Hazard)
+    + Revealed with __a CT scan__.
+    + Treated with __antimycotics__.
++ Hemoptysis (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Sputum Cough (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __mucolytics__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Chills (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antipyretics__.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Fatigue (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Headache (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Weight Loss (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Dyspnea (50% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __respiratory failure__ if left untreated for __1 to 24__ hours.
++ Abnormal Lung Findings (30% of cases | Medium Hazard)
+    + Revealed with __a chest X-ray__.
+    + Treated with __NSAIDs__.
++ Pleural Effusion (10% of cases | High Hazard | __Serious__)
+    + Revealed with __a chest X-ray__, __an MRI scan__, or __a CT scan__.
+    + Treated with __thoracentesis__.
+    + Can lead to __respiratory failure__ if left untreated for __8 to 24__ hours.
+
+## Asthma
+__Occurrence: Common | Base Payment: $200__
+Asthma refers to a condition where the airways narrow, swell and produce extra mucus. It is a chronic respiratory disease and symptoms may vary from person to person and can be due to allergy.
+
+__Symptoms__
+
++ Bronchial Hyperreactivity (100% of cases | High Hazard | __Serious__)
+    + Revealed with __spirometry__.
+    + Treated with __bronchodilators__.
+    + Can lead to __dyspnea__ if left untreated for __6 to 24__ hours.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Sleeping Problems (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __sleeping drugs__.
++ Wheezing (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Cannot be treated.
++ Irritable Cough (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ Chest Pain (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Anxiety (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __anxiolytics__.
+
+## Atopic Dermatitis
+__Occurrence: Common | Base Payment: $200__
+Atopic dermatitis or eczema refers to a condition that makes skin reddish and itchy. It is chronic skin disease.
+
+__Symptoms__
+
++ Atopic Eczema Findings (100% of cases | Low Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __corticosteroids__.
++ Redness of Skin (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Itching (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihistamines__.
++ Petechiae (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Rash On Arm (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Rash On Leg (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Rash On Neck (20% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Rash On Torso (20% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
+
+## Babesiosis
+__Occurrence: Uncommon | Base Payment: $500__
+Babesiosis is parasitic disease caused by the parasite Babesia. It is comparable to malaria. It spreads through ticks and often presents with Lyme disease.
+
+__Symptoms__
+
++ Babesios Detected (100% of cases | Medium Hazard)
+    + Revealed with __PCR testing__.
+    + Treated with __IV antibiotics__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Malaise (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Chills (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antipyretics__.
++ Headache (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Nausea (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Abdominal Pain (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
++ Dry Cough (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
+
+## Bronchiectasis
+__Occurrence: Common | Base Payment: $800__
+Bronchiectasis is a condition where the large airways in the lungs are damaged and enlarged.
+
+__Symptoms__
+
++ Airway Infecton (100% of cases | Low Hazard)
+    + Revealed with __microbial cultivation__.
+    + Treated with __antibiotics__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Sputum Cough (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __mucolytics__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Hemoptysis (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Wheezing (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Cannot be treated.
++ Fever (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Weight Loss (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ A1at Deficiency (50% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __A1AT replacement__.
++ Pale Skin (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __B-complex supplement__.
++ Leukocytosis (40% of cases | Medium Hazard)
+    + Revealed with __CBC testing__.
+    + Cannot be treated.
++ Bad Breath (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __antiseptics__.
++ Bacteremia (20% of cases | High Hazard | __Serious__)
+    + Revealed with __ICU blood analysis__ or __microbial cultivation__.
+    + Treated with __IV antibiotics__.
+    + Can lead to __septic shock__ if left untreated for __6 to 24__ hours.
+
+## Bronchopneumonia
+__Occurrence: Common | Base Payment: $1500__
+Bronchopneumonia is a type of pneumonia mainly affecting the bronchi.
+
+__Symptoms__
+
++ Lung Tissue Findings (100% of cases | Medium Hazard)
+    + Revealed with __a CT scan__.
+    + Treated with __IV antibiotics__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Muscle and Joint Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Sweating (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anticholinergics__.
++ Night Sweats (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __NSAIDs__.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Chills (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antipyretics__.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Sputum Cough (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __mucolytics__.
++ Elevated CRP (60% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Confusion (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __tranquilizers__.
++ Cyanosis (40% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __oxygen therapy__.
++ Leukocytosis (30% of cases | Medium Hazard)
+    + Revealed with __CBC testing__.
+    + Cannot be treated.
++ Exhaustion (20% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__.
+    + Treated with __IV infusion__.
+    + Can lead to __coma__ if left untreated for __1 to 24__ hours.
++ Bacteremia (20% of cases | High Hazard | __Serious__)
+    + Revealed with __ICU blood analysis__ or __microbial cultivation__.
+    + Treated with __IV antibiotics__.
+    + Can lead to __septic shock__ if left untreated for __6 to 24__ hours.
++ Pleural Effusion (20% of cases | High Hazard | __Serious__)
+    + Revealed with __a chest X-ray__, __an MRI scan__, or __a CT scan__.
+    + Treated with __thoracentesis__.
+    + Can lead to __respiratory failure__ if left untreated for __8 to 24__ hours.
+
+## Cat-Scratch Disease
+__Occurrence: Rare | Base Payment: $600__
+Cat-scratch disease is a common infectious disease caused by Bartonella henselae. It is transmitted by cats, through the cat's scratch or bite. Presence of the bacteria in humans is hard to detect by traditional bacterial cultivation because growth takes up to 6 weeks.
+
+__Symptoms__
+
++ B. Henselae Detected (100% of cases | High Hazard | __Serious__)
+    + Revealed with __PCR testing__.
+    + Treated with __antibiotics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Swollen Lymph Nodes (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Muscle and Joint Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Back Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Malaise (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Loss of Appetite (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Abdominal Pain (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
++ Irregular Heartbeat (30% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __beta blockers__.
+    + Can lead to __heart failure__ if left untreated for __4 to 24__ hours.
+
+## Cellulitis
+__Occurrence: Common | Base Payment: $300__
+Cellulitis is a common bacterial infection of the skin caused mostly by streptococci and staphylococci species.
+
+__Symptoms__
+
++ Strep Skin Infection (100% of cases | Low Hazard)
+    + Revealed with __microbial cultivation__.
+    + Treated with __antibiotics__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Chills (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antipyretics__.
++ Swollen Lymph Nodes (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Redness of Skin (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Rash (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Painful Vesicular Rash (30% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __numbing ointment__.
+
+## Chlorine Gas Poisoning
+__Occurrence: Common | Base Payment: $1900__
+Chlorine gas poisoning is a condition resulting from the inhalation of chlorine gas.
+
+__Symptoms__
+
++ Chlorine Detected (100% of cases | High Hazard | __Serious__)
+    + Revealed with __a blood test__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __respiratory failure__ if left untreated for __6 to 24__ hours.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Sore Throat (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __analgesics__.
++ Sneezing (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Irritable Cough (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ Red Eye (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Rash (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Nausea (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Vomiting (70% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Elevated CK (70% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Cannot be treated.
++ Respiratory Failure (20% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __artificial ventilation__.
+    + Can lead to __death__ if left untreated for __0.1 to 0.5__ hours.
+
+## Cholera
+__Occurrence: Rare | Base Payment: $1000__
+Cholera is a bacterial disease that usually spread through contaminated water. Modern sewage and water treatment eliminated cholera in industrialized countries.
+
+__Symptoms__
+
++ Vibrio Cholerae Detected (100% of cases | Medium Hazard)
+    + Revealed with __microbial cultivation__.
+    + Treated with __IV antibiotics__.
++ Diarrhea (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __antidiarrheals__.
++ Dehydration (80% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __rehydration__.
+    + Can lead to __exhaustion__ if left untreated for __1 to 24__ hours.
++ Vomiting (70% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Hypotension (70% of cases | Low Hazard)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __diet modification__.
++ Cramps (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Irritability (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __tranquilizers__.
++ Thirst (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rehydration__.
++ Oliguria (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Irregular Heartbeat (30% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __beta blockers__.
+    + Can lead to __heart failure__ if left untreated for __4 to 24__ hours.
+
+## Cholesteatoma
+__Occurrence: Common | Base Payment: $1700__
+Cholesteatoma is an noncancerous skin growth, often caused by repeated middle ear infections.
+
+__Symptoms__
+
++ Cholesteatoma Discovered (100% of cases | Medium Hazard)
+    + Revealed with __a CT scan__.
+    + Treated with __MIEP__.
++ Hearing Problems (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __audiometry__.
+    + Treated with __ear drops__.
++ Diminished Hearing (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __audiometry__.
+    + Treated with __ear drops__.
++ Tinnitus (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __recommendations__.
++ Swollen Ear Canal (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __ear drops__.
++ Otalgia (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __analgesics__.
+
+## Chylothorax
+__Occurrence: Common | Base Payment: $2100__
+Chylothorax refers to a condition when lymphatic fluid is accumulated in the pleural space.
+
+__Symptoms__
+
++ Chylothorax Detected (100% of cases | High Hazard | __Serious__)
+    + Revealed with __a chest X-ray__.
+    + Treated with __thoracentesis__.
+    + Can lead to __respiratory failure__ if left untreated for __8 to 24__ hours.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Malaise (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Pleural Effusion (70% of cases | High Hazard | __Serious__)
+    + Revealed with __a chest X-ray__, __an MRI scan__, or __a CT scan__.
+    + Treated with __thoracentesis__.
+    + Can lead to __respiratory failure__ if left untreated for __8 to 24__ hours.
++ Irritable Cough (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
+
+## Ciguatera
+__Occurrence: Common | Base Payment: $1200__
+Ciguatera fish poisoning, also known as ciguatera is a food-borne disease caused by ingestion of fish flesh contaminated by certain toxins.
+
+__Symptoms__
+
++ Ciguatoxin Detected (100% of cases | Medium Hazard)
+    + Revealed with __a blood test__.
+    + Treated with __mannitol doses__.
++ Diarrhea (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __antidiarrheals__.
++ Vomiting (70% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Numbness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Tachycardia (60% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Hypotension (60% of cases | Low Hazard)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __diet modification__.
++ Itching (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihistamines__.
++ Dizziness (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Weakness (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
+
+## CO Poisoning
+__Occurrence: Common | Base Payment: $1700__
+Carbon monoxide poisoning occurs from inhaling too much carbon monoxide.
+
+__Symptoms__
+
++ Cohb High Level (100% of cases | High Hazard | __Serious__)
+    + Revealed with __a blood test__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __dyspnea__ if left untreated for __6 to 24__ hours.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Nausea (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Malaise (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Tachycardia (70% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Hallucinations (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an EEG__.
+    + Treated with __antipsychotics__.
++ Muscle Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Loss of Vision (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __ophthalmoscopy__.
+    + Cannot be treated.
++ Irregular Heartbeat (50% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __beta blockers__.
+    + Can lead to __heart failure__ if left untreated for __4 to 24__ hours.
++ Respiratory Failure (20% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __artificial ventilation__.
+    + Can lead to __death__ if left untreated for __0.1 to 0.5__ hours.
+
+## COPD
+__Occurrence: Uncommon | Base Payment: $1200__
+Chronic obstructive pulmonary disease - COPD is a chronic inflammatory lung disease that results in obstructed airways in the lungs.
+
+__Symptoms__
+
++ Obstructed Airways (100% of cases | Medium Hazard | __Serious__)
+    + Revealed with __spirometry__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __dyspnea__ if left untreated for __6 to 24__ hours.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Sputum Cough (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __mucolytics__.
++ Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Wheezing (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Cannot be treated.
++ Weight Loss (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Elevated CRP (50% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Anxiety (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __anxiolytics__.
++ A1at Deficiency (50% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __A1AT replacement__.
++ Dyspnea (50% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __respiratory failure__ if left untreated for __1 to 24__ hours.
++ Cyanosis (40% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __oxygen therapy__.
++ Irregular Heartbeat (30% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __beta blockers__.
+    + Can lead to __heart failure__ if left untreated for __4 to 24__ hours.
+
+## Croup
+__Occurrence: Uncommon | Base Payment: $300__
+Croup is also known as laryngotracheobronchitis and it is usually caused by a virus, rarely by a bacterial infection.
+
+__Symptoms__
+
++ Croup Present (100% of cases | Low Hazard)
+    + Revealed with __an evaluation__.
+    + Treated with __corticosteroids__.
++ Irritable Cough (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ Sore Throat (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __analgesics__.
++ Nasal Congestion (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __nasal drops__.
++ Hoarseness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __NSAIDs__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Fever (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
+
+## Cystic Fibrosis
+__Occurrence: Uncommon | Base Payment: $900__
+Cystic fibrosis is an inherited disease that results in serious damage to the lungs due to recurrent pneumonias. Cystic fibrosis also results in a decreased uptake of nutrients from the gastrointestinal tract.
+
+__Symptoms__
+
++ High Chloride Level (100% of cases | Medium Hazard)
+    + Revealed with __a sweat chloride test__.
+    + Treated with __IV antibiotics__.
++ Sputum Cough (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __mucolytics__.
++ Wheezing (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Cannot be treated.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Constipation (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __purgatives__.
++ Tenderness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Weight Loss (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Hemoptysis (20% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Osteoporosis (20% of cases | Low Hazard)
+    + Revealed with __a CT scan__.
+    + Treated with __bone strengthening pills__.
+
+## Diabetes
+__Occurrence: Common | Base Payment: $600__
+Diabetes mellitus refers to a group of diseases that affect the metabolism of glucose. There are many types of diabetes, but generally there are too high levels of glucose in the blood.
+
+__Symptoms__
+
++ High Sugar Level (100% of cases | Low Hazard)
+    + Revealed with __a blood test__.
+    + Treated with __insulin therapy__.
++ Polyuria (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Cannot be treated.
++ Hunger (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __diet modification__.
++ Thirst (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rehydration__.
++ Weight Loss (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Irritability (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __tranquilizers__.
++ Hyperlipidemia (60% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __diet modification__.
++ Atherosclerosis (20% of cases | High Hazard | __Serious__)
+    + Revealed with __an urgent echocardiogram__ or __an echocardiogram__.
+    + Treated with __ACE inhibitors__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
+
+## Emphysema
+__Occurrence: Rare | Base Payment: $900__
+Emphysema refers to a condition when the alveoli - the air sacs - are damaged or destroyed, causing shortness of breath, even in states of relaxation.
+
+__Symptoms__
+
++ Emphysema Discovered (100% of cases | Medium Hazard)
+    + Revealed with __a CT scan__.
+    + Treated with __oxygen therapy__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Anxiety (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __anxiolytics__.
++ A1at Deficiency (50% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __A1AT replacement__.
++ Chest Pain (20% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Pleural Effusion (20% of cases | High Hazard | __Serious__)
+    + Revealed with __a chest X-ray__, __an MRI scan__, or __a CT scan__.
+    + Treated with __thoracentesis__.
+    + Can lead to __respiratory failure__ if left untreated for __8 to 24__ hours.
+
+## Essential Thrombocythemia
+__Occurrence: Common | Base Payment: $900__
+Essential thrombocythemia refers to an uncommon condition when patient's body produces much more platelets than necessary.
+
+__Symptoms__
+
++ Thrombocythemia (100% of cases | High Hazard | __Serious__)
+    + Revealed with __CBC testing__.
+    + Treated with __hydroxyurea__.
+    + Can lead to __heart failure__ if left untreated for __8 to 24__ hours.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Dizziness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Numbness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Redness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Nosebleed (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Slurred Speech (70% of cases | Low Hazard)
+    + Revealed with __speech listening__.
+    + Cannot be treated.
++ Blurred Vision (70% of cases | Low Hazard)
+    + Revealed with __an interview__, __a basic visual test__, or __ophthalmoscopy__.
+    + Treated with __eye drops__.
+
+## Giardiasis
+__Occurrence: Uncommon | Base Payment: $300__
+Giardia infection is one of the most common waterborne intestinal infections. Giardias can be transmitted through direct contact with infected individuals or by ingesting contaminated food.
+
+__Symptoms__
+
++ Giardia Lamblia Detected (100% of cases | Low Hazard)
+    + Revealed with __microbial cultivation__.
+    + Treated with __antibiotics__.
++ Diarrhea (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __antidiarrheals__.
++ Abdominal Cramps (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __spasmolytics__.
++ Nausea (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Tenderness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Weight Loss (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Fatigue (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Malaise (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Excessive Flatulence (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Dehydration (60% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __rehydration__.
+    + Can lead to __exhaustion__ if left untreated for __1 to 24__ hours.
+
+## Hemolytic Anemia
+__Occurrence: Common | Base Payment: $700__
+Hemolytic anemia happens due to hemolysis, an abnormal breakdown of red blood cells in the blood vessels or elsewhere in the human body.
+
+__Symptoms__
+
++ Haptoglobin - Low Levels (100% of cases | Medium Hazard)
+    + Revealed with __a blood test__.
+    + Treated with __blood transfusion__.
++ Jaundice (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __vitamin supplementation__.
++ Dark Urine (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __urine analysis testing__.
+    + Treated with __rehydration__.
++ Fatigue (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Weakness (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Breathing Problems (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Fever (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Confusion (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __tranquilizers__.
++ Dizziness (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Pale Skin (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __B-complex supplement__.
++ Chest Pain (30% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
+
+## Hemophilia
+__Occurrence: Common | Base Payment: $800__
+Hemophilia is an inherited disease that causes low levels of clotting factors. Without sufficient levels of clotting factors, the blood does not clot properly which leads to excessive bleeding.
+
+__Symptoms__
+
++ Clotting Factor Low (100% of cases | Medium Hazard)
+    + Revealed with __a blood test__.
+    + Treated with __desmopressin__.
++ Purpura (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __corticosteroids__.
++ Muscle and Joint Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Prolonged Bleeding (60% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __2 to 5__ hours.
++ Hematuria (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __urine analysis testing__.
+    + Treated with __antibiotics__.
++ Hematochezia (50% of cases | Medium Hazard)
+    + Revealed with __stool analysis__.
+    + Treated with __recommendations__.
+
+## Hemothorax
+__Occurrence: Common | Base Payment: $1800__
+Hemothorax is an accumulation of blood within the pleural cavity and is commonly caused by a chest injury.
+
+__Symptoms__
+
++ Chest Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __emergency care__.
++ Hemothorax Discovered (100% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __thoracentesis__.
+    + Can lead to __respiratory failure__ if left untreated for __6 to 24__ hours.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Tachycardia (70% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Dizziness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Cyanosis (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __oxygen therapy__.
++ Dyspnea (50% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __respiratory failure__ if left untreated for __1 to 24__ hours.
+
+## Histoplasmosis 
+__Occurrence: Rare | Base Payment: $600__
+Histoplasmosis also called Cave Disease is respiratory disease caused by the fungus Histoplasma Capsulatum that mainly affects the lungs. Symptoms vary greatly. Past infection creates partial immunity. 
+
+__Symptoms__
+
++ Histoplasma Detected (100% of cases | Low Hazard)
+    + Revealed with __PCR testing__.
+    + Treated with __antimycotics__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Irritable Cough (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Sputum Cough (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __mucolytics__.
++ Fatigue (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Chills (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antipyretics__.
++ Muscle and Joint Pain (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Breathing Problems (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Headache (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Painful Lymph Nodes (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __analgesics__.
++ Abnormal Lung Findings (30% of cases | Medium Hazard)
+    + Revealed with __a chest X-ray__.
+    + Treated with __NSAIDs__.
+
+## Infectious Mononucleosis
+__Occurrence: Common | Base Payment: $900__
+Infectious mononucleosis is usually caused by EBV - Epstein-Barr Virus - people usually get infected in their childhood. There is no vaccine for the disease. In the 1920's it was described as "the kissing disease".
+
+__Symptoms__
+
++ EBV Detected (100% of cases | Medium Hazard)
+    + Revealed with __serologic testing__.
+    + Treated with __corticosteroids__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Sore Throat (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __analgesics__.
++ Swollen Lymph Nodes (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Muscle and Joint Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Night Sweats (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __NSAIDs__.
++ Headache (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Purpura (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __corticosteroids__.
++ Weakness (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Fatigue (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Dysphagia (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __diet modification__.
++ Petechiae (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Abnormal Lung Findings (30% of cases | Medium Hazard)
+    + Revealed with __a chest X-ray__.
+    + Treated with __NSAIDs__.
+
+## Lead Poisoning
+__Occurrence: Common | Base Payment: $1500__
+Lead poisoning is a type of metal poisoning caused by the accumulation of lead in the body.
+
+__Symptoms__
+
++ Lead Levels High (100% of cases | High Hazard | __Serious__)
+    + Revealed with __a blood test__.
+    + Treated with __chelation therapy__.
+    + Can lead to __heart failure__ if left untreated for __6 to 12__ hours.
++ Abdominal Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Sleeping Problems (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __sleeping drugs__.
++ Tremor (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __beta blockers__.
++ Hallucinations (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an EEG__.
+    + Treated with __antipsychotics__.
++ Malaise (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Muscle Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
+
+## Legionnaires Disease
+__Occurrence: Uncommon | Base Payment: $600__
+Legionnaires disease is caused by the bacterium Legionella pneumophila. The disease develops into a severe form of pneumonia, transmitting through person to person. Untreated Legionnaires diseases are usually fatal.
+
+__Symptoms__
+
++ Legionella Detected (100% of cases | High Hazard | __Serious__)
+    + Revealed with __PCR testing__.
+    + Treated with __IV antibiotics__.
+    + Can lead to __septic shock__ if left untreated for __6 to 24__ hours.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Chills (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antipyretics__.
++ High Fever (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
+    + Can lead to __exhaustion__ if left untreated for __2 to 8__ hours.
++ Sputum Cough (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __mucolytics__.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Confusion (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __tranquilizers__.
++ Hemoptysis (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Muscle and Joint Pain (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Nausea (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Diarrhea (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __antidiarrheals__.
++ Vomiting (50% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
+
+## Lung Contusion
+__Occurrence: Common | Base Payment: $1300__
+Blunt injury or physical trauma to the chest by either by impact or physical attack resulting in pulmonary contusion.
+
+__Symptoms__
+
++ Chest Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __emergency care__.
++ Blunt Pulmonary Contusion (100% of cases | Medium Hazard)
+    + Revealed with __a CT scan__.
+    + Treated with __oxygen therapy__.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Cyanosis (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __oxygen therapy__.
++ Wheezing (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Cannot be treated.
++ Hemoptysis (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Tachycardia (70% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Hypotension (70% of cases | Low Hazard)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __diet modification__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Dyspnea (50% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __respiratory failure__ if left untreated for __1 to 24__ hours.
++ Pleural Effusion (20% of cases | High Hazard | __Serious__)
+    + Revealed with __a chest X-ray__, __an MRI scan__, or __a CT scan__.
+    + Treated with __thoracentesis__.
+    + Can lead to __respiratory failure__ if left untreated for __8 to 24__ hours.
+
+## Lupus
+__Occurrence: Rare | Base Payment: $1100__
+Lupus is a systemic autoimmune disease. It is very difficult to diagnose.
+
+__Symptoms__
+
++ Lupus Findings (100% of cases | Medium Hazard)
+    + Revealed with __an evaluation__.
+    + Treated with __IV corticosteroids__.
++ Muscle and Joint Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Elevated CRP (60% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Tenderness (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Fatigue (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Hematuria (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __urine analysis testing__.
+    + Treated with __antibiotics__.
++ Proteinuria (50% of cases | Low Hazard)
+    + Revealed with __urine analysis testing__.
+    + Treated with __ACE inhibitors__.
++ Dizziness (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Confusion (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __tranquilizers__.
++ Chest Pain (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Fever (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Headache (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Breathing Problems (45% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Cyanosis (40% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __oxygen therapy__.
++ Leukopenia (40% of cases | Medium Hazard)
+    + Revealed with __CBC testing__.
+    + Cannot be treated.
++ Butterfly Rash (30% of cases | Low Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __corticosteroids__.
++ Anemia (30% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __vitamin supplementation__.
++ Bradycardia (20% of cases | Medium Hazard)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __IV atropine__.
++ Irregular Heartbeat (20% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __beta blockers__.
+    + Can lead to __heart failure__ if left untreated for __4 to 24__ hours.
+
+## Lyme Disease
+__Occurrence: Uncommon | Base Payment: $1000__
+Lyme disease is caused by the bite of a deer tick or back-legged tick. It can transfer a bacteria, Borrelia burgdorferi, which directly causes disease.
+
+__Symptoms__
+
++ Borrelia Antibodies Detected (100% of cases | High Hazard | __Serious__)
+    + Revealed with __serologic testing__.
+    + Treated with __IV antibiotics__.
+    + Can lead to __fainting__ if left untreated for __6 to 24__ hours.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Muscle and Joint Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Fatigue (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Swollen Lymph Nodes (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Rash (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Vomiting (50% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Breathing Problems (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Leukopenia (20% of cases | Medium Hazard)
+    + Revealed with __CBC testing__.
+    + Cannot be treated.
++ Irregular Heartbeat (20% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __beta blockers__.
+    + Can lead to __heart failure__ if left untreated for __4 to 24__ hours.
+
+## Meniere's Disease
+__Occurrence: Common | Base Payment: $300__
+Meniere's disease is an inner ear disorder that is characterized by a vertigo with unclear cause.
+
+__Symptoms__
+
++ Meniere's Disease (100% of cases | Low Hazard)
+    + Revealed with __an evaluation__.
+    + Treated with __diuretics__.
++ Hearing Problems (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __audiometry__.
+    + Treated with __ear drops__.
++ Tinnitus (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __recommendations__.
++ Nausea (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Vomiting (50% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Sweating (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anticholinergics__.
++ Anxiety (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __anxiolytics__.
++ Frequent Falling (40% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
+
+## Methanol Poisoning
+__Occurrence: Common | Base Payment: $1100__
+Methanol ingestion leads to an uncommon poisoning that can cause severe metabolic disturbances, blindness, permanent neurological dysfunction and death.
+
+__Symptoms__
+
++ Formate - Toxic Levels (100% of cases | High Hazard | __Serious__)
+    + Revealed with __a blood test__.
+    + Treated with __ethanol treatment__.
+    + Can lead to __respiratory failure__ if left untreated for __6 to 24__ hours.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Dizziness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Loss of Vision (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __ophthalmoscopy__.
+    + Cannot be treated.
++ Acidosis (70% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __IV infusion__.
++ Confusion (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __tranquilizers__.
++ Coma (30% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __life support__.
+    + Can lead to __death__ if left untreated for __1 to 24__ hours.
+
+## Miliaria
+__Occurrence: Common | Base Payment: $200__
+Miliaria, also called "sweat rash", is a skin disease, common in hot and humid conditions.
+
+__Symptoms__
+
++ Heat Rash (100% of cases | Low Hazard)
+    + Revealed with __an evaluation__.
+    + Treated with __steroid cream__.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Malaise (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Rash On Neck (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Rash On Arm (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Rash On Torso (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Tenderness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Sweating (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anticholinergics__.
++ Swollen Lymph Nodes (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Redness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
+
+## Mumps
+__Occurrence: Uncommon | Base Payment: $300__
+Mumps also known as Parotitis, is an inflammatory, infectious disease affecting the parotid glands (on one or on both sides of the head). The inflammation is caused by bacterial or viral agents. It is best prevented by vaccination.
+
+__Symptoms__
+
++ Parotid Infection (100% of cases | Low Hazard)
+    + Revealed with __serologic testing__.
+    + Treated with __antibiotics__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Swollen Lymph Nodes (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Headache (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Swallow Pain (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Muscle and Joint Pain (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Loss of Appetite (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Diminished Hearing (20% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __audiometry__.
+    + Treated with __ear drops__.
+
+## Nasal Polyp
+__Occurrence: Common | Base Payment: $1800__
+Nasal polyp is a non-cancerous growth in the nasal cavity.
+
+__Symptoms__
+
++ Nasal Polyps Detected (100% of cases | Low Hazard)
+    + Revealed with __a CT scan__.
+    + Treated with __MIEP__.
++ Nasal Congestion (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __nasal drops__.
++ Sneezing (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
+
+## Otitis Externa
+__Occurrence: Common | Base Payment: $200__
+Otitis externa is the inflammation of the outer part of the ear canal, it is caused mostly by bacteria.
+
+__Symptoms__
+
++ Ear Canal Infected (100% of cases | Medium Hazard)
+    + Revealed with __an ear examination__.
+    + Treated with __antibiotics__.
++ Otalgia (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __analgesics__.
++ Tinnitus (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __recommendations__.
++ Edema (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diuretics__.
++ Hearing Problems (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __audiometry__.
+    + Treated with __ear drops__.
++ Itching (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihistamines__.
++ Swollen Ear Canal (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __ear drops__.
++ Fever (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
+
+## Otitis Media
+__Occurrence: Common | Base Payment: $200__
+Otitis media with effusion is a condition where fluid is present in the middle ear due to infection or inflammation following an infection. It usually affects children.
+
+__Symptoms__
+
++ Fluid In the Middle Ear (100% of cases | Low Hazard)
+    + Revealed with __an ear examination__.
+    + Treated with __ear drops__.
++ Edema (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diuretics__.
++ Diminished Hearing (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __audiometry__.
+    + Treated with __ear drops__.
++ Hearing Problems (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __audiometry__.
+    + Treated with __ear drops__.
++ Swollen Ear Canal (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __ear drops__.
+
+## Otorrhea
+__Occurrence: Common | Base Payment: $200__
+Otorrhea is basically an inflammation of the ear.
+
+__Symptoms__
+
++ Outer Ear Infection (100% of cases | Low Hazard)
+    + Revealed with __an ear examination__.
+    + Treated with __antibiotics__.
++ Hearing Problems (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __audiometry__.
+    + Treated with __ear drops__.
++ Otalgia (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __analgesics__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Swollen Ear Lobe (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Ear Discharge (30% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __NSAIDs__.
++ Swollen Ear Canal (30% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __ear drops__.
+
+## Otosclerosis
+__Occurrence: Common | Base Payment: $2900__
+Otosclerosis refers to abnormal hardening of the bone tissue near the middle ear causing inability to transfer sounds from the middle ear to the inner ear; resulting in loss of hearing.
+
+__Symptoms__
+
++ Otosclerosis Discovered (100% of cases | Medium Hazard)
+    + Revealed with __a CT scan__.
+    + Treated with __MIEP__.
++ Tinnitus (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __recommendations__.
++ Dizziness (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Hearing Problems (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __audiometry__.
+    + Treated with __ear drops__.
++ Diminished Hearing (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __audiometry__.
+    + Treated with __ear drops__.
+
+## Parapneumonic Effucion
+__Occurrence: Common | Base Payment: $2100__
+Parapneumonic effusion refers to a condition that arises as a result of pneumonia, bronchiectasis or a lung abscess.
+
+__Symptoms__
+
++ Pleural Transudate (100% of cases | Medium Hazard)
+    + Revealed with __an MRI scan__.
+    + Treated with __thoracentesis__.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Abnormal Lung Findings (70% of cases | Medium Hazard)
+    + Revealed with __a chest X-ray__.
+    + Treated with __NSAIDs__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Irritable Cough (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ High Fever (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
+    + Can lead to __exhaustion__ if left untreated for __2 to 8__ hours.
++ Pleural Effusion (50% of cases | High Hazard | __Serious__)
+    + Revealed with __a chest X-ray__, __an MRI scan__, or __a CT scan__.
+    + Treated with __thoracentesis__.
+    + Can lead to __respiratory failure__ if left untreated for __8 to 24__ hours.
+
+## Pertussis
+__Occurrence: Uncommon | Base Payment: $600__
+Pertussis also known as Whooping Cough is a contagious respiratory disease. It is caused by the bacteria Bordetella pertussis. Before the development of a vaccine, pertussis was considered a childhood disease. Now it affects people whose immunedefense is weakened.
+
+__Symptoms__
+
++ B. Pertussis Detected (100% of cases | Medium Hazard)
+    + Revealed with __microbial cultivation__.
+    + Treated with __IV antibiotics__.
++ Nasal Congestion (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __nasal drops__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Sputum Cough (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __mucolytics__.
++ Red Eye (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Vomiting (50% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Irritable Cough (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ Dehydration (30% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __rehydration__.
+    + Can lead to __exhaustion__ if left untreated for __1 to 24__ hours.
+
+## Pleural Empyema
+__Occurrence: Common | Base Payment: $2500__
+Pleural empyema refers to an accumulation of pus in the pleural cavity, caused by a bacterial infection.
+
+__Symptoms__
+
++ Pleural Fluid Infected (100% of cases | High Hazard | __Serious__)
+    + Revealed with __biopsy testing__.
+    + Treated with __IV antibiotics__.
+    + Can lead to __septic shock__ if left untreated for __12 to 24__ hours.
++ Irritable Cough (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Pleural Effusion (70% of cases | High Hazard | __Serious__)
+    + Revealed with __a chest X-ray__, __an MRI scan__, or __a CT scan__.
+    + Treated with __thoracentesis__.
+    + Can lead to __respiratory failure__ if left untreated for __8 to 24__ hours.
++ Abnormal Lung Findings (70% of cases | Medium Hazard)
+    + Revealed with __a chest X-ray__.
+    + Treated with __NSAIDs__.
++ Dyspnea (50% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __respiratory failure__ if left untreated for __1 to 24__ hours.
+
+## Pleurisy
+__Occurrence: Common | Base Payment: $2700__
+Pleurisy refers to a condition when the membranes surrounding lungs become inflamed.
+
+__Symptoms__
+
++ Bacterial Infection Detected (100% of cases | High Hazard | __Serious__)
+    + Revealed with __PCR testing__.
+    + Treated with __IV antibiotics__.
+    + Can lead to __septic shock__ if left untreated for __8 to 24__ hours.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Irritable Cough (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Weight Loss (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Chills (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antipyretics__.
++ Tachycardia (70% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Sore Throat (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __analgesics__.
++ Muscle Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Swelling Joints (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anti-inflammatory cream__.
++ Pleural Effusion (70% of cases | High Hazard | __Serious__)
+    + Revealed with __a chest X-ray__, __an MRI scan__, or __a CT scan__.
+    + Treated with __thoracentesis__.
+    + Can lead to __respiratory failure__ if left untreated for __8 to 24__ hours.
++ Loss of Appetite (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
+
+## Pneumonia
+__Occurrence: Common | Base Payment: $1500__
+Pneumonia is an infection of the lungs. Pneumonia can either be mild or life threatening.
+
+__Symptoms__
+
++ Pneumonic Lungs (100% of cases | High Hazard | __Serious__)
+    + Revealed with __a chest X-ray__.
+    + Treated with __IV antibiotics__.
+    + Can lead to __respiratory failure__ if left untreated for __6 to 24__ hours.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Abnormal Lung Findings (70% of cases | Medium Hazard)
+    + Revealed with __a chest X-ray__.
+    + Treated with __NSAIDs__.
++ Elevated CRP (70% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Chills (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antipyretics__.
++ Sweating (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anticholinergics__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Sputum Cough (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __mucolytics__.
++ Nausea (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Fatigue (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Exhaustion (50% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__.
+    + Treated with __IV infusion__.
+    + Can lead to __coma__ if left untreated for __1 to 24__ hours.
++ Confusion (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __tranquilizers__.
++ Tremor (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __beta blockers__.
++ Cyanosis (40% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __oxygen therapy__.
++ Leukocytosis (30% of cases | Medium Hazard)
+    + Revealed with __CBC testing__.
+    + Cannot be treated.
++ Muscle Weakness (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Bacteremia (20% of cases | High Hazard | __Serious__)
+    + Revealed with __ICU blood analysis__ or __microbial cultivation__.
+    + Treated with __IV antibiotics__.
+    + Can lead to __septic shock__ if left untreated for __6 to 24__ hours.
++ Pleural Effusion (20% of cases | High Hazard | __Serious__)
+    + Revealed with __a chest X-ray__, __an MRI scan__, or __a CT scan__.
+    + Treated with __thoracentesis__.
+    + Can lead to __respiratory failure__ if left untreated for __8 to 24__ hours.
+
+## Pneumothorax
+__Occurrence: Common | Base Payment: $3600__
+Collapsed lung, also called pneumothorax, occurs when air escapes the lung, filling the space between the lung and the chest wall, preventing expansion of the affected lung.
+
+__Symptoms__
+
++ Collapsed Lung (100% of cases | High Hazard | __Serious__)
+    + Revealed with __a chest X-ray__.
+    + Treated with __thoracentesis__.
+    + Can lead to __respiratory failure__ if left untreated for __1 to 8__ hours.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Pale Skin (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __B-complex supplement__.
++ Cyanosis (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __oxygen therapy__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Tachycardia (70% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Wheezing (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Cannot be treated.
++ Dyspnea (50% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __respiratory failure__ if left untreated for __1 to 24__ hours.
+
+## Poison Ivy Rash
+__Occurrence: Common | Base Payment: $200__
+Poison ivy rash is an allergic reaction to resin urushiol that is located in the leaves, stems and roots of poison ivy, oak and sumac.
+
+__Symptoms__
+
++ Poison Ivy Rash (100% of cases | Low Hazard)
+    + Revealed with __an evaluation__.
+    + Treated with __steroid cream__.
++ Redness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Itching (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihistamines__.
++ Swelling (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Rash (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
+
+## Pulmonary Anthrax
+__Occurrence: Rare | Base Payment: $1600__
+Anthrax is serious infection caused by the bacterium Bacillus anthracis. It is spread through the bacteria's spores. Contact is made typically by inhaling or eating the spores or through skin lesions.
+
+__Symptoms__
+
++ B. Anthracis Detected (100% of cases | High Hazard | __Serious__)
+    + Revealed with __PCR testing__.
+    + Treated with __IV antibiotics__.
+    + Can lead to __dyspnea__ if left untreated for __6 to 24__ hours.
++ Sore Throat (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __analgesics__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Muscle and Joint Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Hemoptysis (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ High Fever (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
+    + Can lead to __exhaustion__ if left untreated for __2 to 8__ hours.
++ Nausea (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Swallow Pain (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Abnormal Lung Findings (60% of cases | Medium Hazard)
+    + Revealed with __a chest X-ray__.
+    + Treated with __NSAIDs__.
++ Breathing Problems (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Bacteremia (20% of cases | High Hazard | __Serious__)
+    + Revealed with __ICU blood analysis__ or __microbial cultivation__.
+    + Treated with __IV antibiotics__.
+    + Can lead to __septic shock__ if left untreated for __6 to 24__ hours.
+
+## Pulmonary Laceration
+__Occurrence: Common | Base Payment: $3100__
+Penetrating trauma is an injury that occurs when an object pierces the skin and enters a tissue of the body, creating an open wound. Pulmonary laceration can occur from such a trauma.
+
+__Symptoms__
+
++ Chest Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __emergency care__.
++ Severe Hemorrhage (100% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __0.5 to 1__ hours.
++ Open Wound (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __emergency care__.
++ Pulmonary Laceration (100% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __pulmonary surgery__.
+    + Can lead to __respiratory failure__ if left untreated for __6 to 24__ hours.
++ Hypovolemic Shock (70% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __death__ if left untreated for __2 to 4__ hours.
++ Pneumatocele (70% of cases | Medium Hazard)
+    + Revealed with __USG__ or __FAST__.
+    + Treated with __oxygen therapy__.
+
+## Pulmonary NTMB Infection
+__Occurrence: Common | Base Payment: $1000__
+Pulmonary mycobacterial infection of non-tuberculous type of disease caused by other species of mycobacterium and it is relatively common. Often occuring in immunoincompetent patients or in patients with preexisting pulmonary disease, but also in healthy patients.
+
+__Symptoms__
+
++ MAC Detected (100% of cases | High Hazard | __Serious__)
+    + Revealed with __PCR testing__.
+    + Treated with __IV antibiotics__.
+    + Can lead to __dyspnea__ if left untreated for __6 to 24__ hours.
++ Dry Cough (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ Hemoptysis (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Chills (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antipyretics__.
++ Night Sweats (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __NSAIDs__.
++ Weight Loss (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Breathing Problems (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Loss of Appetite (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Elevated CRP (50% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Abnormal Lung Findings (50% of cases | Medium Hazard)
+    + Revealed with __a chest X-ray__.
+    + Treated with __NSAIDs__.
++ High Fever (50% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
+    + Can lead to __exhaustion__ if left untreated for __2 to 8__ hours.
++ Septic Shock (30% of cases | High Hazard | __Fatal__)
+    + Revealed with __CBC testing__.
+    + Treated with __IV antibiotics__.
+    + Can lead to __death__ if left untreated for __2 to 4__ hours.
++ Pleural Effusion (15% of cases | High Hazard | __Serious__)
+    + Revealed with __a chest X-ray__, __an MRI scan__, or __a CT scan__.
+    + Treated with __thoracentesis__.
+    + Can lead to __respiratory failure__ if left untreated for __8 to 24__ hours.
+
+## Rat-Bite Fever
+__Occurrence: Rare | Base Payment: $600__
+Rat-bite fever is an acute febrile disease caused by bacteria transmitted by rodents, particularly by their urine or mucous secretions. 
+
+__Symptoms__
+
++ Streptobacillus Detected (100% of cases | Low Hazard)
+    + Revealed with __serologic testing__.
+    + Treated with __antibiotics__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Swollen Lymph Nodes (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Vomiting (60% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Muscle and Joint Pain (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Rash On Arm (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Irregular Heartbeat (20% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __beta blockers__.
+    + Can lead to __heart failure__ if left untreated for __4 to 24__ hours.
+
+## Salmonellosis
+__Occurrence: Common | Base Payment: $800__
+Salmonella infection is one one of the common bacterial infection that affects the human intestinal tract. Humans become infected by ingesting contaminated water or food. 
+
+__Symptoms__
+
++ Salmonellosis Confirmed (100% of cases | Low Hazard)
+    + Revealed with __microbial cultivation__.
+    + Treated with __antibiotics__.
++ Nausea (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Vomiting (70% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Diarrhea (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __antidiarrheals__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Chills (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antipyretics__.
++ Headache (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Hematochezia (50% of cases | Medium Hazard)
+    + Revealed with __stool analysis__.
+    + Treated with __recommendations__.
++ Abdominal Cramps (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __spasmolytics__.
++ Dehydration (15% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __rehydration__.
+    + Can lead to __exhaustion__ if left untreated for __1 to 24__ hours.
++ Bacteremia (10% of cases | High Hazard | __Serious__)
+    + Revealed with __ICU blood analysis__ or __microbial cultivation__.
+    + Treated with __IV antibiotics__.
+    + Can lead to __septic shock__ if left untreated for __6 to 24__ hours.
+
+## Sarcoidosis - Eye
+__Occurrence: Rare | Base Payment: $200__
+Sarcoidosis is the growth of granulomas (clustered inflammatory cells) in the eyes. Most likely it is due to an abnormal immune reaction to some agents. There is no cure, but with supporting medicine the disease progression can be halted.
+
+__Symptoms__
+
++ Granulomas - Eyes (100% of cases | Low Hazard)
+    + Revealed with __ophthalmoscopy__.
+    + Treated with __corticosteroids__.
++ Photophobia (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neurological testing__.
+    + Treated with __recommendations__.
++ Fatigue (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Fever (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Red Eye (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Swollen Lymph Nodes (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Weight Loss (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
+
+## Sarcoidosis - Heart
+__Occurrence: Rare | Base Payment: $1800__
+Sarcoidosis is the growth of granulomas (clustered inflammatory cells) in the heart. Most likely it is due to an abnormal immune reaction to some agents. There is no cure, but with supporting medicine the disease progression can be halted.
+
+__Symptoms__
+
++ Granulomas - Heart (100% of cases | High Hazard | __Serious__)
+    + Revealed with __an MRI scan__.
+    + Treated with __corticosteroids__.
+    + Can lead to __heart failure__ if left untreated for __6 to 24__ hours.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Fatigue (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Fever (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Edema (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diuretics__.
++ Swollen Lymph Nodes (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Weight Loss (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Fainting (50% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __neurological testing__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __unconsciousness__ if left untreated for __1 to 24__ hours.
++ Palpitations (50% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__, __heart monitoring__, or __an ECG__.
+    + Treated with __IV infusion__.
+    + Can lead to __heart failure__ if left untreated for __1 to 24__ hours.
++ Irregular Heartbeat (30% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __beta blockers__.
+    + Can lead to __heart failure__ if left untreated for __4 to 24__ hours.
+
+## Sarcoidosis - Lungs
+__Occurrence: Rare | Base Payment: $500__
+Sarcoidosis is the growth of granulomas (clustered inflammatory cells) in the lungs. Most likely it is due to an abnormal immune reaction to some agents. There is no cure, but with supporting medicine the disease progression can be halted.
+
+__Symptoms__
+
++ Granulomas - Lungs (100% of cases | Low Hazard)
+    + Revealed with __a chest X-ray__.
+    + Treated with __corticosteroids__.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Wheezing (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Cannot be treated.
++ Fatigue (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Fever (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Dry Cough (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ Swollen Lymph Nodes (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Weight Loss (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Breathing Problems (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Pleural Effusion (10% of cases | High Hazard | __Serious__)
+    + Revealed with __a chest X-ray__, __an MRI scan__, or __a CT scan__.
+    + Treated with __thoracentesis__.
+    + Can lead to __respiratory failure__ if left untreated for __8 to 24__ hours.
+
+## Simple Chronic Bronchitis
+__Occurrence: Common | Base Payment: $600__
+Chronic bronchitis refers to a productive long-lasting cough along with constant irritation of the bronchial lining.
+
+__Symptoms__
+
++ Bronchial Infection - Chronic (100% of cases | Low Hazard)
+    + Revealed with __a chest X-ray__.
+    + Treated with __antibiotics__.
++ Irritable Cough (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Chills (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antipyretics__.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Sputum Cough (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __mucolytics__.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ A1at Deficiency (20% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __A1AT replacement__.
+
+## Tension Pneumothorax
+__Occurrence: Common | Base Payment: $1800__
+Tension pneumothorax occurs mostly in clinical situations such as ventilation, resuscitation or in people with lung disease.
+
+__Symptoms__
+
++ Punctured Lungs (100% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __thoracentesis__.
+    + Can lead to __respiratory failure__ if left untreated for __6 to 24__ hours.
++ Tachycardia (70% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Hypotension (70% of cases | Low Hazard)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __diet modification__.
++ Cyanosis (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __oxygen therapy__.
++ Abdominal Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Dyspnea (70% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __respiratory failure__ if left untreated for __1 to 24__ hours.
+
+## Thalassaemia
+__Occurrence: Common | Base Payment: $1300__
+Thalassaemia is an inherited blood disorder with the formation of abnormal hemoglobin that binds oxygen less efficiently and makes the red blood cell out of shape.
+
+__Symptoms__
+
++ Thalassemia Discovered (100% of cases | Medium Hazard)
+    + Revealed with __a blood test__.
+    + Treated with __blood transfusion__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Jaundice (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __vitamin supplementation__.
++ Dark Urine (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __urine analysis testing__.
+    + Treated with __rehydration__.
++ Tenderness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Swollen Abdomen (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __rest__.
++ Pale Skin (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __B-complex supplement__.
++ Irregular Heartbeat (30% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __beta blockers__.
+    + Can lead to __heart failure__ if left untreated for __4 to 24__ hours.
+
+## Thrombocytopenia
+__Occurrence: Common | Base Payment: $700__
+Thrombocytopenia represents a condition with significantly lower level of blood platelets, that are responsible for stopping bleeding by clumping and forming clots.
+
+__Symptoms__
+
++ Thrombocytopenia Detected (100% of cases | Medium Hazard)
+    + Revealed with __a blood test__.
+    + Treated with __a platelet transfusion__.
++ Purpura (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __corticosteroids__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Hematuria (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __urine analysis testing__.
+    + Treated with __antibiotics__.
++ Prolonged Bleeding (50% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __2 to 5__ hours.
++ Petechiae (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
+
+## Toxoplasmosis
+__Occurrence: Uncommon | Base Payment: $600__
+Toxoplasmosis is caused by the parasite Toxoplasma gondii. Symptoms are similar to the common flu. The parasite is spread through undercooked food and exposure to cat's feces.
+
+__Symptoms__
+
++ Toxoplasmosis Detected (100% of cases | Medium Hazard)
+    + Revealed with __serologic testing__.
+    + Treated with __antiparasitic drugs__.
++ Swollen Lymph Nodes (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Headache (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Muscle and Joint Pain (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Red Eye (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Confusion (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __tranquilizers__.
+
+## Tuberculosis
+__Occurrence: Uncommon | Base Payment: $1600__
+Tuberculosis of the lungs is a serious disease caused by the bacteria Mycobacterium tuberculosis affecting mainly lungs, but it can spread to other organs such as the brain. 
+
+__Symptoms__
+
++ Tuberculosis Detected (100% of cases | High Hazard | __Serious__)
+    + Revealed with __PCR testing__.
+    + Treated with __IV antibiotics__.
+    + Can lead to __dyspnea__ if left untreated for __6 to 24__ hours.
++ Hemoptysis (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Night Sweats (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __NSAIDs__.
++ Abnormal Lung Findings (70% of cases | Medium Hazard)
+    + Revealed with __a chest X-ray__.
+    + Treated with __NSAIDs__.
++ Sputum Cough (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __mucolytics__.
++ Weight Loss (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Fatigue (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Chills (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antipyretics__.
++ Loss of Appetite (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Elevated CRP (60% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Breathing Problems (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Exhaustion (30% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__.
+    + Treated with __IV infusion__.
+    + Can lead to __coma__ if left untreated for __1 to 24__ hours.
++ Leukocytosis (20% of cases | Medium Hazard)
+    + Revealed with __CBC testing__.
+    + Cannot be treated.
++ High Fever (20% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
+    + Can lead to __exhaustion__ if left untreated for __2 to 8__ hours.
+
+## Tularaemia
+__Occurrence: Uncommon | Base Payment: $1200__
+Tularaemia is an infectious disease that mainly affects the skin, eyes, lymph nodes or lungs. It is caused by the Francisella tularensis bacteria. Tulareamia is highly contagious, potentially fatal, but can be treated effectively.
+
+__Symptoms__
+
++ F. Tularensis Detected (100% of cases | High Hazard | __Serious__)
+    + Revealed with __microbial cultivation__.
+    + Treated with __IV antibiotics__.
+    + Can lead to __septic shock__ if left untreated for __6 to 24__ hours.
++ Painful Lymph Nodes (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __analgesics__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Chills (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antipyretics__.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Sore Throat (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __analgesics__.
++ Dry Cough (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ Vomiting (60% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Diarrhea (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __antidiarrheals__.
++ Breathing Problems (30% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Exhaustion (20% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__.
+    + Treated with __IV infusion__.
+    + Can lead to __coma__ if left untreated for __1 to 24__ hours.
++ Septic Shock (10% of cases | High Hazard | __Fatal__)
+    + Revealed with __CBC testing__.
+    + Treated with __IV antibiotics__.
+    + Can lead to __death__ if left untreated for __2 to 4__ hours.
+
+## Typhoid Fever
+__Occurrence: Uncommon | Base Payment: $1100__
+Typhoid fever is a bacterial disease that spreads through contaminated water and food. It is rare in industrialized countries.
+
+__Symptoms__
+
++ S. Typhi Detected (100% of cases | Low Hazard)
+    + Revealed with __microbial cultivation__.
+    + Treated with __IV antibiotics__.
++ High Fever (80% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
+    + Can lead to __exhaustion__ if left untreated for __2 to 8__ hours.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Dry Cough (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ Abdominal Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
++ Tenderness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Muscle and Joint Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Loss of Appetite (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Diarrhea (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __antidiarrheals__.
++ Exhaustion (40% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__.
+    + Treated with __IV infusion__.
+    + Can lead to __coma__ if left untreated for __1 to 24__ hours.
+
+## Typhus Fever
+__Occurrence: Common | Base Payment: $2700__
+Important not to be confused with Typhoid fever. Typhus is caused by the bacteria Rickettsia Typhi, transmitted through various types of fleas. Typhus was first described in 1528. It has a sudden onset of various symptoms comparable to the common flu.
+
+__Symptoms__
+
++ R. Typhi Detected (100% of cases | Low Hazard)
+    + Revealed with __serologic testing__.
+    + Treated with __antibiotics__.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Dry Cough (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ Vomiting (70% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Diarrhea (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __antidiarrheals__.
++ Dehydration (70% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __rehydration__.
+    + Can lead to __exhaustion__ if left untreated for __1 to 24__ hours.
++ Chills (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antipyretics__.
++ Rash (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
+

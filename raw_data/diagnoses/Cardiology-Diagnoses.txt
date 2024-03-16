@@ -1,0 +1,1054 @@
+## Acute Rheumatic Fever
+__Occurrence: Uncommon | Base Payment: $1100__
+Acute rheumatic fever is an inflammatory disease affecting the heart, muscles, joints and the brain. Usually it develops after a simple streptococcal infection of the throat.
+
+__Symptoms__
+
++ Rheumatic Fever (100% of cases | Medium Hazard)
+    + Revealed with __an echocardiogram__.
+    + Treated with __antibiotics__.
++ Sore Throat (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __analgesics__.
++ Muscle and Joint Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Rash (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Sweating (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anticholinergics__.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Elevated CRP (70% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Swallow Pain (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Breathing Problems (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Nasal Congestion (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __nasal drops__.
++ Red Swollen Tonsils (50% of cases | Medium Hazard)
+    + Revealed with __an oral cavity inspection__.
+    + Treated with __NSAIDs__.
++ Headache (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Bradycardia (30% of cases | Medium Hazard)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __IV atropine__.
+
+## Angina Pectoris
+__Occurrence: Common | Base Payment: $2000__
+Angina pectoris refers to chest pain caused by insufficient blood flow to the heart muscle. Angina pectoris is often one of the symptoms of coronary artery disease.
+
+__Symptoms__
+
++ Arterial Stenosis (100% of cases | High Hazard | __Serious__)
+    + Revealed with __angiography__.
+    + Treated with __nitrates__.
+    + Can lead to __heart failure__ if left untreated for __1 to 3__ hours.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Sweating (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anticholinergics__.
++ Back Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Tenderness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Nausea (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Elevated CRP (60% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Dizziness (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Elevated LDL (60% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __diet modification__.
++ Irregular Heartbeat (30% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __beta blockers__.
+    + Can lead to __heart failure__ if left untreated for __4 to 24__ hours.
+
+## Aortic Rupture
+__Occurrence: Common | Base Payment: $3300__
+Traumatic aortic rupture is a condition where the aorta, the largest artery in the body, ruptures as a result of aortic disease (aortic aneurysm, aortic dissection) or trauma to the body. The condition is frequently fatal due to the massive bleeding that results from the rupture. 
+
+__Symptoms__
+
++ Chest Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __emergency care__.
++ Severe Hemorrhage (100% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __0.5 to 1__ hours.
++ Hypovolemic Shock (100% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __death__ if left untreated for __2 to 4__ hours.
++ Unstoppable Bleeding (100% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 2__ hours.
++ Open Wound (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __emergency care__.
++ Traumatic Aortic Rupture (100% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __cardiovascular surgery__.
+    + Can lead to __hypovolemic shock__ if left untreated for __0.5 to 2__ hours.
+
+## Atherosclerosis - Carotides
+__Occurrence: Common | Base Payment: $1500__
+Atherosclerosis is a disease where plaques are built up inside the carotid arteries of the body (the large arteries running from the aorta to the head), hardening and narrowing them, thereby reducing the flow of blood. It could be asymptomatic for decades, symptoms often appear when arteries become more than 50% blocked.
+
+__Symptoms__
+
++ Carotid Arteries Blocked (100% of cases | High Hazard | __Serious__)
+    + Revealed with __an urgent echocardiogram__ or __an echocardiogram__.
+    + Treated with __thrombolytics__.
+    + Can lead to __unconsciousness__ if left untreated for __6 to 24__ hours.
++ Elevated LDL (70% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __diet modification__.
++ Hypertension (70% of cases | High Hazard | __Serious__)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __antihypertensive medication__.
+    + Can lead to __heart failure__ if left untreated for __6 to 24__ hours.
++ Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Numbness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Dizziness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Confusion (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __tranquilizers__.
++ Headache (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Breathing Problems (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Fainting (30% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __neurological testing__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __unconsciousness__ if left untreated for __1 to 24__ hours.
++ Tremor (30% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __beta blockers__.
++ Pulmonary Artery Blockage (10% of cases | High Hazard | __Serious__)
+    + Revealed with __angiography__.
+    + Treated with __thrombolytics__.
+    + Can lead to __heart failure__ if left untreated for __6 to 24__ hours.
+
+## Cardiac Blunt Injury
+__Occurrence: Common | Base Payment: $3100__
+Cardiac blunt injury is physical trauma to a chest area, resulting in a trauma to the heart.
+
+__Symptoms__
+
++ Chest Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __emergency care__.
++ Myocardial Contusion (100% of cases | High Hazard | __Serious__)
+    + Revealed with __an urgent echocardiogram__ or __an echocardiogram__.
+    + Treated with __cardiovascular surgery__.
+    + Can lead to __heart failure__ if left untreated for __6 to 24__ hours.
++ Bruise (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Irregular Heartbeat (50% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __beta blockers__.
+    + Can lead to __heart failure__ if left untreated for __4 to 24__ hours.
+
+## CHF
+__Occurrence: Common | Base Payment: $1600__
+Congestive heart failure where the heart loses its ability to pump a sufficient amount of blood into the body.
+
+__Symptoms__
+
++ Heart Failing (100% of cases | High Hazard | __Serious__)
+    + Revealed with __an echocardiogram__.
+    + Treated with __ACE inhibitors__.
+    + Can lead to __heart failure__ if left untreated for __4 to 24__ hours.
++ Palpitations (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__, __heart monitoring__, or __an ECG__.
+    + Treated with __IV infusion__.
+    + Can lead to __heart failure__ if left untreated for __1 to 24__ hours.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Irregular Heartbeat (70% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __beta blockers__.
+    + Can lead to __heart failure__ if left untreated for __4 to 24__ hours.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Hypertension (70% of cases | High Hazard | __Serious__)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __antihypertensive medication__.
+    + Can lead to __heart failure__ if left untreated for __6 to 24__ hours.
++ Fainting (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __neurological testing__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __unconsciousness__ if left untreated for __1 to 24__ hours.
++ Elevated CRP (60% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Wheezing (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Cannot be treated.
++ Swelling Limbs (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anti-inflammatory cream__.
+
+## Dilated Cardiomyopathy
+__Occurrence: Common | Base Payment: $3900__
+Dilated cardiomyopathy is a condition where the heart becomes severely enlarged, reducing the ability of the heart to pump, making the heart unable to effectively pump a sufficient amount of blood into the bloodstream.
+
+__Symptoms__
+
++ Dilated Ventricle (100% of cases | Medium Hazard)
+    + Revealed with __angiography__.
+    + Treated with __cardiovascular surgery__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Bloating (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __diet modification__.
++ Irregular Heartbeat (60% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __beta blockers__.
+    + Can lead to __heart failure__ if left untreated for __4 to 24__ hours.
++ Chest Pain (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Swelling (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Dizziness (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
+
+## Endocarditis
+__Occurrence: Uncommon | Base Payment: $1600__
+Endocarditis is an infection of the inner lining of the heart. Often the infection arises from bacterial colonization of diseased valves of the heart
+
+__Symptoms__
+
++ Endocarditis Detected (100% of cases | High Hazard | __Serious__)
+    + Revealed with __an urgent echocardiogram__ or __an echocardiogram__.
+    + Treated with __IV antibiotics__.
+    + Can lead to __heart failure__ if left untreated for __6 to 24__ hours.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Chills (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antipyretics__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Muscle and Joint Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Night Sweats (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __NSAIDs__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Swelling Limbs (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anti-inflammatory cream__.
++ Weight Loss (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Elevated CRP (70% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Abdominal Pain (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
++ Petechiae (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Irregular Heartbeat (20% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __beta blockers__.
+    + Can lead to __heart failure__ if left untreated for __4 to 24__ hours.
+
+## Flail Chest
+__Occurrence: Common | Base Payment: $900__
+Flail chest is a life-threatening condition that occurs when a segment of the rib cage breaks due to trauma and moves independently of the rest of the chest wall/ribs during breathing.
+
+__Symptoms__
+
++ Chest Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __emergency care__.
++ Chest Pain (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Breathing Problems (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Flail Chest (100% of cases | High Hazard | __Serious__)
+    + Revealed with __a CT scan__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __heart failure__ if left untreated for __2 to 12__ hours.
+
+## Giant Cells Arteritis
+__Occurrence: Common | Base Payment: $800__
+Giant cells arteritis is an inflammation of the arterial lining, mainly in the temporal arteries on the side of the head.
+
+__Symptoms__
+
++ Giant Cell Arteritis (100% of cases | Medium Hazard)
+    + Revealed with __angiography__.
+    + Treated with __corticosteroids__.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Elevated CRP (70% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Tenderness (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Fatigue (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Weight Loss (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Loss of Vision (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __ophthalmoscopy__.
+    + Cannot be treated.
+
+## HHD With Heart Failure
+__Occurrence: Uncommon | Base Payment: $800__
+Hypertensive heart disease refers to multiple complications related to high blood pressure that affects the heart and can result in heart failure.
+
+__Symptoms__
+
++ Hypertensive Findings (100% of cases | Medium Hazard)
+    + Revealed with __an echocardiogram__.
+    + Treated with __diet modification__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Elevated CRP (70% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Bloating (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __diet modification__.
++ Abdominal Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
++ Cardiomegaly (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an urgent echocardiogram__ or __an echocardiogram__.
+    + Treated with __diuretics__.
+    + Can lead to __heart failure__ if left untreated for __2 to 8__ hours.
++ Swelling Limbs (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anti-inflammatory cream__.
++ Polyuria (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Cannot be treated.
++ Weight Gain (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Nausea (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Sleeping Problems (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __sleeping drugs__.
++ Irregular Heartbeat (30% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __beta blockers__.
+    + Can lead to __heart failure__ if left untreated for __4 to 24__ hours.
+
+## Hypertensive Renal Disease
+__Occurrence: Uncommon | Base Payment: $2800__
+Hypertensive renal disease refers to an increase in systemic blood pressure due to kidney injury or disease.
+
+__Symptoms__
+
++ Renal Hypertension (100% of cases | Medium Hazard)
+    + Revealed with __biopsy testing__.
+    + Treated with __renal vascular surgery__.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Hematuria (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __urine analysis testing__.
+    + Treated with __antibiotics__.
++ Hypertension (70% of cases | High Hazard | __Serious__)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __antihypertensive medication__.
+    + Can lead to __heart failure__ if left untreated for __6 to 24__ hours.
++ Proteinuria (70% of cases | Low Hazard)
+    + Revealed with __urine analysis testing__.
+    + Treated with __ACE inhibitors__.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Elevated CK (70% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Cannot be treated.
++ Confusion (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __tranquilizers__.
++ Cramps (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Polyuria (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Cannot be treated.
++ Sleeping Problems (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __sleeping drugs__.
+
+## IHD With Heart Failure
+__Occurrence: Uncommon | Base Payment: $3700__
+Ischaemic heart disease, also known as coronary artery disease, is large group of cardiovascular diseases caused by the atherosclerosis of the coronary arteries that can result in heart failure.
+
+__Symptoms__
+
++ Myocardial Scarring (100% of cases | Medium Hazard)
+    + Revealed with __an urgent echocardiogram__ or __an echocardiogram__.
+    + Treated with __cardiovascular surgery__.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Back Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Elevated CRP (70% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Dizziness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Elevated LDL (70% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __diet modification__.
++ Low Hemoglobin (70% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __diet modification__.
++ Nausea (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Irregular Heartbeat (50% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __beta blockers__.
+    + Can lead to __heart failure__ if left untreated for __4 to 24__ hours.
++ Palpitations (40% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__, __heart monitoring__, or __an ECG__.
+    + Treated with __IV infusion__.
+    + Can lead to __heart failure__ if left untreated for __1 to 24__ hours.
+
+## Mitral Stenosis
+__Occurrence: Uncommon | Base Payment: $3600__
+Mitral valve stenosis is a narrowing of the heart's mitral valve, that causes improper opening of the valve and thereby the blood flow through the valve is reduced.
+
+__Symptoms__
+
++ Mitral Stenosis (100% of cases | High Hazard | __Serious__)
+    + Revealed with __an urgent echocardiogram__ or __an echocardiogram__.
+    + Treated with __cardiovascular surgery__.
+    + Can lead to __heart failure__ if left untreated for __6 to 24__ hours.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Hemoptysis (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Palpitations (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__, __heart monitoring__, or __an ECG__.
+    + Treated with __IV infusion__.
+    + Can lead to __heart failure__ if left untreated for __1 to 24__ hours.
++ Edema (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diuretics__.
++ Fatigue (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Dizziness (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Fainting (60% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __neurological testing__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __unconsciousness__ if left untreated for __1 to 24__ hours.
++ Irregular Heartbeat (50% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __beta blockers__.
+    + Can lead to __heart failure__ if left untreated for __4 to 24__ hours.
+
+## Mitral Valve Prolapse
+__Occurrence: Common | Base Payment: $1100__
+Mitral valve prolapse is a condition where the heart's mitral valve bulges into the left atrium during the contraction of the left ventricle. This is usually following an acute myocardial infarction affecting the attachment of the valve in the left ventricle.
+
+__Symptoms__
+
++ Mitral Valve Prolapsed (100% of cases | Medium Hazard)
+    + Revealed with __angiography__.
+    + Treated with __anticoagulants__.
++ Irregular Heartbeat (60% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __beta blockers__.
+    + Can lead to __heart failure__ if left untreated for __4 to 24__ hours.
++ Breathing Problems (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Chest Pain (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Fatigue (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Dizziness (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
+
+## Myocardial Infarction
+__Occurrence: Common | Base Payment: $1400__
+Acute myocardial infarction, also known as a heart attack, occurs when blood flow to the myocardium (the muscle tissue of the heart) is blocked. The affected muscle tissue can die and the patient is also at high risk of dying.
+
+__Symptoms__
+
++ Heart Attack (100% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __nitrates__.
+    + Can lead to __heart failure__ if left untreated for __2 to 8__ hours.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Abdominal Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Sweating (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anticholinergics__.
++ Palpitations (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__, __heart monitoring__, or __an ECG__.
+    + Treated with __IV infusion__.
+    + Can lead to __heart failure__ if left untreated for __1 to 24__ hours.
++ Dizziness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Elevated LDL (60% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __diet modification__.
++ Nausea (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Fatigue (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Irregular Heartbeat (30% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __beta blockers__.
+    + Can lead to __heart failure__ if left untreated for __4 to 24__ hours.
+
+## Myocarditis
+__Occurrence: Uncommon | Base Payment: $1400__
+Myocarditis is an inflammation of the heart's muscle, also known as myocardium, affecting the ability of the heart to pump blood properly and also the heart's electrical system, potentially giving rise to different arrhythmiaes (irregular and abnormal heart rythms).
+
+__Symptoms__
+
++ Inflamed Myocardium (100% of cases | High Hazard | __Serious__)
+    + Revealed with __an MRI scan__.
+    + Treated with __IV antibiotics__.
+    + Can lead to __heart failure__ if left untreated for __6 to 24__ hours.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Elevated CRP (70% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Swollen Lymph Nodes (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Swelling Limbs (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anti-inflammatory cream__.
++ Fatigue (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Headache (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Irregular Heartbeat (30% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __beta blockers__.
+    + Can lead to __heart failure__ if left untreated for __4 to 24__ hours.
+
+## PAD
+__Occurrence: Common | Base Payment: $3500__
+Peripheral artery disease is caused by a reduced blood flow to the upper or lower limbs due to narrowed arteries, often from artherosclerotic disease.
+
+__Symptoms__
+
++ Narrowed Arteries (100% of cases | Medium Hazard)
+    + Revealed with __angiography__.
+    + Treated with __cardiovascular surgery__.
++ Numbness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Pale Skin (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __B-complex supplement__.
++ Elevated LDL (60% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __diet modification__.
++ Weakness (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Hair Loss (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Pain (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Hyperlipidemia (50% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __diet modification__.
++ Hypertension (50% of cases | High Hazard | __Serious__)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __antihypertensive medication__.
+    + Can lead to __heart failure__ if left untreated for __6 to 24__ hours.
++ Cramps (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Irregular Heartbeat (20% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __beta blockers__.
+    + Can lead to __heart failure__ if left untreated for __4 to 24__ hours.
+
+## Pericarditis
+__Occurrence: Uncommon | Base Payment: $1700__
+Pericarditis refers to condition where the thin membrane, or sac, surrounding the heart is inflamed.
+
+__Symptoms__
+
++ Swollen Pericardium (100% of cases | High Hazard | __Serious__)
+    + Revealed with __a CT scan__.
+    + Treated with __IV corticosteroids__.
+    + Can lead to __heart failure__ if left untreated for __6 to 24__ hours.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Swelling Limbs (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anti-inflammatory cream__.
++ Irritable Cough (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ Elevated CRP (50% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Palpitations (40% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__, __heart monitoring__, or __an ECG__.
+    + Treated with __IV infusion__.
+    + Can lead to __heart failure__ if left untreated for __1 to 24__ hours.
+
+## Portal Vein Thrombosis
+__Occurrence: Common | Base Payment: $2000__
+Portal vein thrombosis refers to a condition where the portal vein (the large vein from the intestines to the liver) is blocked by blood clot.
+
+__Symptoms__
+
++ Portal Vein Blocked (100% of cases | High Hazard | __Serious__)
+    + Revealed with __angiography__.
+    + Treated with __thrombolytics__.
+    + Can lead to __septic shock__ if left untreated for __2 to 12__ hours.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Indigestion (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Abdominal Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
++ Abnormal LFT (70% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __diet modification__.
++ Swelling (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Tenderness (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Portal Hypertension (20% of cases | Medium Hazard)
+    + Revealed with __USG__ or __FAST__.
+    + Treated with __beta blockers__.
+
+## Pulmonary Embolism
+__Occurrence: Common | Base Payment: $1100__
+Pulmonary embolism refers to a blockage in one of the pulmonary arteries. The embolism often comes from a dislodged deep venous thrombosis.
+
+__Symptoms__
+
++ Lung Embolism (100% of cases | High Hazard | __Serious__)
+    + Revealed with __angiography__.
+    + Treated with __anticoagulants__.
+    + Can lead to __respiratory failure__ if left untreated for __6 to 24__ hours.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Swelling Limbs (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anti-inflammatory cream__.
++ Sweating (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anticholinergics__.
++ Dizziness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Irritable Cough (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ Cyanosis (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __oxygen therapy__.
++ Fever (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Anxiety (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __anxiolytics__.
++ Irregular Heartbeat (50% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __beta blockers__.
+    + Can lead to __heart failure__ if left untreated for __4 to 24__ hours.
++ Hypertension (30% of cases | High Hazard | __Serious__)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __antihypertensive medication__.
+    + Can lead to __heart failure__ if left untreated for __6 to 24__ hours.
+
+## Pulmonary Hypertension
+__Occurrence: Common | Base Payment: $1400__
+Pulmonary hypertension is hypertension in the arteries from the heart to the lungs. Pulmonary hypertension often happens due to large or many small pulmonary emboli (blood clots in the lungs).
+
+__Symptoms__
+
++ Pulmonary Hypertension Detected (100% of cases | High Hazard)
+    + Revealed with __an echocardiogram__.
+    + Treated with __vasodilators__.
++ Unstable Blood Pressure (90% of cases | High Hazard | __Serious__)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __IV infusion__.
+    + Can lead to __heart failure__ if left untreated for __1 to 24__ hours.
++ Hemoptysis (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Pulmonary Artery Blockage (70% of cases | High Hazard | __Serious__)
+    + Revealed with __angiography__.
+    + Treated with __thrombolytics__.
+    + Can lead to __heart failure__ if left untreated for __6 to 24__ hours.
++ Hypertension (70% of cases | High Hazard | __Serious__)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __antihypertensive medication__.
+    + Can lead to __heart failure__ if left untreated for __6 to 24__ hours.
++ Breathing Problems (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Dizziness (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Cyanosis (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __oxygen therapy__.
++ Fever (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Irregular Heartbeat (50% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __beta blockers__.
+    + Can lead to __heart failure__ if left untreated for __4 to 24__ hours.
+
+## Stroke
+__Occurrence: Common | Base Payment: $2000__
+Stroke occurs when the blood supply to an area of the brain is interrupted or severely reduced, resulting in the death (necrosis) of brain tissue in the affected area.
+
+__Symptoms__
+
++ Brain Arteries Blocked (100% of cases | High Hazard | __Serious__)
+    + Revealed with __an urgent echocardiogram__, __an echocardiogram__, or __angiography__.
+    + Treated with __IV TPA__.
+    + Can lead to __coma__ if left untreated for __6 to 24__ hours.
++ Slurred Speech (70% of cases | Low Hazard)
+    + Revealed with __speech listening__.
+    + Cannot be treated.
++ Blurred Vision (70% of cases | Low Hazard)
+    + Revealed with __an interview__, __a basic visual test__, or __ophthalmoscopy__.
+    + Treated with __eye drops__.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Dizziness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Numbness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Hemiparesis (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Elevated LDL (60% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __diet modification__.
++ Hypertension (60% of cases | High Hazard | __Serious__)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __antihypertensive medication__.
+    + Can lead to __heart failure__ if left untreated for __6 to 24__ hours.
++ Pulmonary Artery Blockage (10% of cases | High Hazard | __Serious__)
+    + Revealed with __angiography__.
+    + Treated with __thrombolytics__.
+    + Can lead to __heart failure__ if left untreated for __6 to 24__ hours.
+
+## Thoracic Aortic Aneurysm
+__Occurrence: Common | Base Payment: $3300__
+Thoracic aortic aneurysm refers is a condition where the part of the aorta in the chest cavity is dilated (becomes like a balloon). The aneurysm can rupture and lead to immediate death.
+
+__Symptoms__
+
++ Aortic Aneurysm (100% of cases | High Hazard | __Serious__)
+    + Revealed with __an urgent echocardiogram__ or __an echocardiogram__.
+    + Treated with __beta blockers__.
+    + Can lead to __heart failure__ if left untreated for __6 to 24__ hours.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Back Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Hoarseness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __NSAIDs__.
++ Irritable Cough (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ Tenderness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Hypotension (30% of cases | Low Hazard)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __diet modification__.
++ Weakness (20% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Slurred Speech (20% of cases | Low Hazard)
+    + Revealed with __speech listening__.
+    + Cannot be treated.
++ Unconsciousness (10% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __coma__ if left untreated for __6 to 24__ hours.
+
+## Thrombophlebitis
+__Occurrence: Common | Base Payment: $1400__
+Thrombophlebitis is condition where the inflammation of veins result in the formation of a blood clot that blocks one or more veins.
+
+__Symptoms__
+
++ Superficial Thrombosis (100% of cases | Medium Hazard)
+    + Revealed with __USG__.
+    + Treated with __thrombolytics__.
++ Tenderness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Redness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Swelling (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Breathing Problems (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Chest Pain (40% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Swelling Limbs (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anti-inflammatory cream__.
++ Pulmonary Artery Blockage (10% of cases | High Hazard | __Serious__)
+    + Revealed with __angiography__.
+    + Treated with __thrombolytics__.
+    + Can lead to __heart failure__ if left untreated for __6 to 24__ hours.
+
+## Traumatic Cardiac Arrest
+__Occurrence: Common | Base Payment: $3600__
+Traumatic cardiac arrest is a condition where the heart has ceased to beat due to blunt or penetrating trauma, such as a stab wound hitting the heart. It is a surgical emergency which will always result in death without immediate surgical care.
+
+__Symptoms__
+
++ Chest Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __emergency care__.
++ Severe Hemorrhage (100% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __0.5 to 1__ hours.
++ Unstoppable Bleeding (100% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 2__ hours.
++ Blood Loss (100% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 8__ hours.
++ Open Wound (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __emergency care__.
++ Respiratory Failure (100% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __artificial ventilation__.
+    + Can lead to __death__ if left untreated for __0.1 to 0.5__ hours.
++ Irregular Heartbeat (100% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __beta blockers__.
+    + Can lead to __heart failure__ if left untreated for __4 to 24__ hours.
++ Traumatic Cardiac Arrest (100% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __cardiovascular surgery__.
+    + Can lead to __heart failure__ if left untreated for __0.5 to 2__ hours.
++ Hypovolemic Shock (70% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __death__ if left untreated for __2 to 4__ hours.
+
+## Tricuspid Regurgitation
+__Occurrence: Uncommon | Base Payment: $3600__
+Improper closening of the heart's tricuspid valve, resulting in the regurgitation of blood (blood is pumped backwards, the wrong direction, because the valve can't close properly).
+
+__Symptoms__
+
++ Tricuspid Regurgitation (100% of cases | Medium Hazard)
+    + Revealed with __an echocardiogram__.
+    + Treated with __cardiovascular surgery__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Fainting (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __neurological testing__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __unconsciousness__ if left untreated for __1 to 24__ hours.
++ Palpitations (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__, __heart monitoring__, or __an ECG__.
+    + Treated with __IV infusion__.
+    + Can lead to __heart failure__ if left untreated for __1 to 24__ hours.
++ Swelling Limbs (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anti-inflammatory cream__.
++ Fatigue (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Edema (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diuretics__.
++ Irregular Heartbeat (40% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __beta blockers__.
+    + Can lead to __heart failure__ if left untreated for __4 to 24__ hours.
+

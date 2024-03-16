@@ -1,0 +1,400 @@
+## Bacterial Vaginosis
+__Occurrence: Common | Base Payment: $400__
+Bacterial vaginosis (BV) is an imbalance of bacteria in the vagina and a common cause of unusual vaginal discharge.
+
+__Symptoms__
+
++ BV Detected (100% of cases | Low Hazard)
+    + Revealed with __genital swab analysis__.
+    + Treated with __antibiotics__.
++ Genital Discharge (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a groin examination__.
+    + Treated with __antibiotics__.
+
+## Balanitis
+__Occurrence: Common | Base Payment: $400__
+Balanitis is a skin irritation on the head of the penis that can affect men and boys.
+
+__Symptoms__
+
++ Balanitis (100% of cases | Low Hazard)
+    + Revealed with __a groin examination__.
+    + Treated with __antibiotics__.
++ Itching (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihistamines__.
++ Redness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Painful Urination (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rehydration__.
++ Phimosis (20% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a groin examination__.
+    + Treated with __recommendations__.
+
+## Cervicitis
+__Occurrence: Common | Base Payment: $400__
+Cervicitis is an inflammation of the cervix commonly caused by sexually transmitted infections.
+
+__Symptoms__
+
++ Cervicitis Detected (100% of cases | Low Hazard)
+    + Revealed with __genital swab analysis__.
+    + Treated with __antibiotics__.
++ Genital Discharge (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a groin examination__.
+    + Treated with __antibiotics__.
++ Abnormal Vaginal Bleeding (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a groin examination__.
+    + Treated with __NSAIDs__.
++ Pain During Sex (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
+
+## Chlamydia
+__Occurrence: Common | Base Payment: $400__
+Chlamydia is passed on through unprotected sex and is particularly common in sexually active teenagers and young adults.
+
+__Symptoms__
+
++ Chlamydia Detected (100% of cases | Medium Hazard)
+    + Revealed with __urine analysis testing__ or __PCR testing__.
+    + Treated with __antibiotics__.
++ Painful Urination (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rehydration__.
++ Genital Discharge (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a groin examination__.
+    + Treated with __antibiotics__.
++ Abdominal Pain (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
+
+## Epididymitis
+__Occurrence: Common | Base Payment: $400__
+Epididymitis is where a tube (the epididymis) at the back of the testicles becomes swollen and painful.
+
+__Symptoms__
+
++ Testicular Pain (100% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a groin examination__.
+    + Treated with __analgesics__.
++ Epididymitis (100% of cases | Low Hazard)
+    + Revealed with __urine analysis testing__ or __genital swab analysis__.
+    + Treated with __antibiotics__.
++ Painful Urination (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rehydration__.
++ Genital Discharge (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a groin examination__.
+    + Treated with __antibiotics__.
+
+## Erectile Dysfunction
+__Occurrence: Common | Base Payment: $400__
+Erectile dysfunction (ED) is the inability to get or keep an erection firm enough to have sexual intercourse.
+
+__Symptoms__
+
++ Erectile Dysfunction (100% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __Viagra__.
+
+## Genital Herpes
+__Occurrence: Common | Base Payment: $400__
+Genital herpes is a sexually transmitted infection (STI) passed on through vaginal, anal and oral sex.
+
+__Symptoms__
+
++ HSV Antibodies Detected (100% of cases | Low Hazard)
+    + Revealed with __biopsy testing__, __PCR testing__, or __a blood test__.
+    + Treated with __antiviral medication__.
++ Painful Urination (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rehydration__.
++ Itching (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihistamines__.
++ Genital Sores (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a groin examination__.
+    + Treated with __antibiotics__.
+
+## Gonorrhoea
+__Occurrence: Common | Base Payment: $400__
+Gonorrhoea is a sexually transmitted infection (STI) caused by bacteria called Neisseria gonorrhoeae or gonococcus. It used to be known as "the clap".
+
+__Symptoms__
+
++ Neisseria Gonorrhoeae Detected (100% of cases | Medium Hazard)
+    + Revealed with __urine analysis testing__ or __PCR testing__.
+    + Treated with __antibiotics__.
++ Genital Discharge (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a groin examination__.
+    + Treated with __antibiotics__.
++ Painful Urination (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rehydration__.
+
+## HIV
+__Occurrence: Rare | Base Payment: $800__
+Human Immunodeficiency Virus damages the cells in the immune system and weakens the ability to fight everyday infections and disease.
+
+__Symptoms__
+
++ HIV Detected (100% of cases | Medium Hazard)
+    + Revealed with __a blood test__, __PCR testing__, or __serologic testing__.
+    + Treated with __antiretroviral medication__.
++ Fatigue (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Muscle and Joint Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Rash (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Fever (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Sore Throat (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __analgesics__.
++ Swelling (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
+
+## HPV
+__Occurrence: Common | Base Payment: $400__
+HPV is the name of a very common group of viruses. They do not cause any problems in most people, but some types can cause genital warts or cancer.
+
+__Symptoms__
+
++ HPV Detected (100% of cases | Medium Hazard)
+    + Revealed with __genital screening analysis__.
+    + Treated with __HPV support__.
++ Genital Sores (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a groin examination__.
+    + Treated with __antibiotics__.
++ Redness of Skin (10% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
+
+## Hyperspermia
+__Occurrence: Rare | Base Payment: $400__
+Hyperspermia is a condition in which a male has an abnormally large ejaculate (or semen) volume, and is generally defined in humans when the ejaculate is above 5.5 ml.
+
+__Symptoms__
+
++ High Semen Volume (100% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Cannot be treated.
++ Hyperspermia (100% of cases | Low Hazard)
+    + Revealed with __semen collection analysis__.
+    + Treated with __recommendations__.
+
+## Hypospermia
+__Occurrence: Uncommon | Base Payment: $400__
+Hypospermia is a condition in which a male has an unusually low ejaculate (or semen) volume, less than 1.5 mL.
+
+__Symptoms__
+
++ Low Semen Volume (100% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Cannot be treated.
++ Hypospermia (100% of cases | Low Hazard)
+    + Revealed with __semen collection analysis__.
+    + Treated with __recommendations__.
+
+## Molluscum Contagiosum
+__Occurrence: Common | Base Payment: $400__
+Molluscum contagiosum is an infection that causes small bumps on the skin. It can be contracted through touching infected skin, including during sex.
+
+__Symptoms__
+
++ MC Detected (100% of cases | Low Hazard)
+    + Revealed with __a physical examination__ or __a groin examination__.
+    + Treated with __cryotherapy__.
++ Genital Sores (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a groin examination__.
+    + Treated with __antibiotics__.
++ Redness of Skin (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Itching (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihistamines__.
+
+## Mycoplasma Genitalium
+__Occurrence: Common | Base Payment: $400__
+Mycoplasma genitalium is also known as MG or Mgen. It's a sexually transmitted bacterium that infects the urinary and genital tracts of men and women.
+
+__Symptoms__
+
++ Mgen Detected (100% of cases | Low Hazard)
+    + Revealed with __genital swab analysis__.
+    + Treated with __antibiotics__.
++ Genital Discharge (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a groin examination__.
+    + Treated with __antibiotics__.
++ Abnormal Vaginal Bleeding (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a groin examination__.
+    + Treated with __NSAIDs__.
++ Abdominal Pain (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
+
+## Mycoplasma Genitalium
+__Occurrence: Common | Base Payment: $400__
+Mycoplasma genitalium is also known as MG or Mgen. It's a sexually transmitted bacterium that infects the urinary and genital tracts of men and women.
+
+__Symptoms__
+
++ Mgen Detected (100% of cases | Low Hazard)
+    + Revealed with __urine analysis testing__.
+    + Treated with __antibiotics__.
++ Genital Discharge (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a groin examination__.
+    + Treated with __antibiotics__.
++ Painful Urination (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rehydration__.
++ Testicular Pain (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a groin examination__.
+    + Treated with __analgesics__.
+
+## Prep
+__Occurrence: Common | Base Payment: $400__
+The patient is eligable for PrEP, a drug used to prevent HIV.
+
+__Symptoms__
+
++ At Risk (100% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __PrEP__.
+
+## Prostatitis
+__Occurrence: Common | Base Payment: $400__
+Prostatitis is inflammation (swelling) of the prostate gland.
+
+__Symptoms__
+
++ Prostatitis (100% of cases | Low Hazard)
+    + Revealed with __urine analysis testing__ or __a blood test__.
+    + Treated with __antibiotics__.
++ Testicular Pain (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a groin examination__.
+    + Treated with __analgesics__.
++ Back Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Painful Urination (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rehydration__.
++ Abdominal Pain (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
++ Fever (20% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
+
+## Pubic Lice
+__Occurrence: Common | Base Payment: $400__
+Pubic lice (sometimes called crabs) are tiny insects that live on coarse human body hair, such as pubic hair.
+
+__Symptoms__
+
++ Pubic Lice Present (100% of cases | Low Hazard)
+    + Revealed with __a groin examination__.
+    + Treated with __insecticide cream__.
++ Itching (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihistamines__.
++ Redness of Skin (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
+
+## Scabies
+__Occurrence: Common | Base Payment: $400__
+Scabies is an itchy skin condition caused by tiny parasites. It’s passed through skin-to-skin contact, usually during sex.
+
+__Symptoms__
+
++ Scabies Detected (100% of cases | Low Hazard)
+    + Revealed with __a groin examination__.
+    + Treated with __insecticide cream__.
++ Itching (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihistamines__.
++ Rash (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
+
+## Syphilis
+__Occurrence: Common | Base Payment: $400__
+Syphilis is a bacterial infection that's usually caught by having sex with someone who's infected.
+
+__Symptoms__
+
++ Syphilis Detected (100% of cases | Medium Hazard)
+    + Revealed with __a blood test__ or __serologic testing__.
+    + Treated with __antibiotics__.
++ Fatigue (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Headache (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Rash (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Fever (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Genital Sores (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a groin examination__.
+    + Treated with __antibiotics__.
++ Swelling (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
+
+## Trichomoniasis
+__Occurrence: Common | Base Payment: $400__
+Trichomoniasis is a sexually transmitted infection (STI) caused by a tiny parasite called Trichomonas vaginalis (TV).
+
+__Symptoms__
+
++ TV Detected (100% of cases | Low Hazard)
+    + Revealed with __genital swab analysis__.
+    + Treated with __antibiotics__.
++ Painful Urination (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rehydration__.
++ Genital Discharge (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a groin examination__.
+    + Treated with __antibiotics__.
++ Redness of Skin (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Itching (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihistamines__.
++ Frequent Urination (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
+
+## Urethritis
+__Occurrence: Common | Base Payment: $400__
+Urethritis is inflammation of the urethra, usually caused by an infection.
+
+__Symptoms__
+
++ Urethritis (100% of cases | Low Hazard)
+    + Revealed with __urine analysis testing__ or __genital swab analysis__.
+    + Treated with __antibiotics__.
++ Painful Urination (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rehydration__.
++ Genital Discharge (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a groin examination__.
+    + Treated with __antibiotics__.
+

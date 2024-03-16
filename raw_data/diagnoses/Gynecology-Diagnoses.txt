@@ -1,0 +1,3013 @@
+## Acute Bartholinitis
+__Occurrence: Uncommon | Base Payment: $2500__
+Acute bartholinitis is a localized inflammation of the Bartholin gland or its dilated excretory duct.
+
+__Symptoms__
+
++ Bartholin's Abscess (100% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __chirurgical abscess incision and drainage__.
++ Pelvic Pain (70% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Elevated CRP (50% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Leukocytosis (50% of cases | Medium Hazard)
+    + Revealed with __CBC testing__.
+    + Cannot be treated.
++ Elevated CRP (50% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Fatigue (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Fever (30% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
+
+## Adenomyosis
+__Occurrence: Rare | Base Payment: $600__
+Adenomyosis is a gynecologic medical condition characterized by the abnormal presence of endometrial tissue (the inner lining of the uterus) within the myometrium (the thick, muscular layer of the uterus).
+
+__Symptoms__
+
++ Diverticular Image (100% of cases | Low Hazard)
+    + Revealed with __pelvic sonography__.
+    + Treated with __hormone therapy__.
++ Menorrhagia (80% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __antihemorrhagics__.
++ Metrorrhagia (66% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __progestogen__.
++ Dysmenorrhea (35% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __NSAIDs__.
+
+## Aseptic Necrobiosis
+__Occurrence: Rare | Base Payment: $750__
+Aseptic necrobiosis (red degeneration) of a uterine fibroid is defined as a hemorrhagic infarction of a previously hyalinized myoma caused by ischaemic necrosis as the rapid fibroid growth outweighs its blood supply.
+
+__Symptoms__
+
++ Image In Roundel (100% of cases | Low Hazard)
+    + Revealed with __pelvic sonography__.
+    + Treated with __NSAIDs__.
++ Pelvic Pain (75% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Fever (66% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Metrorrhagia (40% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __progestogen__.
+
+## Baby Blues
+__Occurrence: Common | Base Payment: $200__
+A feeling of sadness that is experienced by a woman shortly after giving birth, usually lasts less than two weeks. Baby blues isn't an illness or even a proper psychiatric diagnosis, it is simply a way that people have tried to describe unpleasant feelings that occur shortly after having a baby and tend to resolve in a few days.
+
+__Symptoms__
+
++ Post-Partum (100% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an evaluation__.
+    + Cannot be treated.
++ Baby Blues (100% of cases | Low Hazard)
+    + Revealed with __an evaluation__.
+    + Treated with __recommendations__.
++ Sleeping Problems (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __sleeping drugs__.
++ Depression (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __antidepressants__.
++ Long Reaction Time (80% of cases | Low Hazard)
+    + Revealed with __speech listening__.
+    + Cannot be treated.
++ Fatigue (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Weakness (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Irritability (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __tranquilizers__.
++ Confusion (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __tranquilizers__.
++ Anxiety (20% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __anxiolytics__.
++ Trouble Rising (20% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
+
+## Breast Abscess
+__Occurrence: Rare | Base Payment: $3000__
+A breast abscess is a painful collection of pus that forms in the breast. Most abscesses develop just under the skin and are caused by a bacterial infection.
+
+__Symptoms__
+
++ Breast Pain (100% of cases | Medium Hazard)
+    + Revealed with __an interview__, __a physical examination__, or __a breast examination__.
+    + Treated with __analgesics__.
++ Post-Partum (100% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an evaluation__.
+    + Cannot be treated.
++ Breast Abscess. (100% of cases | High Hazard | __Serious__)
+    + Revealed with __USG__.
+    + Treated with __drainage__.
+    + Can lead to __septic shock__ if left untreated for __12 to 18__ hours.
++ High Fever (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
+    + Can lead to __exhaustion__ if left untreated for __2 to 8__ hours.
++ Redness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Swelling (66% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Weakness (66% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Edema (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diuretics__.
++ Edema (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diuretics__.
++ Weight Loss (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Elevated CRP (50% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Hypotension (30% of cases | Low Hazard)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __diet modification__.
++ Pain (30% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Breast Discharge (30% of cases | Low Hazard)
+    + Revealed with __an interview__, __a physical examination__, or __a breast examination__.
+    + Cannot be treated.
++ Oliguria (25% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Leukocytosis (10% of cases | Medium Hazard)
+    + Revealed with __CBC testing__.
+    + Cannot be treated.
+
+## Breast Cancer
+__Occurrence: Very Rare | Base Payment: $4000__
+Breast cancer is a disease in which cells in the breast grow out of control. Breast cancer can begin in different parts of the breast.
+
+__Symptoms__
+
++ Ductal Carcinoma (100% of cases | High Hazard)
+    + Revealed with __biopsy testing__.
+    + Treated with __a lumpectomy__.
++ Breast Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__, __a physical examination__, or __a breast examination__.
+    + Treated with __analgesics__.
++ Spiculated Margins (75% of cases | Medium Hazard)
+    + Revealed with __an MRI scan__ or __a mammogram__.
+    + Cannot be treated.
++ Axillary Lymph Nodes (75% of cases | Low Hazard)
+    + Revealed with __a breast examination__.
+    + Treated with __NSAIDs__.
++ Weight Loss (66% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Loss of Appetite (66% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Fatigue (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Weakness (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Malnutrition (50% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __diet modification__.
++ Breast Discharge (50% of cases | Low Hazard)
+    + Revealed with __an interview__, __a physical examination__, or __a breast examination__.
+    + Cannot be treated.
++ Swollen Lymph Nodes (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Dizziness (40% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Irritable Cough (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ Headache (35% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Rash (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Swelling (25% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Nausea (20% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Exhaustion (15% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__.
+    + Treated with __IV infusion__.
+    + Can lead to __coma__ if left untreated for __1 to 24__ hours.
++ Dyspnea (10% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __respiratory failure__ if left untreated for __1 to 24__ hours.
+
+## Breast Engorgement
+__Occurrence: Uncommon | Base Payment: $400__
+Breast engorgement means breasts are painfully overfull of milk. This usually occurs when a mother makes more milk than her baby uses.
+
+__Symptoms__
+
++ Breast Pain (100% of cases | Medium Hazard)
+    + Revealed with __an interview__, __a physical examination__, or __a breast examination__.
+    + Treated with __analgesics__.
++ Post-Partum (100% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an evaluation__.
+    + Cannot be treated.
++ Milk Stasis (100% of cases | Low Hazard)
+    + Revealed with __a breast examination__.
+    + Treated with __recommendations__.
++ Swelling (66% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Edema (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diuretics__.
++ Pain (30% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Redness (25% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
+
+## Cervical Cancer
+__Occurrence: Very Rare | Base Payment: $4000__
+Cervical cancer is a cancer arising from the cervix. It is due to the abnormal growth of cells that have the ability to invade or spread to other parts of the body.
+
+__Symptoms__
+
++ Epidermoid Carcinoma (100% of cases | High Hazard)
+    + Revealed with __biopsy testing__.
+    + Treated with __a hysterectomy__.
++ High-Risk HPV (90% of cases | Medium Hazard)
+    + Revealed with __Pap smear testing__.
+    + Treated with __antivirals__.
++ Red Cervix (80% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __NSAIDs__.
++ Metrorrhagia (70% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __progestogen__.
++ Loss of Appetite (66% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Weight Loss (66% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Leukorrhea (60% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Cannot be treated.
++ Fatigue (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Oliguria (55% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Weakness (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Dysuria (50% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __analgesics__.
++ Genital Ulcer (50% of cases | Medium Hazard)
+    + Revealed with __a pelvic exam__.
+    + Cannot be treated.
++ Malnutrition (50% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __diet modification__.
++ Frequent Urination (40% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Constipation (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __purgatives__.
++ Back Pain (35% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Swelling Limbs (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anti-inflammatory cream__.
++ Pelvic Pain (15% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Dyspnea (10% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __respiratory failure__ if left untreated for __1 to 24__ hours.
++ Abdominal Pain (5% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
+
+## Cervical Polyp
+__Occurrence: Rare | Base Payment: $2000__
+A growth projecting from a mucous membrane.
+
+__Symptoms__
+
++ Mucinous Tumors (100% of cases | Medium Hazard)
+    + Revealed with __pelvic sonography__ or __an MRI scan__.
+    + Treated with __surgical resection__.
++ Menorrhagia (30% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __antihemorrhagics__.
++ Leukorrhea (20% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Cannot be treated.
++ Oliguria (15% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Dysuria (10% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __analgesics__.
++ Metrorrhagia (10% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __progestogen__.
+
+## Cervicitis
+__Occurrence: Common | Base Payment: $500__
+Inflammation of the uterine cervix.
+
+__Symptoms__
+
++ Inflammatory Cervical Mucus (100% of cases | Low Hazard)
+    + Revealed with __microbial cultivation__.
+    + Treated with __antibiotics__.
++ Pelvic Pain (85% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Red Cervix (80% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __NSAIDs__.
++ Leukorrhea (75% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Cannot be treated.
++ Metrorrhagia (75% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __progestogen__.
++ Frequent Urination (30% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Elevated CRP (30% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Oliguria (15% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Dysuria (10% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __analgesics__.
+
+## Chlamydia
+__Occurrence: Common | Base Payment: $500__
+A disease or infection caused by chlamydiae.
+
+__Symptoms__
+
++ Chlamydia Trachomatis (100% of cases | Low Hazard)
+    + Revealed with __PCR testing__.
+    + Treated with __antibiotics__.
++ Leukorrhea (100% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Cannot be treated.
++ Fever (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Leukocytosis (80% of cases | Medium Hazard)
+    + Revealed with __CBC testing__.
+    + Cannot be treated.
++ Elevated CRP (80% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Dysuria (70% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __analgesics__.
++ Metrorrhagia (70% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __progestogen__.
++ Pelvic Pain (55% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Strong-Smelling Urine (33% of cases | Low Hazard)
+    + Revealed with __an interview__ or __urine analysis testing__.
+    + Treated with __rehydration__.
+
+## Chorioamnionitis
+__Occurrence: Uncommon | Base Payment: $500__
+Chorioamnionitis is a bacterial infection that occurs before or during labor. The name refers to the membranes surrounding the fetus: the “chorion” (outer membrane) and the “amnion” (fluid-filled sac).
+
+__Symptoms__
+
++ Pregnancy (100% of cases | Low Hazard)
+    + Revealed with __an interview__, __pelvic sonography__, or __a blood test__.
+    + Treated with __recommendations__.
++ Amnionitis. (100% of cases | Medium Hazard)
+    + Revealed with __microbial cultivation__.
+    + Treated with __IV antibiotics__.
++ Leukorrhea (75% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Cannot be treated.
++ Fever (75% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Elevated CRP (75% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Contracted Pelvis (75% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Cannot be treated.
++ Frequent Urination (66% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Strong-Smelling Urine (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __urine analysis testing__.
+    + Treated with __rehydration__.
++ Oliguria (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Anti-Erythrocyte Alloimmunization (33% of cases | High Hazard | __Serious__)
+    + Revealed with __a blood test__ or __ICU blood analysis__.
+    + Treated with __IV immunoglobulin__.
+    + Can lead to __hypovolemic shock__ if left untreated for __6 to 24__ hours.
++ Dysuria (33% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __analgesics__.
+
+## Chronic Bartholinitis
+__Occurrence: Rare | Base Payment: $2500__
+Chronic bartholinitis is an evolution of acute bartholinitis. If left untreated, bartholinitis eventually fistulates on the skin.
+
+__Symptoms__
+
++ Fistula (100% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __chirurgical abscess incision and drainage__.
++ Pelvic Pain (70% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Elevated CRP (50% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Leukocytosis (50% of cases | Medium Hazard)
+    + Revealed with __CBC testing__.
+    + Cannot be treated.
++ Elevated CRP (50% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Fatigue (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Fever (30% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
+
+## Cracked Nipple
+__Occurrence: Uncommon | Base Payment: $400__
+Cracked nipple (or nipple trauma) is a condition that can occur in breastfeeding women as a result of a number of possible causes. Developing a cracked nipple can result in soreness, dryness or irritation to, or bleeding of, one or both nipples during breastfeeding.
+
+__Symptoms__
+
++ Breast Pain (100% of cases | Medium Hazard)
+    + Revealed with __an interview__, __a physical examination__, or __a breast examination__.
+    + Treated with __analgesics__.
++ Post-Partum (100% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an evaluation__.
+    + Cannot be treated.
++ Skin Barrier Defects (100% of cases | Low Hazard)
+    + Revealed with __a breast examination__.
+    + Treated with __recommendations__.
++ Redness (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Rash (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Pain (30% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Breast Discharge (30% of cases | Low Hazard)
+    + Revealed with __an interview__, __a physical examination__, or __a breast examination__.
+    + Cannot be treated.
+
+## Ectopic Pregnancy
+__Occurrence: Uncommon | Base Payment: $5000__
+Development of a fertilized egg elsewhere than in the uterus (as in a fallopian tube or the peritoneal cavity).
+
+__Symptoms__
+
++ Ectopic Bag (100% of cases | High Hazard | __Serious__)
+    + Revealed with __pelvic sonography__, __FAST__, or __an MRI scan__.
+    + Treated with __a salpingotomy__.
+    + Can lead to __unconsciousness__ if left untreated for __4 to 22__ hours.
++ Pelvic Pain (80% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Pregnancy (80% of cases | Low Hazard)
+    + Revealed with __an interview__, __pelvic sonography__, or __a blood test__.
+    + Treated with __recommendations__.
++ Metrorrhagia (70% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __progestogen__.
++ Late Period (66% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Breast Pain (50% of cases | Medium Hazard)
+    + Revealed with __an interview__, __a physical examination__, or __a breast examination__.
+    + Treated with __analgesics__.
++ Abdominal Guarding (40% of cases | Medium Hazard)
+    + Revealed with __abdominal palpation__.
+    + Cannot be treated.
++ Pale Skin (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __B-complex supplement__.
++ Anxiety (25% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __anxiolytics__.
++ Dyspnea (25% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __respiratory failure__ if left untreated for __1 to 24__ hours.
++ Hypotension (20% of cases | Low Hazard)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __diet modification__.
++ Anemia (20% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __vitamin supplementation__.
++ Anti-Erythrocyte Alloimmunization (15% of cases | High Hazard | __Serious__)
+    + Revealed with __a blood test__ or __ICU blood analysis__.
+    + Treated with __IV immunoglobulin__.
+    + Can lead to __hypovolemic shock__ if left untreated for __6 to 24__ hours.
++ Tachycardia (15% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Hemoperitoneum (15% of cases | High Hazard | __Serious__)
+    + Revealed with __a pelvic exam__, __pelvic sonography__, or __FAST__.
+    + Treated with __endoscopic cauterization__.
+    + Can lead to __hypovolemic shock__ if left untreated for __6 to 24__ hours.
+
+## Endometriosis
+__Occurrence: Rare | Base Payment: $3000__
+The presence and growth of functioning endometrial tissue in places other than the uterus.
+
+__Symptoms__
+
++ Endometrial Cyst (100% of cases | Medium Hazard)
+    + Revealed with __pelvic sonography__, __an MRI scan__, or __FAST__.
+    + Treated with __a cystectomy__.
++ Dysmenorrhea (80% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __NSAIDs__.
++ Menorrhagia (70% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __antihemorrhagics__.
++ Dyspareunia (Female) (60% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __estradiol cream__.
++ Irritability (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __tranquilizers__.
++ Back Pain (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Oliguria (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Dysuria (33% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __analgesics__.
++ Frequent Urination (30% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Constipation (25% of cases | Low Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __purgatives__.
++ Hematochezia (20% of cases | Medium Hazard)
+    + Revealed with __stool analysis__.
+    + Treated with __recommendations__.
+
+## Endometritis
+__Occurrence: Uncommon | Base Payment: $400__
+Endometritis is inflammation of the inner lining of the uterus.
+
+__Symptoms__
+
++ Endometrial Involvement (100% of cases | Low Hazard)
+    + Revealed with __pelvic sonography__.
+    + Treated with __antibiotics__.
++ Leukorrhea (80% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Cannot be treated.
++ Pelvic Pain (75% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Elevated CRP (66% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Leukocytosis (66% of cases | Medium Hazard)
+    + Revealed with __CBC testing__.
+    + Cannot be treated.
++ Fever (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Metrorrhagia (50% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __progestogen__.
++ Chills (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antipyretics__.
++ Anemia (50% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __vitamin supplementation__.
++ Thrombocytosis (50% of cases | Medium Hazard)
+    + Revealed with __CBC testing__.
+    + Treated with __anticoagulants__.
++ Irregular Menstruation (40% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
+
+## FHA
+__Occurrence: Common | Base Payment: $250__
+Functional hypothalamic amenorrhea (FHA) is defined as a non-organic and reversible disorder in which the impairment of gonadotropin-releasing hormone (GnRH) pulsatile secretion plays a key role.
+
+__Symptoms__
+
++ Amenorrhea  (100% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __progestogen__.
++ Hypogonadotropic Hypogonadism (100% of cases | Low Hazard)
+    + Revealed with __a blood test__.
+    + Treated with __recommendations__.
++ Weight Loss (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Depression (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __antidepressants__.
++ Fatigue (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Anxiety (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __anxiolytics__.
++ Irritability (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __tranquilizers__.
++ Sleeping Problems (20% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __sleeping drugs__.
++ Weakness (15% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Confusion (10% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __tranquilizers__.
+
+## Fibroadenoma
+__Occurrence: Common | Base Payment: $500__
+A fibroadenoma is a type of lump that can develop in the breast and typically appears in females. Fibroadenomas are very common, but they are benign, which means that they are noncancerous.
+
+__Symptoms__
+
++ Adenofibroma (100% of cases | Low Hazard)
+    + Revealed with __biopsy testing__.
+    + Treated with __medical care__.
++ Breast Swelling (85% of cases | Low Hazard)
+    + Revealed with __an interview__, __a breast examination__, or __a mammogram__.
+    + Treated with __recommendations__.
++ Homogenous Mass (80% of cases | Low Hazard)
+    + Revealed with __a mammogram__ or __an MRI scan__.
+    + Cannot be treated.
++ Breast Pain (33% of cases | Medium Hazard)
+    + Revealed with __an interview__, __a physical examination__, or __a breast examination__.
+    + Treated with __analgesics__.
+
+## Fibrocystic Breast
+__Occurrence: Uncommon | Base Payment: $400__
+Fibrocystic breast disease, commonly called fibrocystic breasts or fibrocystic change, is a benign (noncancerous) condition in which the breasts feel lumpy. Fibrocystic breasts aren't harmful or dangerous, but may be bothersome or uncomfortable for some women.
+
+__Symptoms__
+
++ Epithelial Hyperplasia (100% of cases | Low Hazard)
+    + Revealed with __biopsy testing__.
+    + Treated with __progestogen__.
++ Breast Swelling (85% of cases | Low Hazard)
+    + Revealed with __an interview__, __a breast examination__, or __a mammogram__.
+    + Treated with __recommendations__.
++ Breast Discharge (85% of cases | Low Hazard)
+    + Revealed with __an interview__, __a physical examination__, or __a breast examination__.
+    + Cannot be treated.
++ Homogenous Mass (80% of cases | Low Hazard)
+    + Revealed with __a mammogram__ or __an MRI scan__.
+    + Cannot be treated.
++ Breast Pain (33% of cases | Medium Hazard)
+    + Revealed with __an interview__, __a physical examination__, or __a breast examination__.
+    + Treated with __analgesics__.
+
+## Functional Ovarian Cyst
+__Occurrence: Common | Base Payment: $500__
+An ovarian cyst is a fluid-filled sac within the ovary. Functional cysts grow during the menstrual cycle due to a hormonal imbalance.
+
+__Symptoms__
+
++ Unilocular Ovarian Cyst (100% of cases | Low Hazard)
+    + Revealed with __pelvic sonography__, __FAST__, or __an MRI scan__.
+    + Treated with __recommendations__.
++ Metrorrhagia (66% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __progestogen__.
++ Constipation (66% of cases | Low Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __purgatives__.
++ Pelvic Pain (66% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Frequent Urination (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
+
+## GDM
+__Occurrence: Uncommon | Base Payment: $500__
+Gestational diabetes mellitus (GDM) is defined as any degree of glucose intolerance with onset or first recognition during pregnancy.
+
+__Symptoms__
+
++ Pregnancy (100% of cases | Low Hazard)
+    + Revealed with __an interview__, __pelvic sonography__, or __a blood test__.
+    + Treated with __recommendations__.
++ Insulin Resistance (100% of cases | Medium Hazard)
+    + Revealed with __OGTT testing__.
+    + Treated with __diet modification__.
++ Hunger (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __diet modification__.
++ Weight Loss (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Irritability (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __tranquilizers__.
++ Frequent Urination (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Hypertension (40% of cases | High Hazard | __Serious__)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __antihypertensive medication__.
+    + Can lead to __heart failure__ if left untreated for __6 to 24__ hours.
+
+## Gestational Trophoblastic Detachment
+__Occurrence: Common | Base Payment: $5000__
+It's an early pregnancy bleeding refers to bleeding before 24 weeks of gestational age..
+
+__Symptoms__
+
++ Pregnancy (100% of cases | Low Hazard)
+    + Revealed with __an interview__, __pelvic sonography__, or __a blood test__.
+    + Treated with __recommendations__.
++ Chorionic Hematoma (100% of cases | Medium Hazard)
+    + Revealed with __pelvic sonography__ or __FAST__.
+    + Treated with __rest__.
++ Breast Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__, __a physical examination__, or __a breast examination__.
+    + Treated with __analgesics__.
++ Amenorrhea  (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __progestogen__.
++ Frequent Urination (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Nausea (75% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Vomiting (66% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Pelvic Pain (66% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Hemorrhage (55% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Hypertension (50% of cases | High Hazard | __Serious__)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __antihypertensive medication__.
+    + Can lead to __heart failure__ if left untreated for __6 to 24__ hours.
++ Weakness (40% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Sleeping Problems (35% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __sleeping drugs__.
++ Anti-Erythrocyte Alloimmunization (33% of cases | High Hazard | __Serious__)
+    + Revealed with __a blood test__ or __ICU blood analysis__.
+    + Treated with __IV immunoglobulin__.
+    + Can lead to __hypovolemic shock__ if left untreated for __6 to 24__ hours.
++ Tachycardia (33% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Exhaustion (33% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__.
+    + Treated with __IV infusion__.
+    + Can lead to __coma__ if left untreated for __1 to 24__ hours.
+
+## Gonorrhea
+__Occurrence: Common | Base Payment: $500__
+A contagious inflammation of the genital mucous membrane caused by the gonococcus.
+
+__Symptoms__
+
++ Neisseria Gonorrhoeae (100% of cases | Low Hazard)
+    + Revealed with __PCR testing__ or __microbial cultivation__.
+    + Treated with __antibiotics__.
++ Leukorrhea (100% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Cannot be treated.
++ Fever (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Dysuria (70% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __analgesics__.
++ Pelvic Pain (66% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Strong-Smelling Urine (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __urine analysis testing__.
+    + Treated with __rehydration__.
++ Petechiae (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
+
+## Gynecologic Hemorrhage
+__Occurrence: Common | Base Payment: $4500__
+Gynecologic hemorrhage represents excessive bleeding of the female reproductive system.
+
+__Symptoms__
+
++ Gynecologic Hemorrhage (100% of cases | High Hazard | __Serious__)
+    + Revealed with __pelvic sonography__ or __FAST__.
+    + Treated with __endoscopic cauterization__.
+    + Can lead to __hypovolemic shock__ if left untreated for __6 to 24__ hours.
++ Weakness (100% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Dizziness (100% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Dyspnea (90% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __respiratory failure__ if left untreated for __1 to 24__ hours.
++ Tachycardia (80% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Unstoppable Bleeding (75% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 2__ hours.
++ Pale Skin (75% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __B-complex supplement__.
++ Blood Loss (75% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 8__ hours.
++ Hemorrhage (66% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Anemia (50% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __vitamin supplementation__.
++ Anxiety (33% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __anxiolytics__.
+
+## HELLP Syndrome
+__Occurrence: Common | Base Payment: $5600__
+A serious condition developing in late pregnancy that is characterized by a sudden rise in blood pressure, excessive weight gain, generalized edema, proteinuria, severe headache, and visual disturbances and that may result in eclampsia if untreated.
+
+__Symptoms__
+
++ Pregnancy (100% of cases | Low Hazard)
+    + Revealed with __an interview__, __pelvic sonography__, or __a blood test__.
+    + Treated with __recommendations__.
++ HELLP Syndrome (100% of cases | High Hazard | __Serious__)
+    + Revealed with __a blood test__ or __ICU blood analysis__.
+    + Treated with __a Cesarean section__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 16__ hours.
++ Proteinuria (90% of cases | Low Hazard)
+    + Revealed with __urine analysis testing__.
+    + Treated with __ACE inhibitors__.
++ Pelvic Pain (90% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Hypertension (85% of cases | High Hazard | __Serious__)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __antihypertensive medication__.
+    + Can lead to __heart failure__ if left untreated for __6 to 24__ hours.
++ Preterm (75% of cases | High Hazard)
+    + Revealed with __pelvic sonography__, __a physical examination__, or __a pelvic exam__.
+    + Treated with __IV infusion__.
++ Swelling (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Edema (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diuretics__.
++ Anemia (50% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __vitamin supplementation__.
++ Anti-Erythrocyte Alloimmunization (33% of cases | High Hazard | __Serious__)
+    + Revealed with __a blood test__ or __ICU blood analysis__.
+    + Treated with __IV immunoglobulin__.
+    + Can lead to __hypovolemic shock__ if left untreated for __6 to 24__ hours.
++ Headache (33% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Nausea (33% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Vomiting (33% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Confusion (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __tranquilizers__.
++ Hemorrhage (20% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Bleeding To Stomach (15% of cases | High Hazard | __Serious__)
+    + Revealed with __gastroscopy__.
+    + Treated with __endoscopic cauterization__.
+    + Can lead to __septic shock__ if left untreated for __6 to 24__ hours.
++ Blurred Vision (15% of cases | Low Hazard)
+    + Revealed with __an interview__, __a basic visual test__, or __ophthalmoscopy__.
+    + Treated with __eye drops__.
++ Swelling Limbs (15% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anti-inflammatory cream__.
++ Post-Surgical Seizures (10% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __anti-seizure medication__.
+    + Can lead to __coma__ if left untreated for __6 to 24__ hours.
++ Dyspnea (10% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __respiratory failure__ if left untreated for __1 to 24__ hours.
+
+## Hematocolpos
+__Occurrence: Rare | Base Payment: $2500__
+The hematocolpos is an accumulation of menstrual blood in the vaginal cavity.
+
+__Symptoms__
+
++ Hematocolpos (100% of cases | Low Hazard)
+    + Revealed with __pelvic sonography__ or __an MRI scan__.
+    + Treated with __drainage__.
++ Pelvic Pain (70% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Amenorrhea  (66% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __progestogen__.
++ Abnormal Pelvic Mass Detected (60% of cases | Low Hazard)
+    + Revealed with __a CT scan__, __USG__, or __a pelvic exam__.
+    + Cannot be treated.
++ Late Period (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Dysuria (50% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __analgesics__.
++ Back Pain (30% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
+
+## Infectious Mastitis
+__Occurrence: Rare | Base Payment: $500__
+Inflammation of the mammary gland in the breast or udder, typically due to bacterial infection.
+
+__Symptoms__
+
++ Breast Pain (100% of cases | Medium Hazard)
+    + Revealed with __an interview__, __a physical examination__, or __a breast examination__.
+    + Treated with __analgesics__.
++ Post-Partum (100% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an evaluation__.
+    + Cannot be treated.
++ Budin's Sign (100% of cases | Low Hazard)
+    + Revealed with __a breast examination__.
+    + Treated with __antibiotics__.
++ High Fever (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
+    + Can lead to __exhaustion__ if left untreated for __2 to 8__ hours.
++ Redness (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Swelling (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Elevated CRP (35% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Pain (30% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Leukocytosis (30% of cases | Medium Hazard)
+    + Revealed with __CBC testing__.
+    + Cannot be treated.
++ Breast Discharge (30% of cases | Low Hazard)
+    + Revealed with __an interview__, __a physical examination__, or __a breast examination__.
+    + Cannot be treated.
++ Weakness (10% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
+
+## Interstitial Fibroma
+__Occurrence: Uncommon | Base Payment: $900__
+A benign tumor consisting mainly of fibrous tissue.
+
+__Symptoms__
+
++ Interstitial Myoma (100% of cases | Medium Hazard)
+    + Revealed with __pelvic sonography__, __FAST__, or __an MRI scan__.
+    + Treated with __progestogen__.
++ Menorrhagia (80% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __antihemorrhagics__.
++ Dysmenorrhea (70% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __NSAIDs__.
++ Metrorrhagia (66% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __progestogen__.
++ Constipation (66% of cases | Low Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __purgatives__.
++ Frequent Urination (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Pelvic Pain (50% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Fever (33% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Anemia (20% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __vitamin supplementation__.
+
+## Mastitis
+__Occurrence: Rare | Base Payment: $400__
+Mastitis is an inflammation of breast tissue that sometimes involves an infection. The inflammation results in breast pain, swelling, warmth and redness.
+
+__Symptoms__
+
++ Breast Pain (100% of cases | Medium Hazard)
+    + Revealed with __an interview__, __a physical examination__, or __a breast examination__.
+    + Treated with __analgesics__.
++ Post-Partum (100% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an evaluation__.
+    + Cannot be treated.
++ Lymphangitis (100% of cases | Low Hazard)
+    + Revealed with __a breast examination__.
+    + Treated with __anti-inflammatory cream__.
++ High Fever (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
+    + Can lead to __exhaustion__ if left untreated for __2 to 8__ hours.
++ Redness (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Swelling (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Elevated CRP (33% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Pain (30% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Breast Discharge (30% of cases | Low Hazard)
+    + Revealed with __an interview__, __a physical examination__, or __a breast examination__.
+    + Cannot be treated.
++ Leukocytosis (15% of cases | Medium Hazard)
+    + Revealed with __CBC testing__.
+    + Cannot be treated.
+
+## Menopause
+__Occurrence: Common | Base Payment: $400__
+The natural cessation of menstruation that usually occurs between the ages of 45 and 55.
+
+__Symptoms__
+
++ Amenorrhea  (100% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __progestogen__.
++ Atrophic Vaginitis (100% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __HRT__.
++ Flushing (80% of cases | Low Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __estrogen replacement therapy__.
++ Vaginal Dryness (80% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __estrogen replacement therapy__.
++ Sleeping Problems (66% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __sleeping drugs__.
++ Fatigue (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Night Sweats (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __NSAIDs__.
++ Headache (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Muscle and Joint Pain (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Weight Loss (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Dysuria (55% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __analgesics__.
++ Dyspareunia (Female) (50% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __estradiol cream__.
++ Bloating (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __diet modification__.
++ Urinary Incontinence (40% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __exercise__.
++ Tachycardia (40% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Depression (40% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __antidepressants__.
++ Constipation (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __purgatives__.
++ Diarrhea (20% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __antidiarrheals__.
++ Anxiety (15% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __anxiolytics__.
+
+## Molar Pregnancy
+__Occurrence: Rare | Base Payment: $2000__
+Molar pregnancy is an abnormal form of pregnancy in which a non-viable fertilized egg implants in the uterus and will fail to come to term. A molar pregnancy is a gestational trophoblastic disease[1] which grows into a mass in the uterus that has swollen chorionic villi.
+
+__Symptoms__
+
++ Pregnancy (100% of cases | Low Hazard)
+    + Revealed with __an interview__, __pelvic sonography__, or __a blood test__.
+    + Treated with __recommendations__.
++ Aspect of “Snowstorm” (100% of cases | Low Hazard)
+    + Revealed with __pelvic sonography__.
+    + Treated with __vacuum aspiration__.
++ Pelvic Pain (70% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Nausea (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Vomiting (50% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Metrorrhagia (40% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __progestogen__.
++ Anemia (30% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __vitamin supplementation__.
++ Breast Pain (10% of cases | Medium Hazard)
+    + Revealed with __an interview__, __a physical examination__, or __a breast examination__.
+    + Treated with __analgesics__.
+
+## Organic Ovarian Cyst
+__Occurrence: Common | Base Payment: $2500__
+An ovarian cyst is a fluid-filled sac within the ovary. Organic cysts can complicate or degenerate.
+
+__Symptoms__
+
++ Multilocular Ovarian Cyst (100% of cases | Medium Hazard)
+    + Revealed with __pelvic sonography__, __FAST__, or __an MRI scan__.
+    + Treated with __a cystectomy__.
++ Metrorrhagia (66% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __progestogen__.
++ Constipation (66% of cases | Low Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __purgatives__.
++ Pelvic Pain (66% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Frequent Urination (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
+
+## Ovarian Abscess
+__Occurrence: Uncommon | Base Payment: $4000__
+An ovarian abscess is a pus-filled pocket in an ovary. Usually caused by bacteria.
+
+__Symptoms__
+
++ Fever (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Pelvic Pain (100% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Abdominal Guarding (100% of cases | Medium Hazard)
+    + Revealed with __abdominal palpation__.
+    + Cannot be treated.
++ Leukocytosis (100% of cases | Medium Hazard)
+    + Revealed with __CBC testing__.
+    + Cannot be treated.
++ Abscess (100% of cases | High Hazard | __Serious__)
+    + Revealed with __pelvic sonography__ or __FAST__.
+    + Treated with __drainage__.
+    + Can lead to __septic shock__ if left untreated for __2 to 12__ hours.
+
+## Ovarian Cancer
+__Occurrence: Very Rare | Base Payment: $4000__
+Ovarian cancer is a type of cancer that begins in the ovaries.
+
+__Symptoms__
+
++ Cystadenocarcinoma (100% of cases | High Hazard)
+    + Revealed with __biopsy testing__.
+    + Treated with __a hysterectomy__.
++ Extracystic Vegetation (90% of cases | Low Hazard)
+    + Revealed with __pelvic sonography__ or __an MRI scan__.
+    + Treated with __a hysterectomy__.
++ Swelling (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Loss of Appetite (66% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Weight Loss (66% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Swelling Limbs (66% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anti-inflammatory cream__.
++ Fatigue (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Pelvic Pain (50% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Weakness (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Malnutrition (50% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __diet modification__.
++ Constipation (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __purgatives__.
++ Dizziness (40% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Chest Pain (35% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Abdominal Pain (25% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
++ Exhaustion (15% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__.
+    + Treated with __IV infusion__.
+    + Can lead to __coma__ if left untreated for __1 to 24__ hours.
++ Dyspnea (10% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __respiratory failure__ if left untreated for __1 to 24__ hours.
+
+## Ovarian Torsion
+__Occurrence: Uncommon | Base Payment: $4000__
+Ovarian torsion is when an ovary twists on its attachment to other structures.
+
+__Symptoms__
+
++ Ovarian Ascended (100% of cases | High Hazard | __Serious__)
+    + Revealed with __pelvic sonography__, __FAST__, or __an MRI scan__.
+    + Treated with __detorsion and cystectomy__.
+    + Can lead to __unconsciousness__ if left untreated for __4 to 22__ hours.
++ Pelvic Pain (100% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Abdominal Guarding (100% of cases | Medium Hazard)
+    + Revealed with __abdominal palpation__.
+    + Cannot be treated.
++ Cyst (80% of cases | Medium Hazard)
+    + Revealed with __pelvic sonography__ or __an MRI scan__.
+    + Treated with __detorsion and cystectomy__.
++ Nausea (75% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Metrorrhagia (66% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __progestogen__.
++ Constipation (66% of cases | Low Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __purgatives__.
++ Vomiting (60% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Frequent Urination (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Hemoperitoneum (15% of cases | High Hazard | __Serious__)
+    + Revealed with __a pelvic exam__, __pelvic sonography__, or __FAST__.
+    + Treated with __endoscopic cauterization__.
+    + Can lead to __hypovolemic shock__ if left untreated for __6 to 24__ hours.
+
+## Overactive Bladder
+__Occurrence: Uncommon | Base Payment: $500__
+Overactive bladder corresponds to involuntary loss of urine, preceded by an immediately urgent and uninhibited need (urgency or urgent need), which can occur at rest, at night, without any notion of effort.
+
+__Symptoms__
+
++ Urinary Incontinence (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __exercise__.
++ Bladder Contraction (100% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __anticholinergics__.
++ Frequent Urination (66% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Urinary Urgency (66% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Frequent Urination At Night (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Dysuria (33% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __analgesics__.
+
+## PCOS
+__Occurrence: Uncommon | Base Payment: $3300__
+Polycystic ovary syndrome or polycystic ovarian syndrome. A variable disease that is marked by amenorrhea, hirsutism, obesity, infertility, and ovarian enlargement and is usually initiated by an elevated level of luteinizing hormone, androgen, or estrogen which results in an abnormal cycle of gonadotropin release by the pituitary gland.
+
+__Symptoms__
+
++ Polycystic Ovary (100% of cases | Low Hazard)
+    + Revealed with __pelvic sonography__.
+    + Treated with __a cystectomy__.
++ Biological Hyperandrogenism (75% of cases | Low Hazard)
+    + Revealed with __a blood test__.
+    + Cannot be treated.
++ Seborrhea (66% of cases | Low Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __corticosteroids__.
++ Hirsutism (66% of cases | Low Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __anti-androgens__.
++ Acne (66% of cases | Low Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __an anti-acneic__.
++ Amenorrhea  (66% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __progestogen__.
++ Weight Gain (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Acanthosis Nigricans (15% of cases | Medium Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __anti-diabetic drug__.
+    + Can lead to __fainting__ if left untreated for __4 to 8__ hours.
++ Hair Loss (10% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
+
+## Pelvic Inflammatory Disease
+__Occurrence: Uncommon | Base Payment: $500__
+Inflammation of the female reproductive tract (such as the fallopian tubes and ovaries) that occurs especially as a result of a sexually transmitted disease and is a leading cause of infertility in women.
+
+__Symptoms__
+
++ Tube Damage (100% of cases | Low Hazard)
+    + Revealed with __pelvic sonography__.
+    + Treated with __antibiotics__.
++ Leukorrhea (80% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Cannot be treated.
++ Abdominal Pain (75% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
++ Frequent Urination (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Dysuria (70% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __analgesics__.
++ Metrorrhagia (40% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __progestogen__.
++ Leukocytosis (35% of cases | Medium Hazard)
+    + Revealed with __CBC testing__.
+    + Cannot be treated.
++ Weight Loss (35% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Elevated CRP (35% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Fever (35% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Weakness (35% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Pelvic Pain (25% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Abdominal Guarding (20% of cases | Medium Hazard)
+    + Revealed with __abdominal palpation__.
+    + Cannot be treated.
++ Nausea (20% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Vomiting (20% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Chills (20% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antipyretics__.
++ Diarrhea (5% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __antidiarrheals__.
++ Constipation (5% of cases | Low Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __purgatives__.
+
+## Pelvic Vein Thrombosis
+__Occurrence: Uncommon | Base Payment: $400__
+Pelvic vein thrombosis may include ovarian vein thrombosis, deep pelvic vein thrombosis, septic pelvic thrombophlebitis.
+
+__Symptoms__
+
++ Post-Partum (100% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an evaluation__.
+    + Cannot be treated.
++ PVT Detected (100% of cases | Medium Hazard)
+    + Revealed with __USG__.
+    + Treated with __anticoagulants__.
++ Pelvic Pain (80% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Tenderness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Redness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Swelling (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Frequent Urination (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Fever (55% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Dysuria (50% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __analgesics__.
++ Strong-Smelling Urine (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __urine analysis testing__.
+    + Treated with __rehydration__.
++ Limited Leg Motion (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Constipation (33% of cases | Low Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __purgatives__.
++ Swelling Limbs (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anti-inflammatory cream__.
++ Edema (15% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diuretics__.
++ Pulmonary Artery Blockage (10% of cases | High Hazard | __Serious__)
+    + Revealed with __angiography__.
+    + Treated with __thrombolytics__.
+    + Can lead to __heart failure__ if left untreated for __6 to 24__ hours.
+
+## PIH
+__Occurrence: Uncommon | Base Payment: $500__
+Gestational Hypertension also referred to as Pregnancy-Induced Hypertension (PIH) is a condition characterized by high blood pressure during pregnancy. Gestational Hypertension can lead to a serious condition called Preeclampsia.
+
+__Symptoms__
+
++ Pregnancy (100% of cases | Low Hazard)
+    + Revealed with __an interview__, __pelvic sonography__, or __a blood test__.
+    + Treated with __recommendations__.
++ Gestational Hypertension (100% of cases | High Hazard | __Serious__)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __medical care__.
+    + Can lead to __heart failure__ if left untreated for __18 to 24__ hours.
++ Headache (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Tinnitus (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __recommendations__.
++ Blurred Vision (60% of cases | Low Hazard)
+    + Revealed with __an interview__, __a basic visual test__, or __ophthalmoscopy__.
+    + Treated with __eye drops__.
++ Abdominal Pain (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
+
+## Pilonidal Cyst
+__Occurrence: Rare | Base Payment: $2500__
+A pilonidal cyst is an epithelialized sinus tract or cyst containing hair follicles with a surrounding inflammatory reaction. It usually develops in the sacrococcygeal region with few reports of its development in the genitalia.
+
+__Symptoms__
+
++ Pilonidal Cyst (100% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __a cystectomy__.
++ Pelvic Pain (70% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Pain (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Joint Immobility (30% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
+
+## Placenta Previa
+__Occurrence: Common | Base Payment: $5000__
+An abnormal implantation of the placenta at or near the internal opening of the uterine cervix so that it tends to precede the child at birth usually causing severe maternal hemorrhag.
+
+__Symptoms__
+
++ Low-Lying Placenta (100% of cases | Medium Hazard | __Serious__)
+    + Revealed with __pelvic sonography__, __FAST__, or __an MRI scan__.
+    + Treated with __tocolytics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __6 to 24__ hours.
++ Pregnancy (100% of cases | Low Hazard)
+    + Revealed with __an interview__, __pelvic sonography__, or __a blood test__.
+    + Treated with __recommendations__.
++ Tachycardia (80% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Blood Loss (75% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 8__ hours.
++ Pale Skin (75% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __B-complex supplement__.
++ Preterm (75% of cases | High Hazard)
+    + Revealed with __pelvic sonography__, __a physical examination__, or __a pelvic exam__.
+    + Treated with __IV infusion__.
++ Weakness (66% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Anemia (50% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __vitamin supplementation__.
++ Hypotension (50% of cases | Low Hazard)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __diet modification__.
++ Weight Loss (35% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Anti-Erythrocyte Alloimmunization (33% of cases | High Hazard | __Serious__)
+    + Revealed with __a blood test__ or __ICU blood analysis__.
+    + Treated with __IV immunoglobulin__.
+    + Can lead to __hypovolemic shock__ if left untreated for __6 to 24__ hours.
++ Exhaustion (25% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__.
+    + Treated with __IV infusion__.
+    + Can lead to __coma__ if left untreated for __1 to 24__ hours.
+
+## Postpartum Depression
+__Occurrence: Uncommon | Base Payment: $200__
+Postpartum depression is a mood disorder that can affect women after childbirth. Mothers with postpartum depression experience feelings of extreme sadness, anxiety, and exhaustion that may make it difficult for them to complete daily care activities for themselves or for others.
+
+__Symptoms__
+
++ Post-Partum (100% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an evaluation__.
+    + Cannot be treated.
++ Anxiety About the Baby (100% of cases | Low Hazard)
+    + Revealed with __an evaluation__.
+    + Treated with __antipsychotics__.
++ Sleeping Problems (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __sleeping drugs__.
++ Depression (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __antidepressants__.
++ Long Reaction Time (80% of cases | Low Hazard)
+    + Revealed with __speech listening__.
+    + Cannot be treated.
++ Fatigue (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Weakness (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Irritability (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __tranquilizers__.
++ Confusion (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __tranquilizers__.
++ Anxiety (20% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __anxiolytics__.
++ Trouble Rising (20% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
+
+## Postpartum DVT
+__Occurrence: Uncommon | Base Payment: $400__
+Deep vein thrombosis, or DVT, is the development of a blood clot in a deep vein.
+
+__Symptoms__
+
++ Post-Partum (100% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an evaluation__.
+    + Cannot be treated.
++ DVT Detected (100% of cases | Medium Hazard)
+    + Revealed with __USG__.
+    + Treated with __anticoagulants__.
++ Tenderness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Redness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Swelling (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Fever (66% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Limited Leg Motion (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Swelling Limbs (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anti-inflammatory cream__.
++ Edema (15% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diuretics__.
++ Pulmonary Artery Blockage (10% of cases | High Hazard | __Serious__)
+    + Revealed with __angiography__.
+    + Treated with __thrombolytics__.
+    + Can lead to __heart failure__ if left untreated for __6 to 24__ hours.
+
+## Postpartum Endometritis
+__Occurrence: Uncommon | Base Payment: $350__
+Postpartum endometritis refers to infection of the decidua.
+
+__Symptoms__
+
++ High Fever (100% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
+    + Can lead to __exhaustion__ if left untreated for __2 to 8__ hours.
++ Post-Partum (100% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an evaluation__.
+    + Cannot be treated.
++ Lochia (100% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __antibiotics__.
++ Pelvic Pain (85% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Elevated CRP (66% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Weakness (66% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Tachycardia (33% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Frequent Urination (30% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Anemia (30% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __vitamin supplementation__.
++ Weight Loss (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Leukorrhea (20% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Cannot be treated.
++ Oliguria (15% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Leukocytosis (15% of cases | Medium Hazard)
+    + Revealed with __CBC testing__.
+    + Cannot be treated.
++ Dysuria (10% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __analgesics__.
+
+## Postpartum Hemorrhage
+__Occurrence: Common | Base Payment: $5300__
+Postpartum hemorrhage (PPH) is an obstetric emergency.PPH is classically defined by the volume of blood loss : estimated blood loss ≥500 mL after vaginal birth or ≥1000 mL after cesarean delivery.
+
+__Symptoms__
+
++ Uterine Atony (100% of cases | High Hazard | __Serious__)
+    + Revealed with __pelvic sonography__, __FAST__, or __FAST__.
+    + Treated with __oxytocin__.
+    + Can lead to __unstoppable bleeding__ if left untreated for __4 to 20__ hours.
++ Weakness (100% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Dizziness (100% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Dyspnea (90% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __respiratory failure__ if left untreated for __1 to 24__ hours.
++ Tachycardia (80% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Unstoppable Bleeding (75% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 2__ hours.
++ Pale Skin (75% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __B-complex supplement__.
++ Blood Loss (75% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 8__ hours.
++ Hemorrhage (66% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ High Fever (66% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
+    + Can lead to __exhaustion__ if left untreated for __2 to 8__ hours.
++ Anemia (50% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __vitamin supplementation__.
++ Anxiety (33% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __anxiolytics__.
+
+## Postpartum Pituitary Hypophysitis
+__Occurrence: Rare | Base Payment: $900__
+It's a pituitary inflammatory disorder.
+
+__Symptoms__
+
++ Post-Partum (100% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an evaluation__.
+    + Cannot be treated.
++ Pituitary Enlargement (100% of cases | Low Hazard)
+    + Revealed with __an MRI scan__.
+    + Treated with __corticosteroids__.
++ Amenorrhea  (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __progestogen__.
++ Chills (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antipyretics__.
++ Loss of Appetite (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Weight Gain (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Depression (40% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __antidepressants__.
++ Pale Skin (33% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __B-complex supplement__.
++ Breast Discharge (33% of cases | Low Hazard)
+    + Revealed with __an interview__, __a physical examination__, or __a breast examination__.
+    + Cannot be treated.
++ Bradycardia (30% of cases | Medium Hazard)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __IV atropine__.
++ Weakness (30% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Headache (25% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Hyperlipidemia (20% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __diet modification__.
++ Loss of Vision (10% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __ophthalmoscopy__.
+    + Cannot be treated.
+
+## Postpartum Psychosis
+__Occurrence: Common | Base Payment: $1600__
+Postpartum Psychosis (PP) is a severe form of mental illness that occurs after having a baby.
+
+__Symptoms__
+
++ Post-Partum (100% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an evaluation__.
+    + Cannot be treated.
++ Infanticide Risk (100% of cases | High Hazard)
+    + Revealed with __an evaluation__.
+    + Treated with __antipsychotics__.
++ Sleeping Problems (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __sleeping drugs__.
++ Depression (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __antidepressants__.
++ Long Reaction Time (80% of cases | Low Hazard)
+    + Revealed with __speech listening__.
+    + Cannot be treated.
++ Fatigue (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Weakness (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Irritability (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __tranquilizers__.
++ Confusion (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __tranquilizers__.
++ Dizziness (33% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Anxiety (20% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __anxiolytics__.
++ Trouble Rising (20% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
+
+## Precancerous Cervix
+__Occurrence: Rare | Base Payment: $3000__
+Precancerous conditions of the cervix are changes to cervical cells that make them more likely to develop into cancer.
+
+__Symptoms__
+
++ Cervical Intraepithelial Lesions (100% of cases | Medium Hazard)
+    + Revealed with __biopsy testing__.
+    + Treated with __surgical resection__.
++ High-Risk HPV (85% of cases | Medium Hazard)
+    + Revealed with __Pap smear testing__.
+    + Treated with __antivirals__.
++ Pelvic Pain (40% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Frequent Urination (30% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Oliguria (15% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Dysuria (10% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __analgesics__.
++ Metrorrhagia (10% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __progestogen__.
+
+## Preeclampsia
+__Occurrence: Common | Base Payment: $5750__
+A serious condition developing in late pregnancy that is characterized by a sudden rise in blood pressure, excessive weight gain, generalized edema, proteinuria, severe headache, and visual disturbances and that may result in eclampsia if untreated.
+
+__Symptoms__
+
++ Hypertension (100% of cases | High Hazard | __Serious__)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __antihypertensive medication__.
+    + Can lead to __heart failure__ if left untreated for __6 to 24__ hours.
++ Proteinuria (100% of cases | Low Hazard)
+    + Revealed with __urine analysis testing__.
+    + Treated with __ACE inhibitors__.
++ Pregnancy (100% of cases | Low Hazard)
+    + Revealed with __an interview__, __pelvic sonography__, or __a blood test__.
+    + Treated with __recommendations__.
++ Placental Insufficiency (100% of cases | High Hazard | __Serious__)
+    + Revealed with __pelvic sonography__ or __FAST__.
+    + Treated with __a Cesarean section__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 16__ hours.
++ Preterm (75% of cases | High Hazard)
+    + Revealed with __pelvic sonography__, __a physical examination__, or __a pelvic exam__.
+    + Treated with __IV infusion__.
++ Abnormal LFT (75% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __diet modification__.
++ Pelvic Pain (66% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Swelling (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Anemia (50% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __vitamin supplementation__.
++ Tachycardia (33% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Headache (33% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Nausea (33% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Vomiting (33% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Anti-Erythrocyte Alloimmunization (33% of cases | High Hazard | __Serious__)
+    + Revealed with __a blood test__ or __ICU blood analysis__.
+    + Treated with __IV immunoglobulin__.
+    + Can lead to __hypovolemic shock__ if left untreated for __6 to 24__ hours.
++ Confusion (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __tranquilizers__.
++ Tinnitus (20% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __recommendations__.
++ Blurred Vision (15% of cases | Low Hazard)
+    + Revealed with __an interview__, __a basic visual test__, or __ophthalmoscopy__.
+    + Treated with __eye drops__.
++ Swelling Limbs (15% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anti-inflammatory cream__.
++ Post-Surgical Seizures (10% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __anti-seizure medication__.
+    + Can lead to __coma__ if left untreated for __6 to 24__ hours.
++ Dyspnea (10% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __respiratory failure__ if left untreated for __1 to 24__ hours.
+
+## Pregnancy
+__Occurrence: Common | Base Payment: $250__
+The state of being pregnant.
+
+__Symptoms__
+
++ B-Hcg (100% of cases | Low Hazard)
+    + Revealed with __a blood test__ or __urine analysis testing__.
+    + Treated with __recommendations__.
++ Breast Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__, __a physical examination__, or __a breast examination__.
+    + Treated with __analgesics__.
++ Amenorrhea  (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __progestogen__.
++ Frequent Urination (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Nausea (75% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Vomiting (66% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Weakness (40% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Sleeping Problems (35% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __sleeping drugs__.
+
+## Pregnancy Cystitis
+__Occurrence: Uncommon | Base Payment: $400__
+Cystitis is an infection of the bladder that causes a burning sensation when peeing.
+
+__Symptoms__
+
++ Urinary Infection (100% of cases | Medium Hazard)
+    + Revealed with __microbial cultivation__.
+    + Treated with __antibiotics__.
++ Pregnancy (100% of cases | Low Hazard)
+    + Revealed with __an interview__, __pelvic sonography__, or __a blood test__.
+    + Treated with __recommendations__.
++ Leukorrhea (80% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Cannot be treated.
++ Frequent Urination (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Dysuria (70% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __analgesics__.
++ Abdominal Pain (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
++ Leukocytosis (35% of cases | Medium Hazard)
+    + Revealed with __CBC testing__.
+    + Cannot be treated.
++ Weight Loss (35% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Weakness (35% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Elevated CRP (35% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Urinary Incontinence (35% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __exercise__.
++ Anti-Erythrocyte Alloimmunization (33% of cases | High Hazard | __Serious__)
+    + Revealed with __a blood test__ or __ICU blood analysis__.
+    + Treated with __IV immunoglobulin__.
+    + Can lead to __hypovolemic shock__ if left untreated for __6 to 24__ hours.
++ Contracted Pelvis (20% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Cannot be treated.
++ Nausea (20% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Vomiting (20% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Chills (20% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antipyretics__.
++ Diarrhea (5% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __antidiarrheals__.
++ Constipation (5% of cases | Low Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __purgatives__.
+
+## Pregnancy Pyelonephritis 
+__Occurrence: Uncommon | Base Payment: $500__
+Pyelonephritis is inflammation of the kidney, usually due to ascending bacteria spreading up through the urinary tract.
+
+__Symptoms__
+
++ Pregnancy (100% of cases | Low Hazard)
+    + Revealed with __an interview__, __pelvic sonography__, or __a blood test__.
+    + Treated with __recommendations__.
++ Renal Parenchyma Infection (100% of cases | Medium Hazard)
+    + Revealed with __microbial cultivation__.
+    + Treated with __IV antibiotics__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Nausea (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Frequent Urination (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Abdominal Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
++ Dysuria (60% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __analgesics__.
++ Vomiting (60% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Malaise (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Back Pain (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Hematuria (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __urine analysis testing__.
+    + Treated with __antibiotics__.
++ Anti-Erythrocyte Alloimmunization (33% of cases | High Hazard | __Serious__)
+    + Revealed with __a blood test__ or __ICU blood analysis__.
+    + Treated with __IV immunoglobulin__.
+    + Can lead to __hypovolemic shock__ if left untreated for __6 to 24__ hours.
++ Chills (20% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antipyretics__.
+
+## Pregnancy Vaginosis
+__Occurrence: Common | Base Payment: $300__
+A bacterial infection of the vagina causing a smelly white discharge.
+
+__Symptoms__
+
++ Clue Cells (100% of cases | Medium Hazard)
+    + Revealed with __microbial cultivation__.
+    + Treated with __antibiotics__.
++ Pregnancy (100% of cases | Low Hazard)
+    + Revealed with __an interview__, __pelvic sonography__, or __a blood test__.
+    + Treated with __recommendations__.
++ Leukorrhea (80% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Cannot be treated.
++ Vaginal Odor (75% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Cannot be treated.
++ Anti-Erythrocyte Alloimmunization (33% of cases | High Hazard | __Serious__)
+    + Revealed with __a blood test__ or __ICU blood analysis__.
+    + Treated with __IV immunoglobulin__.
+    + Can lead to __hypovolemic shock__ if left untreated for __6 to 24__ hours.
+
+## Premature Delivery Threats
+__Occurrence: Common | Base Payment: $5666__
+Preterm labor can result in premature birth.
+
+__Symptoms__
+
++ Pregnancy (100% of cases | Low Hazard)
+    + Revealed with __an interview__, __pelvic sonography__, or __a blood test__.
+    + Treated with __recommendations__.
++ Spasms (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __spasmolytics__.
++ PROM (100% of cases | High Hazard | __Serious__)
+    + Revealed with __pelvic sonography__ or __FAST__.
+    + Treated with __a Cesarean section__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 16__ hours.
++ Preterm (75% of cases | High Hazard)
+    + Revealed with __pelvic sonography__, __a physical examination__, or __a pelvic exam__.
+    + Treated with __IV infusion__.
++ Fever (75% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Pelvic Pain (66% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Metrorrhagia (60% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __progestogen__.
++ Dysuria (60% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __analgesics__.
++ Tachycardia (50% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Frequent Urination (40% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Anti-Erythrocyte Alloimmunization (33% of cases | High Hazard | __Serious__)
+    + Revealed with __a blood test__ or __ICU blood analysis__.
+    + Treated with __IV immunoglobulin__.
+    + Can lead to __hypovolemic shock__ if left untreated for __6 to 24__ hours.
++ Elevated CRP (30% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Leukocytosis (30% of cases | Medium Hazard)
+    + Revealed with __CBC testing__.
+    + Cannot be treated.
++ Anemia (30% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __vitamin supplementation__.
++ Hypotension (20% of cases | Low Hazard)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __diet modification__.
++ Hypertension (20% of cases | High Hazard | __Serious__)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __antihypertensive medication__.
+    + Can lead to __heart failure__ if left untreated for __6 to 24__ hours.
++ Strong-Smelling Urine (15% of cases | Low Hazard)
+    + Revealed with __an interview__ or __urine analysis testing__.
+    + Treated with __rehydration__.
++ Depression (10% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __antidepressants__.
++ Anxiety (10% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __anxiolytics__.
+
+## Premenstrual Syndrome
+__Occurrence: Common | Base Payment: $300__
+A varying group of symptoms manifested by some women prior to menstruation.
+
+__Symptoms__
+
++ Breast Pain (100% of cases | Medium Hazard)
+    + Revealed with __an interview__, __a physical examination__, or __a breast examination__.
+    + Treated with __analgesics__.
++ High Hormone (100% of cases | Low Hazard)
+    + Revealed with __a blood test__.
+    + Treated with __recommendations__.
++ Irritability (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __tranquilizers__.
++ Anxiety (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __anxiolytics__.
++ Headache (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Depression (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __antidepressants__.
++ Bloating (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __diet modification__.
++ Constipation (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __purgatives__.
+
+## Prolapse
+__Occurrence: Common | Base Payment: $500__
+The falling down or slipping of a body part from its usual position or relations.
+
+__Symptoms__
+
++ Prolapse (100% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __a pessary__.
++ Dysuria (80% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __analgesics__.
++ Constipation (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __purgatives__.
++ Frequent Urination (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Pelvic Pain (60% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
+
+## Recurrent Bartholinitis
+__Occurrence: Rare | Base Payment: $2500__
+Acute bartholinitis is a localized inflammation of the Bartholin gland or its dilated excretory duct.
+
+__Symptoms__
+
++ Bartholin's Cyst (100% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __a cystectomy__.
++ Pelvic Pain (70% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Elevated CRP (50% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Leukocytosis (50% of cases | Medium Hazard)
+    + Revealed with __CBC testing__.
+    + Cannot be treated.
++ Elevated CRP (50% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Fatigue (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Fever (30% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
+
+## Retroplacental Hematomas
+__Occurrence: Common | Base Payment: $5500__
+Retroplacental hematomas are entirely behind the placenta and not touching the gestational sac.
+
+__Symptoms__
+
++ Pregnancy (100% of cases | Low Hazard)
+    + Revealed with __an interview__, __pelvic sonography__, or __a blood test__.
+    + Treated with __recommendations__.
++ Retroplacental Hematomas (100% of cases | High Hazard | __Serious__)
+    + Revealed with __pelvic sonography__, __FAST__, or __an MRI scan__.
+    + Treated with __a Cesarean section__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 16__ hours.
++ Hypertension (80% of cases | High Hazard | __Serious__)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __antihypertensive medication__.
+    + Can lead to __heart failure__ if left untreated for __6 to 24__ hours.
++ Tachycardia (80% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Preterm (75% of cases | High Hazard)
+    + Revealed with __pelvic sonography__, __a physical examination__, or __a pelvic exam__.
+    + Treated with __IV infusion__.
++ Contracted Pelvis (75% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Cannot be treated.
++ Pelvic Pain (75% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Metrorrhagia (55% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __progestogen__.
++ Abdominal Guarding (55% of cases | Medium Hazard)
+    + Revealed with __abdominal palpation__.
+    + Cannot be treated.
++ Oliguria (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Night Sweats (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __NSAIDs__.
++ Blood Loss (50% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 8__ hours.
++ Pale Skin (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __B-complex supplement__.
++ Cyanosis (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __oxygen therapy__.
++ Weight Loss (35% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Anti-Erythrocyte Alloimmunization (33% of cases | High Hazard | __Serious__)
+    + Revealed with __a blood test__ or __ICU blood analysis__.
+    + Treated with __IV immunoglobulin__.
+    + Can lead to __hypovolemic shock__ if left untreated for __6 to 24__ hours.
++ Hemorrhage (33% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Exhaustion (25% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__.
+    + Treated with __IV infusion__.
+    + Can lead to __coma__ if left untreated for __1 to 24__ hours.
+
+## Ruptured Ovarian Cyst
+__Occurrence: Uncommon | Base Payment: $5000__
+A ruptured ovarian cyst is a fluid-filled, typically benign (non-cancerous) mass on an ovary that has broken open.
+
+__Symptoms__
+
++ Free Fluid In the Recto Uterine Pouch (100% of cases | High Hazard | __Serious__)
+    + Revealed with __pelvic sonography__, __FAST__, or __an MRI scan__.
+    + Treated with __a cystectomy__.
+    + Can lead to __unconsciousness__ if left untreated for __4 to 22__ hours.
++ Abdominal Pain (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
++ Anemia (80% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __vitamin supplementation__.
++ Metrorrhagia (66% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __progestogen__.
++ Pelvic Pain (66% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Nausea (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Vomiting (40% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Abdominal Guarding (25% of cases | Medium Hazard)
+    + Revealed with __abdominal palpation__.
+    + Cannot be treated.
++ Hemorrhage (20% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Hemoperitoneum (15% of cases | High Hazard | __Serious__)
+    + Revealed with __a pelvic exam__, __pelvic sonography__, or __FAST__.
+    + Treated with __endoscopic cauterization__.
+    + Can lead to __hypovolemic shock__ if left untreated for __6 to 24__ hours.
+
+## Salpingitis
+__Occurrence: Uncommon | Base Payment: $400__
+Salpingitis is an infection and inflammation in the Fallopian tubes.
+
+__Symptoms__
+
++ Tubal Involvement (100% of cases | Low Hazard)
+    + Revealed with __pelvic sonography__.
+    + Treated with __antibiotics__.
++ Leukorrhea (80% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Cannot be treated.
++ Pelvic Pain (75% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Metrorrhagia (66% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __progestogen__.
++ Red Cervix (66% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __NSAIDs__.
++ Elevated CRP (66% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Leukocytosis (66% of cases | Medium Hazard)
+    + Revealed with __CBC testing__.
+    + Cannot be treated.
++ Fever (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Anemia (50% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __vitamin supplementation__.
++ Thrombocytosis (50% of cases | Medium Hazard)
+    + Revealed with __CBC testing__.
+    + Treated with __anticoagulants__.
++ Abdominal Guarding (40% of cases | Medium Hazard)
+    + Revealed with __abdominal palpation__.
+    + Cannot be treated.
++ Abscess (20% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __incision and drainage__.
+    + Can lead to __septic shock__ if left untreated for __6 to 24__ hours.
++ Peritonitis (20% of cases | High Hazard | __Serious__)
+    + Revealed with __peritoneal fluid analysis testing__.
+    + Treated with __abdominal surgery__.
+    + Can lead to __septic shock__ if left untreated for __6 to 24__ hours.
+
+## Sheehan's Syndrome
+__Occurrence: Rare | Base Payment: $900__
+Sheehan's syndrome, also known as postpartum pituitary gland necrosis, is hypopituitarism (decreased functioning of the pituitary gland), caused by ischemic necrosis due to blood loss and hypovolemic shock during and after childbirth.
+
+__Symptoms__
+
++ Post-Partum (100% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an evaluation__.
+    + Cannot be treated.
++ Anterior Pituitary Ischemic Necrosis (100% of cases | Low Hazard)
+    + Revealed with __an MRI scan__.
+    + Treated with __corticosteroid injections__.
++ Amenorrhea  (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __progestogen__.
++ Chills (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antipyretics__.
++ Loss of Appetite (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Weight Gain (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Depression (40% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __antidepressants__.
++ Irregular Menstruation (40% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Pale Skin (33% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __B-complex supplement__.
++ Dyspareunia (Female) (33% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __estradiol cream__.
++ Bradycardia (30% of cases | Medium Hazard)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __IV atropine__.
++ Weakness (30% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Hyperlipidemia (20% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __diet modification__.
++ Edema (10% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diuretics__.
++ Osteoporosis (10% of cases | Low Hazard)
+    + Revealed with __a CT scan__.
+    + Treated with __bone strengthening pills__.
+
+## Sterilization Request
+__Occurrence: Rare | Base Payment: $2000__
+Tubal ligation — also known as having your tubes tied or tubal sterilization — is a type of permanent birth control. During tubal ligation, the fallopian tubes are cut, tied or blocked to permanently prevent pregnancy.
+
+__Symptoms__
+
++ Tubal Ligation (100% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an evaluation__.
+    + Treated with __tubal sterilization__.
++ Anxiety (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __anxiolytics__.
+
+## Stress Incontinence
+__Occurrence: Common | Base Payment: $500__
+Stress incontinence corresponds to an involuntary loss of effort (laughter, coughing, sneezing, sport ...), without feeling of need.
+
+__Symptoms__
+
++ Urinary Incontinence (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __exercise__.
++ Urethral Hypermobility (100% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __perineo-sphincter rehabilitation__.
++ Constipation (66% of cases | Low Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __purgatives__.
++ Irritable Cough (33% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
+
+## Submucous Fibroma
+__Occurrence: Uncommon | Base Payment: $2500__
+A benign tumor consisting mainly of fibrous tissue.
+
+__Symptoms__
+
++ Submucous Myoma (100% of cases | Medium Hazard)
+    + Revealed with __pelvic sonography__, __FAST__, or __an MRI scan__.
+    + Treated with __high-intensity focused ultrasound__.
++ Menorrhagia (80% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __antihemorrhagics__.
++ Dysmenorrhea (70% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __NSAIDs__.
++ Metrorrhagia (66% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __progestogen__.
++ Constipation (66% of cases | Low Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __purgatives__.
++ Frequent Urination (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Pelvic Pain (50% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Fever (33% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Anemia (20% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __vitamin supplementation__.
+
+## Subserous Fibroma
+__Occurrence: Uncommon | Base Payment: $750__
+A benign tumor consisting mainly of fibrous tissue.
+
+__Symptoms__
+
++ Subserous Myomas (100% of cases | Medium Hazard)
+    + Revealed with __pelvic sonography__, __FAST__, or __an MRI scan__.
+    + Treated with __progestogen__.
++ Menorrhagia (80% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __antihemorrhagics__.
++ Dysmenorrhea (70% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __NSAIDs__.
++ Metrorrhagia (66% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __progestogen__.
++ Constipation (66% of cases | Low Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __purgatives__.
++ Frequent Urination (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Pelvic Pain (50% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Fever (33% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Anemia (20% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __vitamin supplementation__.
+
+## Syphilis
+__Occurrence: Uncommon | Base Payment: $500__
+A chronic contagious usually venereal and often congenital disease caused by a spirochete (Treponema pallidum).
+
+__Symptoms__
+
++ Treponema Pallidum (100% of cases | Low Hazard)
+    + Revealed with __serologic testing__ or __ELISA testing__.
+    + Treated with __antibiotics__.
++ Fever (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Rash (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Genital Ulcer (80% of cases | Medium Hazard)
+    + Revealed with __a pelvic exam__.
+    + Cannot be treated.
++ Syphilitic Chancre (80% of cases | Medium Hazard)
+    + Revealed with __a pelvic exam__.
+    + Cannot be treated.
++ Muscle and Joint Pain (75% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Dysuria (50% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __analgesics__.
++ Inguinal Lymph Nodes (33% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __NSAIDs__.
++ Pelvic Pain (33% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Strong-Smelling Urine (15% of cases | Low Hazard)
+    + Revealed with __an interview__ or __urine analysis testing__.
+    + Treated with __rehydration__.
+
+## Syphilis (I)
+__Occurrence: Uncommon | Base Payment: $500__
+Primary syphilis is marked, after about 3 weeks of silent incubation, by the appearance of the chancre at the point of inoculation of the treponema and its lymphadenopathy.
+
+__Symptoms__
+
++ Syphilitic Chancre (100% of cases | Medium Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __recommendations__.
++ Genital Ulcer (80% of cases | Medium Hazard)
+    + Revealed with __a pelvic exam__.
+    + Cannot be treated.
++ Inguinal Lymph Nodes (66% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __NSAIDs__.
++ Leukocytosis (66% of cases | Medium Hazard)
+    + Revealed with __CBC testing__.
+    + Cannot be treated.
++ Elevated CRP (66% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
+
+## Syphilis (II)
+__Occurrence: Rare | Base Payment: $500__
+Secondary syphilis is marked by several mucocutaneous rashes interspersed with asymptomatic phases of a few weeks or months and last two years on average. General and visceral signs are associated with it, which testify to the systematic spread of treponema.
+
+__Symptoms__
+
++ Treponema Pallidum (100% of cases | Low Hazard)
+    + Revealed with __serologic testing__ or __ELISA testing__.
+    + Treated with __antibiotics__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Rash (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Abnormal LFT (66% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __diet modification__.
++ Leukocytosis (66% of cases | Medium Hazard)
+    + Revealed with __CBC testing__.
+    + Cannot be treated.
++ Elevated CRP (66% of cases | Low Hazard)
+    + Revealed with __a CRP test__.
+    + Treated with __NSAIDs__.
++ Hepatomegaly (66% of cases | Medium Hazard)
+    + Revealed with __a liver function test__, __USG__, or __abdominal palpation__.
+    + Cannot be treated.
++ Syphilide (66% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __antibiotics__.
++ Inguinal Lymph Nodes (50% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __NSAIDs__.
++ Headache (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Muscle and Joint Pain (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Swollen Lymph Nodes (33% of cases | Low Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Genital Ulcer (33% of cases | Medium Hazard)
+    + Revealed with __a pelvic exam__.
+    + Cannot be treated.
++ Axillary Lymph Nodes (20% of cases | Low Hazard)
+    + Revealed with __a breast examination__.
+    + Treated with __NSAIDs__.
++ Hair Loss (10% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Supraclavicular Lymph Nodes (10% of cases | Low Hazard)
+    + Revealed with __neck palpation__.
+    + Treated with __NSAIDs__.
+
+## Toxic Shock Syndrome
+__Occurrence: Very Rare | Base Payment: $1000__
+Toxic shock syndrome is a condition caused by bacterial toxins.
+
+__Symptoms__
+
++ TSST-1 (100% of cases | High Hazard | __Serious__)
+    + Revealed with __PCR testing__.
+    + Treated with __IV antibiotics__.
+    + Can lead to __septic shock__ if left untreated for __4 to 20__ hours.
++ High Fever (75% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
+    + Can lead to __exhaustion__ if left untreated for __2 to 8__ hours.
++ Rash (66% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Hypotension (60% of cases | Low Hazard)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __diet modification__.
++ Redness (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Diarrhea (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __antidiarrheals__.
++ Nausea (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Vomiting (50% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Muscle Pain (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Elevated CK (40% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Cannot be treated.
++ Confusion (33% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __tranquilizers__.
++ Abdominal Pain (30% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
++ Breathing Problems (25% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Dyspnea (10% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __respiratory failure__ if left untreated for __1 to 24__ hours.
+
+## Trichomoniasis
+__Occurrence: Common | Base Payment: $500__
+Infection with or disease caused by trichomonads.
+
+__Symptoms__
+
++ Trichomonas Vaginalis (100% of cases | Low Hazard)
+    + Revealed with __fungal cultivation__.
+    + Treated with __antiparasitic drugs__.
++ Leukorrhea (100% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Cannot be treated.
++ Itching (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihistamines__.
++ Dysuria (70% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __analgesics__.
++ Strong-Smelling Urine (33% of cases | Low Hazard)
+    + Revealed with __an interview__ or __urine analysis testing__.
+    + Treated with __rehydration__.
++ Pelvic Pain (25% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
+
+## Uterine Rupture
+__Occurrence: Common | Base Payment: $6000__
+Uterine rupture is a when the muscular wall of the uterus tears during pregnancy or childbirth.
+
+__Symptoms__
+
++ Uterine Rupture (100% of cases | High Hazard | __Serious__)
+    + Revealed with __pelvic sonography__, __FAST__, or __FAST__.
+    + Treated with __a Cesarean section__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 16__ hours.
++ Weakness (100% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Dizziness (100% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Pregnancy (100% of cases | Low Hazard)
+    + Revealed with __an interview__, __pelvic sonography__, or __a blood test__.
+    + Treated with __recommendations__.
++ Dyspnea (90% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __respiratory failure__ if left untreated for __1 to 24__ hours.
++ Tachycardia (80% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Unstoppable Bleeding (75% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 2__ hours.
++ Pale Skin (75% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __B-complex supplement__.
++ Blood Loss (75% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 8__ hours.
++ Hemorrhage (66% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Anemia (50% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __vitamin supplementation__.
++ Anxiety (33% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __anxiolytics__.
++ Anti-Erythrocyte Alloimmunization (33% of cases | High Hazard | __Serious__)
+    + Revealed with __a blood test__ or __ICU blood analysis__.
+    + Treated with __IV immunoglobulin__.
+    + Can lead to __hypovolemic shock__ if left untreated for __6 to 24__ hours.
+
+## Uterus Cancer
+__Occurrence: Very Rare | Base Payment: $4000__
+Cancer of the womb (uterine or endometrial cancer) is a common cancer that affects the female reproductive system. It's more common in women who have been through the menopause.
+
+__Symptoms__
+
++ Endometrial Adenocarcinoma (100% of cases | High Hazard)
+    + Revealed with __biopsy testing__.
+    + Treated with __a hysterectomy__.
++ Anemia (80% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __vitamin supplementation__.
++ Hemorrhage (80% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Metrorrhagia (70% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __progestogen__.
++ Loss of Appetite (66% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Weight Loss (66% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Fatigue (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Malnutrition (50% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __diet modification__.
++ Weakness (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Pale Skin (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __B-complex supplement__.
++ Dizziness (40% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Oliguria (35% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Headache (35% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Tachycardia (30% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Pelvic Pain (25% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Menorrhagia (20% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __antihemorrhagics__.
++ Dysuria (20% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __analgesics__.
++ Abdominal Pain (15% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
++ Exhaustion (15% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__.
+    + Treated with __IV infusion__.
+    + Can lead to __coma__ if left untreated for __1 to 24__ hours.
++ Dyspnea (10% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __respiratory failure__ if left untreated for __1 to 24__ hours.
+
+## Vaginal Mycosis
+__Occurrence: Common | Base Payment: $350__
+Infection with or disease caused by a fungus.
+
+__Symptoms__
+
++ Candida Albicans (100% of cases | Low Hazard)
+    + Revealed with __fungal cultivation__.
+    + Treated with __antifungal ointment__.
++ Leukorrhea (100% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Cannot be treated.
++ Itching (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihistamines__.
++ Dysuria (70% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __analgesics__.
++ Frequent Urination (66% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Pelvic Pain (25% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Strong-Smelling Urine (15% of cases | Low Hazard)
+    + Revealed with __an interview__ or __urine analysis testing__.
+    + Treated with __rehydration__.
+
+## Vulvar Epidermoid Cyst 
+__Occurrence: Rare | Base Payment: $2500__
+Epidermoid cysts result from the blockage of sebaceous gland channels.
+
+__Symptoms__
+
++ Epidermoid Cyst (100% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __a cystectomy__.
++ Pelvic Pain (70% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Pain (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
+
+## Vulvar Inclusion Cyst
+__Occurrence: Rare | Base Payment: $2500__
+Inclusion cysts are the most common vulvar cysts, they contain epithelial tissue.
+
+__Symptoms__
+
++ Inclusion Cyst (100% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __a cystectomy__.
++ Pelvic Pain (70% of cases | Low Hazard)
+    + Revealed with __a pelvic exam__.
+    + Treated with __analgesics__.
++ Pain (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
+

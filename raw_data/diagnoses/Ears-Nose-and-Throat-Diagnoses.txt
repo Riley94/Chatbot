@@ -1,0 +1,1838 @@
+## Acoustic Neuroma
+__Occurrence: Rare | Base Payment: $800__
+A vestibular schwannoma (also known as acoustic neuroma, acoustic neurinoma, or acoustic neurilemoma) is a benign, usually slow-growing tumor that develops from the balance and hearing nerves supplying the inner ear. The tumor comes from an overproduction of Schwann cells—the cells that normally wrap around nerve fibers like onion skin to help support and insulate nerves. As the vestibular schwannoma grows, it affects the hearing and balance nerves, usually causing unilateral (one-sided) or asymmetric hearing loss, tinnitus (ringing in the ear), and dizziness/loss of balance. As the tumor grows, it can interfere with the face sensation nerve (the trigeminal nerve), causing facial numbness. Vestibular schwannomas can also affect the facial nerve (for the muscles of the face) causing facial weakness or paralysis on the side of the tumor. If the tumor becomes large, it will eventually press against nearby brain structures (such as the brainstem and the cerebellum), becoming life-threatening. 
+
+__Symptoms__
+
++ Vestibular Tumor Found (100% of cases | Medium Hazard)
+    + Revealed with __an MRI scan__ or __a CT scan__.
+    + Treated with __active monitoring__.
++ Diminished Hearing (90% of cases | Medium Hazard)
+    + Revealed with __an interview__, __audiometry at ENT__, or __audiometry__.
+    + Treated with __ear drops__.
++ Hearing Problems (90% of cases | Low Hazard)
+    + Revealed with __an interview__, __audiometry at ENT__, or __audiometry__.
+    + Treated with __ear drops__.
++ Numbness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Frequent Falling (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Tinnitus (80% of cases | Low Hazard)
+    + Revealed with __an interview__, __an ear examination at ENT__, or __an ear examination__.
+    + Treated with __recommendations__.
++ Dizziness (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Nausea (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Vomiting (50% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Muscle Weakness (20% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
+
+## Acute Suppurative Sialadenitis
+__Occurrence: Uncommon | Base Payment: $600__
+Acute sialadenitis is a bacterial inflammation of the salivary gland. It typically affects one major salivary gland, most commonly the parotid,4 and is common in medically debilitated, hospitalized, or postoperative patients.
+
+__Symptoms__
+
++ Acute Suppuraive Sialadenitis Confirmed (100% of cases | Medium Hazard)
+    + Revealed with __an evaluation__ or __microbial cultivation__.
+    + Treated with __antibiotics__.
++ Swelling (100% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Pain (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Xerostomia (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an evaluation__.
+    + Treated with __rehydration__.
++ Hyposalivation (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an evaluation__.
+    + Treated with __rehydration__.
++ Fever (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Chills (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antipyretics__.
++ Tenderness (88% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Edema (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diuretics__.
++ Mouth Drainage (67% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __NSAIDs__.
++ High Fever (30% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
+    + Can lead to __exhaustion__ if left untreated for __2 to 8__ hours.
+
+## Allergic Fungal Sinusitis
+__Occurrence: Very Rare | Base Payment: $700__
+Allergic Fungal Sinusitis. Allergic fungal sinusitis (AFS) is a rare type of fungal infection in the sinuses. The infecting fungi are found in the environment and cause an allergic reaction which results in thick fungal debris, sticky mucus and blockage of the infected sinus. 
+
+__Symptoms__
+
++ Aspergillus Found In Sinus (100% of cases | High Hazard)
+    + Revealed with __a sputum culture__.
+    + Treated with __antimycotics__.
++ Nasal Deformity (96% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __closed reduction__.
++ Headache (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Sputum Cough (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __mucolytics__.
++ Nasal Congestion (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __nasal drops__.
++ Nasal Discharge (82% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __NSAIDs__.
++ Post Nasal Drip (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __nasal drops__.
++ Nasal Findings (80% of cases | Medium Hazard)
+    + Revealed with __a CT scan__.
+    + Treated with __incision and drainage__.
++ Facial Pain (75% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Nasal Pain (75% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __analgesics__.
++ Edema (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diuretics__.
+
+## Allergic Sinusitis
+__Occurrence: Common | Base Payment: $800__
+Sinusitis is a condition where the sinus becomes inflammed. Cases can be caused by allergies and etc.). In this case it is caused by allergies and treatment for this is antihistamines. 
+
+__Symptoms__
+
++ Allergic Sinusitis Confirmed (100% of cases | Medium Hazard)
+    + Revealed with __a CT scan__, __a skin allergy test at ENT__, or __a skin allergy test__.
+    + Treated with __antihistamines__.
++ Nasal Congestion (100% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __nasal drops__.
++ Itching (100% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihistamines__.
++ Inflamed Sinuses (100% of cases | Low Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __saline nasal spray__.
++ Red Eye (100% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Itchy Eyes (98% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Sneezing (98% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Post Nasal Drip (90% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __nasal drops__.
++ Loss of Smell and/Or Taste (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Cannot be treated.
++ Fatigue (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Headache (78% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Facial Pain (75% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Nasal Pain (75% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __analgesics__.
++ Tenderness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Swelling (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Sleeping Problems (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __sleeping drugs__.
++ Irritability (68% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __tranquilizers__.
++ Inflammed Nasal Cavities (10% of cases | Low Hazard)
+    + Revealed with __a nasal cavity inspection__.
+    + Treated with __saline nasal spray__.
+
+## Barotrauma
+__Occurrence: Common | Base Payment: $200__
+Ear barotrauma is discomfort in the ear due to pressure differences between the inside and outside of the eardrum. It may include damage to the ear.
+
+__Symptoms__
+
++ Barotrauma Confirmed (100% of cases | Low Hazard)
+    + Revealed with __an evaluation__.
+    + Treated with __the use of chewing gum and yawning__.
++ Pressure In the Ears (100% of cases | Low Hazard)
+    + Revealed with __an interview__, __an evaluation__, or __an ear examination at ENT__.
+    + Cannot be treated.
++ Diminished Hearing (90% of cases | Medium Hazard)
+    + Revealed with __an interview__, __audiometry at ENT__, or __audiometry__.
+    + Treated with __ear drops__.
++ Hearing Problems (90% of cases | Low Hazard)
+    + Revealed with __an interview__, __audiometry at ENT__, or __audiometry__.
+    + Treated with __ear drops__.
++ Dizziness (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Otalgia (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __analgesics__.
++ Ear Discharge (60% of cases | Medium Hazard)
+    + Revealed with __an interview__, __an ear examination at ENT__, or __an ear examination__.
+    + Treated with __NSAIDs__.
++ Nosebleed (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
+
+## Benign Paroxymal Position Vertigo
+__Occurrence: Extremely Rare | Base Payment: $600__
+Benign paroxysmal positional vertigo (BPPV) is a disorder arising from a problem in the inner ear. Symptoms are repeated, brief periods of vertigo with movement, that is, of a spinning sensation upon changes in the position of the head. This can occur with turning in bed or changing position. Each episode of vertigo typically lasts less than one minute. Nausea is commonly associated. BPPV is one of the most common causes of vertigo. BPPV can result from a head injury or simply occur among those who are older. A specific cause is often not found. The underlying mechanism involves a small calcified otolith moving around loose in the inner ear. It is a type of balance disorder along with labyrinthitis and Ménière's disease. Diagnosis is typically made when the Dix–Hallpike test results in nystagmus (a specific movement pattern of the eyes) and other possible causes have been ruled out. In typical cases, medical imaging is not needed. 
+
+__Symptoms__
+
++ BPPV Suspected (100% of cases | Medium Hazard)
+    + Revealed with __an MRI scan__.
+    + Treated with __recommendations__.
++ Dizziness (90% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Frequent Falling (85% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Nausea (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Vomiting (80% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Hearing Problems (60% of cases | Low Hazard)
+    + Revealed with __an interview__, __audiometry at ENT__, or __audiometry__.
+    + Treated with __ear drops__.
++ Diminished Hearing (60% of cases | Medium Hazard)
+    + Revealed with __an interview__, __audiometry at ENT__, or __audiometry__.
+    + Treated with __ear drops__.
++ Loss of Vision (40% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __ophthalmoscopy__.
+    + Cannot be treated.
++ Slurred Speech (40% of cases | Low Hazard)
+    + Revealed with __speech listening__.
+    + Cannot be treated.
++ Numbness (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Muscle Weakness (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
+
+## Cerumen Impaction
+__Occurrence: Common | Base Payment: $100__
+Earwax, also called cerumen, is made by the body to protect the ears. The ear wax has both lubricating and antibacterial properties. Untreated buildup can lead to hearing loss, irritation, pain in the ear, dizziness, ringing in the ears and other problems. Earwax can be removed in several ways; some of these methods can be done at home.
+
+__Symptoms__
+
++ Ear Wax Blockage Found (100% of cases | Low Hazard)
+    + Revealed with __an ear examination at ENT__ or __an ear examination__.
+    + Treated with __the removal of an object__.
++ Hearing Problems (95% of cases | Low Hazard)
+    + Revealed with __an interview__, __audiometry at ENT__, or __audiometry__.
+    + Treated with __ear drops__.
++ Diminished Hearing (95% of cases | Medium Hazard)
+    + Revealed with __an interview__, __audiometry at ENT__, or __audiometry__.
+    + Treated with __ear drops__.
++ Otalgia (85% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __analgesics__.
++ Pressure In the Ears (85% of cases | Low Hazard)
+    + Revealed with __an interview__, __an evaluation__, or __an ear examination at ENT__.
+    + Cannot be treated.
++ Tinnitus (80% of cases | Low Hazard)
+    + Revealed with __an interview__, __an ear examination at ENT__, or __an ear examination__.
+    + Treated with __recommendations__.
++ Dizziness (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Nausea (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Vomiting (70% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Ear Discharge (60% of cases | Medium Hazard)
+    + Revealed with __an interview__, __an ear examination at ENT__, or __an ear examination__.
+    + Treated with __NSAIDs__.
+
+## Chronic Pharyngitis
+__Occurrence: Rare | Base Payment: $600__
+Pharyngitis is an inflammatory condition of the back of the throat, the pharynx. Acute pharyngitis is more common, and symptoms usually resolve within ten days. Treatment for acute pharyngitis is usually focussed on treating the symptoms. Most cases of acute pharyngitis are viral, but some are bacterial. Antibiotics are only helpful if bacterial infection is the cause for acute pharyngitis. But even if it clearly is bacterial, which can sometimes be hard to tell, antibiotic treatment is not necessarily recommended for all patient groups. However, chronic pharyngitis can be caused by a number of different factors besides infection.In chronic pharyngitis, the soreness either does not go away or recurs frequently. Pharyngitis may be chronic if the sore throat lasts for more than a few weeks. There are several underlying causes for chronic pharyngitis, and treatment depends on what the underlying cause is.
+
+__Symptoms__
+
++ Chronic Pharyngitis Confirmed (100% of cases | Medium Hazard)
+    + Revealed with __an evaluation__.
+    + Treated with __NSAIDs__.
++ Neck Pain (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Decreased Pitch and Loudness (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __vocal therapy__.
++ Dysphagia (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __diet modification__.
++ Irritable Cough (84% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ Hoarseness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __NSAIDs__.
++ Itching (75% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihistamines__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Headache (65% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
+
+## Chronic Sialadenitis
+__Occurrence: Uncommon | Base Payment: $600__
+Chronic sialadenitis, in contrast, is typically less painful and is associated with recurrent enlargement of the gland (often following meals) typically without erythema. The chronic form of the disease is associated with conditions linked to decreased salivary flow, rather than dehydration.
+
+__Symptoms__
+
++ Chronic Sialadenitis Confirmed (100% of cases | Medium Hazard)
+    + Revealed with __an evaluation__ or __a head X-ray__.
+    + Treated with __a massage__.
++ Swelling (100% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Pain (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Xerostomia (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an evaluation__.
+    + Treated with __rehydration__.
++ Hyposalivation (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an evaluation__.
+    + Treated with __rehydration__.
++ Mouth Drainage (67% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __NSAIDs__.
+
+## Chronic Sinusitis
+__Occurrence: Common | Base Payment: $780__
+Chronic Sinusitis is a condition where the sinus becomes inflammed for more than 3 months. In this case it might be caused by allergies, deviated septum, or respiratory tract infections . Treatment for this is a course of saline and corticosteroid nasal spray. 
+
+__Symptoms__
+
++ Nasal Blockage (100% of cases | Low Hazard)
+    + Revealed with __a CT scan__ or __a nasal cavity inspection__.
+    + Treated with __saline nasal spray__.
++ Inflamed Sinuses (100% of cases | Low Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __saline nasal spray__.
++ Nasal Congestion (100% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __nasal drops__.
++ Fatigue (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Sore Throat (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __analgesics__.
++ Headache (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Otalgia (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __analgesics__.
++ Sputum Cough (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __mucolytics__.
++ Post Nasal Drip (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __nasal drops__.
++ Swelling (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Nasal Discharge (78% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __NSAIDs__.
++ Tenderness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Pain (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Bad Breath (45% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __antiseptics__.
++ Nausea (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
+
+## Chronic Sinusitis (With Polyps)
+__Occurrence: Common | Base Payment: $1200__
+Chronic Sinusitis is a condition where the sinus becomes inflammed for more than 3 months. In this case it is caused by nasal polyps from allergies, HIV, Cystic Fibrosis, asthma or something else. Treatment for this is surgery to remove the polyps and a course of saline and corticosteroid nasal spray. 
+
+__Symptoms__
+
++ Massive Nasal Polyps (100% of cases | Low Hazard)
+    + Revealed with __a nasal cavity inspection__.
+    + Treated with __functional endoscopic sinus surgery__.
++ Inflamed Sinuses (100% of cases | Low Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __saline nasal spray__.
++ Nasal Congestion (100% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __nasal drops__.
++ Fatigue (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Sore Throat (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __analgesics__.
++ Post Nasal Drip (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __nasal drops__.
++ Otalgia (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __analgesics__.
++ Sputum Cough (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __mucolytics__.
++ Bad Breath (45% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __antiseptics__.
+
+## Deviated Nasal Septum
+__Occurrence: Common | Base Payment: $1000__
+A deviated nasal septum means the septum of the nose is crooked due to some kind of trauma. 
+
+__Symptoms__
+
++ the Nasal Septum Is Deviated (100% of cases | Medium Hazard)
+    + Revealed with __a nasal cavity inspection__ or __a CT scan__.
+    + Treated with __corticosteroid nasal spray__.
++ Difficulty Breathing Through the Nose (100% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Cannot be treated.
++ Snoring (90% of cases | Medium Hazard)
+    + Revealed with __polysomnograph__, __an interview__, or __an evaluation__.
+    + Cannot be treated.
++ Facial Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Facial Pressure (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Xerostomia (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an evaluation__.
+    + Treated with __rehydration__.
++ Nasal Congestion (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __nasal drops__.
++ Irregular Nasal Cycle (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an evaluation__.
+    + Cannot be treated.
++ Dry Nose (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __rehydration__.
+
+## Diphtheria
+__Occurrence: Extremely Rare | Base Payment: $680__
+Diphtheria (dif-THEER-e-uh) is a serious bacterial infection that usually affects the mucous membranes of your nose and throat. Diphtheria is extremely rare in the United States and other developed countries, thanks to widespread vaccination against the disease.Diphtheria can be treated with medications. But in advanced stages, diphtheria can damage your heart, kidneys and nervous system. Even with treatment, diphtheria can be deadly, especially in children..
+
+__Symptoms__
+
++ C. Diphheriae Found (100% of cases | High Hazard | __Serious__)
+    + Revealed with __microbial cultivation__.
+    + Treated with __antibiotics__.
+    + Can lead to __dyspnea__ if left untreated for __0 to 0.5__ hours.
++ Pseudomembrane (99% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __mucolytics__.
++ Sore Throat (98% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __analgesics__.
++ Hoarseness (93% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __NSAIDs__.
++ High Fever (90% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
+    + Can lead to __exhaustion__ if left untreated for __2 to 8__ hours.
++ Nasal Discharge (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __NSAIDs__.
++ Breathing Problems (88% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Chills (88% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antipyretics__.
++ Swollen Neck (88% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __NSAIDs__.
++ Irregular Heartbeat (88% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __beta blockers__.
+    + Can lead to __heart failure__ if left untreated for __4 to 24__ hours.
++ Dysphagia (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __diet modification__.
++ Swollen Lymph Nodes (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Fatigue (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Malaise (78% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Irritable Cough (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Swallow Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Cyanosis (68% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __oxygen therapy__.
++ Bacteremia (30% of cases | High Hazard | __Serious__)
+    + Revealed with __ICU blood analysis__ or __microbial cultivation__.
+    + Treated with __IV antibiotics__.
+    + Can lead to __septic shock__ if left untreated for __6 to 24__ hours.
+
+## Dysosmia
+__Occurrence: Uncommon | Base Payment: $300__
+Dysosmia is a disorder described as any qualitative alteration or distortion of the perception of smell. Qualitative alterations differ from quantitative alterations, which include anosmia and hyposmia. Dysosmia can be classified as either parosmia (also called troposmia) or phantosmia. Parosmia is a distortion in the perception of an odorant. Odorants smell different from what one remembers. Phantosmia is the perception of an odor when no odorant is present. The cause of dysosmia still remains a theory. It is typically considered a neurological disorder and clinical associations with the disorder have been made. Most cases are described as idiopathic and the main antecedents related to parosmia are URTIs, head trauma, and nasal and paranasal sinus disease. Dysosmia tends to go away on its own but there are options for treatment for patients that want immediate relief. 
+
+__Symptoms__
+
++ Dysosmia Confirmed (100% of cases | Medium Hazard)
+    + Revealed with __a nasal cavity inspection__.
+    + Treated with __nasal drops__.
++ Loss of Smell and/Or Taste (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Cannot be treated.
++ Loss of Appetite (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
+
+## Ear Wax Removal Appointment
+__Occurrence: Common | Base Payment: $100__
+The patient has a appointment with a ENT specialist to get their ear wax removed. 
+
+__Symptoms__
+
++ Ear Wax Removal (100% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __the removal of an object__.
++ Hearing Problems (80% of cases | Low Hazard)
+    + Revealed with __an interview__, __audiometry at ENT__, or __audiometry__.
+    + Treated with __ear drops__.
++ Diminished Hearing (80% of cases | Medium Hazard)
+    + Revealed with __an interview__, __audiometry at ENT__, or __audiometry__.
+    + Treated with __ear drops__.
+
+## Empty Nose Syndrome
+__Occurrence: Extremely Rare | Base Payment: $890__
+Empty nose syndrome (ENS), one form of secondary atrophic rhinitis, is a clinical syndrome in which people who have clear nasal passages experience a range of symptoms, most commonly feelings of nasal obstruction, nasal dryness and crusting, and a sensation of being unable to breathe. 
+
+__Symptoms__
+
++ ENS Findings (100% of cases | Medium Hazard)
+    + Revealed with __a CT scan__.
+    + Treated with __saline nasal spray__.
++ Breathing Problems (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Difficulty Breathing Through the Nose (100% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Cannot be treated.
++ Sleeping Problems (90% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __sleeping drugs__.
++ Depression (88% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __antidepressants__.
++ Nosebleed (83% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Headache (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Dizziness (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Dry Nose (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __rehydration__.
++ Post Nasal Drip (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __nasal drops__.
++ Fatigue (76% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Facial Pain (75% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Nasal Pain (75% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __analgesics__.
++ Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Anxiety (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __anxiolytics__.
++ Swelling (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
+
+## Foreign Object In Ear
+__Occurrence: Uncommon | Base Payment: $200__
+The patient has a object lodged in his/her's ear. 
+
+__Symptoms__
+
++ Foreign Object In Ear (100% of cases | Medium Hazard)
+    + Revealed with __an ear examination at ENT__, __an ear examination__, or __an interview__.
+    + Treated with __the removal of an object__.
++ Otalgia (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __analgesics__.
++ Anxiety (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __anxiolytics__.
++ Ear Damage (50% of cases | Medium Hazard)
+    + Revealed with __an ear examination at ENT__ or __an ear examination__.
+    + Cannot be treated.
+
+## Foreign Object In Nose
+__Occurrence: Uncommon | Base Payment: $200__
+The patient has a object lodged in his/her's nose. 
+
+__Symptoms__
+
++ Foreign Object In Nose (100% of cases | Medium Hazard)
+    + Revealed with __a nasal cavity inspection__ or __an interview__.
+    + Treated with __the removal of an object__.
++ Nasal Pain (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __analgesics__.
++ Anxiety (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __anxiolytics__.
++ Nasal Damage (50% of cases | Medium Hazard)
+    + Revealed with __a nasal cavity inspection__.
+    + Cannot be treated.
+
+## Gastroesophageal Reflux Disease
+__Occurrence: Common | Base Payment: $780__
+Gastroesophageal reflux disease, or GERD, is a digestive disorder that affects the lower esophageal sphincter (LES), the ring of muscle between the esophagus and stomach. Many people, including pregnant women, suffer from heartburn or acid indigestion caused by GERD. If left untreated it will cause esophagitis, Barett's esophagus and even esophageal cancer.
+
+__Symptoms__
+
++ Gastroesophageal Reflux Disease Suspected (100% of cases | Medium Hazard)
+    + Revealed with __an evaluation__.
+    + Treated with __antacids__.
++ Hyperacidity (100% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an evaluation__.
+    + Treated with __antacids__.
++ Acid Reflux (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an evaluation__.
+    + Treated with __antacids__.
++ Chest Pain (89% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Bad Breath (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __antiseptics__.
++ Dysphagia (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __diet modification__.
++ Swallow Pain (75% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Sleeping Problems (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __sleeping drugs__.
++ Oesophagus Abnormalities (60% of cases | Low Hazard)
+    + Revealed with __a barium swallow__.
+    + Treated with __diet modification__.
++ Dry Cough (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ Wheezing (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Cannot be treated.
++ Hoarseness (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __NSAIDs__.
+
+## Hand Foot Mouth Disease
+__Occurrence: Uncommon | Base Payment: $800__
+Hand, foot, and mouth disease (HFMD) is a common infection caused by a group of viruses. It typically begins with a fever and feeling generally unwell. This is followed a day or two later by flat discolored spots or bumps that may blister, on the hands, feet and mouth. There is no treatment for this disease, you only have to treat the symptoms until the disease is over. 
+
+__Symptoms__
+
++ Coxsackievirus A16 Present (100% of cases | Medium Hazard)
+    + Revealed with __stool analysis__ or __serologic testing__.
+    + Treated with __rest__.
++ Rash (100% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Malaise (95% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Fever (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Rash On Arm (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Loss of Appetite (85% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Rash On Leg (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Fatigue (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Irritability (65% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __tranquilizers__.
++ Nausea (65% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Vomiting (65% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
+
+## Laceration of Face
+__Occurrence: Rare | Base Payment: $1200__
+The patient's face is lacerated. 
+
+__Symptoms__
+
++ Lacerated Face (100% of cases | High Hazard | __Serious__)
+    + Revealed with __a CT scan__ or __an MRI scan__.
+    + Treated with __HDU hospitalization__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 3__ hours.
++ Muscle and Skin Damage (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Cannot be treated.
++ Swelling (100% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Bruise (100% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Facial Pain (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Tenderness (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Severe Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Blood Loss (80% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 8__ hours.
++ Redness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Severe Hemorrhage (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __0.5 to 1__ hours.
++ Multiple Arteries Damage (40% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
+    + Can lead to __hypovolemic shock__ if left untreated for __2 to 4__ hours.
+
+## Laceration of the Larynx
+__Occurrence: Very Rare | Base Payment: $5500__
+Laryngeal trauma is injury to the voice box, or larynx, the upper portion of the airway where the vocal cords are located.Blunt trauma to the airway is rather common, but happens less frequently in children than in adults. In pediatric cases, the trauma is usually caused by a fall or blow to the neck, or other throat injury.The damage can range from minor vocal cord weakness to fractures of the cartilage structures of the larynx or trachea. These fractures can cause air to escape into the neck and chest, leading to significant respiratory compromise and even death if not diagnosed and treated quickly.In childhood, the larynx and trachea have a soft cartilage structure and small size. Therefore, pediatric fractures occur less often. Even the largest hospitals only see a small number of real laryngotracheal fracture cases
+
+__Symptoms__
+
++ Laryngeal Trauma Comfirmed (100% of cases | High Hazard | __Serious__)
+    + Revealed with __a CT scan__.
+    + Treated with __HDU hospitalization__.
+    + Can lead to __dyspnea__ if left untreated for __0 to 0.5__ hours.
++ Bruise (100% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Muscle and Skin Damage (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Cannot be treated.
++ Swelling (100% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Hemoptysis (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Swollen Neck (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __NSAIDs__.
++ Neck Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Hoarseness (98% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __NSAIDs__.
++ Neck Pain (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Swallow Pain (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Tenderness (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Breathing Problems (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Redness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Dysphagia (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __diet modification__.
++ Severe Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Blood Loss (80% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 8__ hours.
++ Severe Hemorrhage (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __0.5 to 1__ hours.
++ Nerve Damage (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __nerve reconstructive surgery__.
++ Multiple Arteries Damage (40% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
+    + Can lead to __hypovolemic shock__ if left untreated for __2 to 4__ hours.
+
+## Laryngeal Papillomatosis
+__Occurrence: Very Rare | Base Payment: $1000__
+Laryngeal papillomatosis, also known as recurrent respiratory papillomatosis or glottal papillomatosis, is a rare medical condition in which benign tumors (papilloma) form along the aerodigestive tract. There are two variants based on the age of onset: juvenile and adult laryngeal papillomatosis. The tumors are caused by human papillomavirus (HPV) infection of the throat. The tumors may lead to narrowing of the airway, which may cause vocal changes or airway obstruction. Laryngeal papillomatosis is initially diagnosed through indirect laryngoscopy upon observation of growths on the larynx and can be confirmed through a biopsy. Treatment for laryngeal papillomatosis aims to remove the papillomas and limit their recurrence. Due to the recurrent nature of the virus, repeated treatments usually are needed. Laryngeal papillomatosis is primarily treated surgically, though supplemental nonsurgical and/or medical treatments may be considered in some cases. The evolution of laryngeal papillomatosis is highly variable. Though total recovery may be observed, it is often persistent despite treatment. The number of new cases of laryngeal papillomatosis cases is at approximately 4.3 cases per 100,000 children and 1.8 cases per 100,000 adults annually.
+
+__Symptoms__
+
++ HPV In Throat (100% of cases | Low Hazard)
+    + Revealed with __biopsy testing__.
+    + Treated with __HDU hospitalization__.
++ ORL Findings (100% of cases | Low Hazard)
+    + Revealed with __laryngoscopy__.
+    + Treated with __antibiotics__.
++ Oesophagus Abnormalities (90% of cases | Low Hazard)
+    + Revealed with __a barium swallow__.
+    + Treated with __diet modification__.
++ Pain (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Tenderness (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Stridor (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __NSAIDs__.
++ Dry Cough (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ Lump In Throat (88% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Cannot be treated.
++ Breathing Problems (88% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Hoarseness (83% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __NSAIDs__.
++ Decreased Pitch and Loudness (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __vocal therapy__.
++ Dysphagia (73% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __diet modification__.
++ Pneumonia (60% of cases | High Hazard | __Serious__)
+    + Revealed with __a chest X-ray__.
+    + Treated with __antibiotics__.
+    + Can lead to __acute respiratory distress syndrome (ards)__ if left untreated for __6 to 24__ hours.
+
+## Meniere's Disease (Severe)
+__Occurrence: Exceptional | Base Payment: $550__
+Meniere's disease is a disorder of the inner ear that can lead to dizzy spells (vertigo) and hearing loss. In most cases, Meniere's disease affects only one ear.Meniere's disease can occur at any age, but it usually starts between young and middle-aged adulthood. It's considered a chronic condition, but various treatments can help relieve symptoms and minimize the long-term impact on your life. 
+
+__Symptoms__
+
++ Severe Meniere's Confirmed (100% of cases | Medium Hazard)
+    + Revealed with __an evaluation__.
+    + Treated with __vestibular nerve section surgery__.
++ Dizziness (100% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Hearing Problems (90% of cases | Low Hazard)
+    + Revealed with __an interview__, __audiometry at ENT__, or __audiometry__.
+    + Treated with __ear drops__.
++ Hearing Problems (90% of cases | Low Hazard)
+    + Revealed with __an interview__, __audiometry at ENT__, or __audiometry__.
+    + Treated with __ear drops__.
++ Anxiety (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __anxiolytics__.
++ Poor Balance (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Nausea (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Diminished Hearing (80% of cases | Medium Hazard)
+    + Revealed with __an interview__, __audiometry at ENT__, or __audiometry__.
+    + Treated with __ear drops__.
++ Sleeping Problems (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __sleeping drugs__.
++ Sweating (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anticholinergics__.
++ Vomiting (70% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Tinnitus (70% of cases | Low Hazard)
+    + Revealed with __an interview__, __an ear examination at ENT__, or __an ear examination__.
+    + Treated with __recommendations__.
++ Frequent Falling (40% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
+
+## Nasal Cancer (Adenocarcinoma)
+__Occurrence: Extremely Rare | Base Payment: $1400__
+Paranasal sinus and nasal cavity cancer is a disease in which malignant (cancer) cells form in the tissues of the paranasal sinuses and nasal cavity. "Paranasal" means near the nose. The para sinuses are hollow, air-filled spaces in the bones around the nose. The sinuses are lined with cells that make mucus, which keeps the inside of the nose from drying out during breathing. The nose opens into the nasal cavity, which is divided into two nasal passages. Air moves through these passages during breathing. The nasal cavity lies above the bone that forms the roof of the mouth and curves down at the back to join the throat. The area just inside the nostrils is called the nasal vestibule. A small area of special cells in the roof of each nasal passage sends signals to the brain to give the sense of smell. Together the paranasal sinuses and the nasal cavity filter and warm the air, and make it moist before it goes into the lungs. The movement of air through the sinuses and other parts of the respiratory system help make sounds for talking. Paranasal sinus and nasal cavity cancer is a type of head and neck cancer.
+
+__Symptoms__
+
++ Adenocarcinoma Found In Nose (100% of cases | Medium Hazard)
+    + Revealed with __biopsy testing__.
+    + Treated with __chemotherapy__.
++ Facial Pressure (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Irregular Nasal Cycle (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an evaluation__.
+    + Cannot be treated.
++ Nasal Congestion (88% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __nasal drops__.
++ Swollen Lymph Nodes (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Nosebleed (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Loss of Smell and/Or Taste (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Cannot be treated.
++ Facial Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Post Nasal Drip (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __nasal drops__.
++ Nasal Discharge (75% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __NSAIDs__.
++ Numbness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Loss of Vision (40% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __ophthalmoscopy__.
+    + Cannot be treated.
++ Otalgia (40% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __analgesics__.
++ Trismus (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __analgesics__.
++ Hearing Problems (30% of cases | Low Hazard)
+    + Revealed with __an interview__, __audiometry at ENT__, or __audiometry__.
+    + Treated with __ear drops__.
++ Diminished Hearing (30% of cases | Medium Hazard)
+    + Revealed with __an interview__, __audiometry at ENT__, or __audiometry__.
+    + Treated with __ear drops__.
++ Headache (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
+
+## Nasal Cancer (Melanoma)
+__Occurrence: Exceptional | Base Payment: $1500__
+Paranasal sinus and nasal cavity cancer is a disease in which malignant (cancer) cells form in the tissues of the paranasal sinuses and nasal cavity. "Paranasal" means near the nose. The para sinuses are hollow, air-filled spaces in the bones around the nose. The sinuses are lined with cells that make mucus, which keeps the inside of the nose from drying out during breathing. The nose opens into the nasal cavity, which is divided into two nasal passages. Air moves through these passages during breathing. The nasal cavity lies above the bone that forms the roof of the mouth and curves down at the back to join the throat. The area just inside the nostrils is called the nasal vestibule. A small area of special cells in the roof of each nasal passage sends signals to the brain to give the sense of smell. Together the paranasal sinuses and the nasal cavity filter and warm the air, and make it moist before it goes into the lungs. The movement of air through the sinuses and other parts of the respiratory system help make sounds for talking. Paranasal sinus and nasal cavity cancer is a type of head and neck cancer.
+
+__Symptoms__
+
++ Melanoma Found In Nose (100% of cases | Medium Hazard)
+    + Revealed with __biopsy testing__.
+    + Treated with __chemotherapy__.
++ Facial Pressure (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Irregular Nasal Cycle (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an evaluation__.
+    + Cannot be treated.
++ Nasal Congestion (88% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __nasal drops__.
++ Swollen Lymph Nodes (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Nosebleed (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Loss of Smell and/Or Taste (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Cannot be treated.
++ Facial Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Post Nasal Drip (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __nasal drops__.
++ Nasal Discharge (75% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __NSAIDs__.
++ Numbness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Loss of Vision (40% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __ophthalmoscopy__.
+    + Cannot be treated.
++ Otalgia (40% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __analgesics__.
++ Trismus (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __analgesics__.
++ Hearing Problems (30% of cases | Low Hazard)
+    + Revealed with __an interview__, __audiometry at ENT__, or __audiometry__.
+    + Treated with __ear drops__.
++ Diminished Hearing (30% of cases | Medium Hazard)
+    + Revealed with __an interview__, __audiometry at ENT__, or __audiometry__.
+    + Treated with __ear drops__.
++ Headache (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
+
+## Nasal Cancer (Squamous Cell Carcinoma)
+__Occurrence: Very Rare | Base Payment: $1300__
+Paranasal sinus and nasal cavity cancer is a disease in which malignant (cancer) cells form in the tissues of the paranasal sinuses and nasal cavity. "Paranasal" means near the nose. The para sinuses are hollow, air-filled spaces in the bones around the nose. The sinuses are lined with cells that make mucus, which keeps the inside of the nose from drying out during breathing. The nose opens into the nasal cavity, which is divided into two nasal passages. Air moves through these passages during breathing. The nasal cavity lies above the bone that forms the roof of the mouth and curves down at the back to join the throat. The area just inside the nostrils is called the nasal vestibule. A small area of special cells in the roof of each nasal passage sends signals to the brain to give the sense of smell. Together the paranasal sinuses and the nasal cavity filter and warm the air, and make it moist before it goes into the lungs. The movement of air through the sinuses and other parts of the respiratory system help make sounds for talking. Paranasal sinus and nasal cavity cancer is a type of head and neck cancer.
+
+__Symptoms__
+
++ Squamous Cell Carcinoma Found In Nose (100% of cases | Medium Hazard)
+    + Revealed with __biopsy testing__.
+    + Treated with __chemotherapy__.
++ Facial Pressure (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Irregular Nasal Cycle (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an evaluation__.
+    + Cannot be treated.
++ Nasal Congestion (88% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __nasal drops__.
++ Swollen Lymph Nodes (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Nosebleed (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Loss of Smell and/Or Taste (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Cannot be treated.
++ Facial Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Post Nasal Drip (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __nasal drops__.
++ Nasal Discharge (75% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __NSAIDs__.
++ Numbness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Loss of Vision (40% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __ophthalmoscopy__.
+    + Cannot be treated.
++ Otalgia (40% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __analgesics__.
++ Trismus (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __analgesics__.
++ Hearing Problems (30% of cases | Low Hazard)
+    + Revealed with __an interview__, __audiometry at ENT__, or __audiometry__.
+    + Treated with __ear drops__.
++ Diminished Hearing (30% of cases | Medium Hazard)
+    + Revealed with __an interview__, __audiometry at ENT__, or __audiometry__.
+    + Treated with __ear drops__.
++ Headache (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
+
+## Non-Allergic Rhinitis
+__Occurrence: Common | Base Payment: $700__
+Non-allergic rhinitis involves chronic sneezing or a congested, drippy nose with no apparent cause. The symptoms of nonallergic rhinitis are similar to those of hay fever (allergic rhinitis), but none of the usual evidence of an allergic reaction is present.Nonallergic rhinitis can affect children and adults, but it's more common after age 20. Triggers of nonallergic rhinitis symptoms vary and can include certain odors or irritants in the air, changes in the weather, some medications, certain foods, and chronic health conditions.A diagnosis of nonallergic rhinitis is made after an allergic cause is ruled out. This may require allergy skin or blood tests.
+
+__Symptoms__
+
++ Non-Allergic Rhinitis Comfirmed (100% of cases | Low Hazard)
+    + Revealed with __a skin allergy test at ENT__ or __a skin allergy test__.
+    + Treated with __corticosteroid nasal spray__.
++ Inflammed Nasal Cavities (100% of cases | Low Hazard)
+    + Revealed with __a nasal cavity inspection__.
+    + Treated with __saline nasal spray__.
++ Sputum Cough (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __mucolytics__.
++ Post Nasal Drip (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __nasal drops__.
++ Sneezing (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Nasal Congestion (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __nasal drops__.
+
+## Obstructive Sleep Apnea
+__Occurrence: Common | Base Payment: $600__
+Obstructive sleep apnea (OSA) is the most common type of sleep apnea and is characterised by repeated episodes of complete or partial obstructions of the upper airway during sleep, despite the effort to breathe, and is usually associated with a reduction in blood oxygen saturation.
+
+__Symptoms__
+
++ Obstructive Sleep Apnea Findings (100% of cases | Medium Hazard)
+    + Revealed with __polysomnograph__.
+    + Treated with __the use of a continuous positive airway pressure machine__.
++ Snoring (100% of cases | Medium Hazard)
+    + Revealed with __polysomnograph__, __an interview__, or __an evaluation__.
+    + Cannot be treated.
++ Irritability (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __tranquilizers__.
++ Fatigue (90% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Sleeping Problems (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __sleeping drugs__.
++ Long Reaction Time (80% of cases | Low Hazard)
+    + Revealed with __speech listening__.
+    + Cannot be treated.
++ Xerostomia (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an evaluation__.
+    + Treated with __rehydration__.
++ Sweating (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anticholinergics__.
++ Headache (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Sore Throat (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __analgesics__.
++ Anxiety (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __anxiolytics__.
++ Depression (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __antidepressants__.
+
+## Perichondrial Hematoma
+__Occurrence: Uncommon | Base Payment: $1100__
+If you’ve ever attended a wrestling match, you may have noticed something different about some of the athletes’ ears. Cauliflower ear, also known as perichondrial hematoma or wrestler’s ear, is a deformity of the ear caused by trauma. Cauliflower ear occurs when blood pools in your pinna after it’s been hit or struck. The pinna is your outer ear. This pooling of blood, known as a hematoma, needs to be treated right away. While there’s no treatment for cauliflower ear, it can be prevented even after the trauma has occurred. So it’s crucial to know the warning signs and take action right away.
+
+__Symptoms__
+
++ Blood Clot In Ear (100% of cases | Medium Hazard)
+    + Revealed with __an evaluation__.
+    + Treated with __incision and drainage__.
++ Tenderness (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Ear Deformity (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Swelling (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Bruise (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Severe Pain (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Headache (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Loss of Vision (30% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __ophthalmoscopy__.
+    + Cannot be treated.
++ Blurred Vision (30% of cases | Low Hazard)
+    + Revealed with __an interview__, __a basic visual test__, or __ophthalmoscopy__.
+    + Treated with __eye drops__.
++ Tinnitus (30% of cases | Low Hazard)
+    + Revealed with __an interview__, __an ear examination at ENT__, or __an ear examination__.
+    + Treated with __recommendations__.
++ Hearing Problems (30% of cases | Low Hazard)
+    + Revealed with __an interview__, __audiometry at ENT__, or __audiometry__.
+    + Treated with __ear drops__.
++ Diminished Hearing (30% of cases | Medium Hazard)
+    + Revealed with __an interview__, __audiometry at ENT__, or __audiometry__.
+    + Treated with __ear drops__.
+
+## Rupture of the Eardrum
+__Occurrence: Uncommon | Base Payment: $800__
+A ruptured eardrum (tympanic membrane perforation) is a hole or tear in the thin tissue that separates your ear canal from your middle ear (eardrum).A ruptured eardrum can result in hearing loss. It can also make your middle ear vulnerable to infections.A ruptured eardrum usually heals within a few weeks without treatment. But sometimes it requires a patch or surgical repair to heal.
+
+__Symptoms__
+
++ Ruptured Eardrum (100% of cases | Medium Hazard)
+    + Revealed with __an ear examination at ENT__ or __an ear examination__.
+    + Treated with __rest__.
++ Otalgia (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __analgesics__.
++ Ear Damage (90% of cases | Medium Hazard)
+    + Revealed with __an ear examination at ENT__ or __an ear examination__.
+    + Cannot be treated.
++ Diminished Hearing (90% of cases | Medium Hazard)
+    + Revealed with __an interview__, __audiometry at ENT__, or __audiometry__.
+    + Treated with __ear drops__.
++ Hearing Problems (90% of cases | Low Hazard)
+    + Revealed with __an interview__, __audiometry at ENT__, or __audiometry__.
+    + Treated with __ear drops__.
++ Ear Discharge (90% of cases | Medium Hazard)
+    + Revealed with __an interview__, __an ear examination at ENT__, or __an ear examination__.
+    + Treated with __NSAIDs__.
++ Itching (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihistamines__.
++ Tinnitus (80% of cases | Low Hazard)
+    + Revealed with __an interview__, __an ear examination at ENT__, or __an ear examination__.
+    + Treated with __recommendations__.
++ Dizziness (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Nausea (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Vomiting (50% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ High Fever (40% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
+    + Can lead to __exhaustion__ if left untreated for __2 to 8__ hours.
++ Infected Wound (30% of cases | Low Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __antiseptics__.
++ Bacteremia (15% of cases | High Hazard | __Serious__)
+    + Revealed with __ICU blood analysis__ or __microbial cultivation__.
+    + Treated with __IV antibiotics__.
+    + Can lead to __septic shock__ if left untreated for __6 to 24__ hours.
+
+## Severe Glue Ear
+__Occurrence: Uncommon | Base Payment: $800__
+Otitis media with effusion is a condition where fluid is present in the middle ear due to infection or inflammation following an infection. It usually affects children.
+
+__Symptoms__
+
++ Fluid In the Middle Ear (100% of cases | Low Hazard)
+    + Revealed with __an ear examination at ENT__ or __an ear examination__.
+    + Treated with __an adenoidectomy__.
++ Otalgia (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __analgesics__.
++ Diminished Hearing (90% of cases | Medium Hazard)
+    + Revealed with __an interview__, __audiometry at ENT__, or __audiometry__.
+    + Treated with __ear drops__.
++ Hearing Problems (90% of cases | Low Hazard)
+    + Revealed with __an interview__, __audiometry at ENT__, or __audiometry__.
+    + Treated with __ear drops__.
++ Fatigue (88% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Poor Balance (85% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Irritability (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __tranquilizers__.
++ Edema (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diuretics__.
++ Swollen Ear Canal (70% of cases | Medium Hazard)
+    + Revealed with __an interview__, __an ear examination at ENT__, or __an ear examination__.
+    + Treated with __ear drops__.
++ Sleeping Problems (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __sleeping drugs__.
+
+## Severe Otitis Externa
+__Occurrence: Uncommon | Base Payment: $400__
+Otitis externa is the inflammation of the outer part of the ear canal, it is caused mostly by bacteria.
+
+__Symptoms__
+
++ Ear Infection Found (100% of cases | Medium Hazard)
+    + Revealed with __an ear examination at ENT__ or __an ear examination__.
+    + Treated with __antibiotics__.
++ Itching (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihistamines__.
++ Pain (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Swollen Ear Canal (90% of cases | Medium Hazard)
+    + Revealed with __an interview__, __an ear examination at ENT__, or __an ear examination__.
+    + Treated with __ear drops__.
++ Otalgia (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __analgesics__.
++ Redness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Ear Discharge (70% of cases | Medium Hazard)
+    + Revealed with __an interview__, __an ear examination at ENT__, or __an ear examination__.
+    + Treated with __NSAIDs__.
++ Fever (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Diminished Hearing (50% of cases | Medium Hazard)
+    + Revealed with __an interview__, __audiometry at ENT__, or __audiometry__.
+    + Treated with __ear drops__.
++ Hearing Problems (50% of cases | Low Hazard)
+    + Revealed with __an interview__, __audiometry at ENT__, or __audiometry__.
+    + Treated with __ear drops__.
++ Swollen Lymph Nodes (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Severe Pain (30% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
+
+## Severed Ear
+__Occurrence: Very Rare | Base Payment: $800__
+A severed ear means the ear has been cut or bit off. 
+
+__Symptoms__
+
++ Severed Ear (100% of cases | High Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __HDU hospitalization__.
++ Ear Damage (100% of cases | Medium Hazard)
+    + Revealed with __an ear examination at ENT__ or __an ear examination__.
+    + Cannot be treated.
++ Blood Loss (99% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 8__ hours.
++ Pain (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Otalgia (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __analgesics__.
++ Severe Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Severe Hemorrhage (3% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __0.5 to 1__ hours.
+
+## Strep Throat
+__Occurrence: Common | Base Payment: $500__
+Strep throat is an infection caused by a type of bacteria (group A streptococcus). Strep bacteria cause almost a third of all sore throats. Strep throat usually needs treatment with antibiotics. 
+
+__Symptoms__
+
++ Streptococcus Pyogenes Present (100% of cases | Medium Hazard)
+    + Revealed with __microbial cultivation__.
+    + Treated with __antibiotics__.
++ Red Swollen Tonsils (100% of cases | Medium Hazard)
+    + Revealed with __an oral cavity inspection__.
+    + Treated with __NSAIDs__.
++ White Patches On Tonsils (100% of cases | Low Hazard)
+    + Revealed with __an oral cavity inspection__.
+    + Treated with __NSAIDs__.
++ Swollen Lymph Nodes (92% of cases | Low Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Fever (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Dysphagia (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __diet modification__.
++ Sore Throat (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __analgesics__.
++ Breathing Problems (85% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Muscle and Joint Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Swallow Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ ORL Findings (80% of cases | Low Hazard)
+    + Revealed with __laryngoscopy__.
+    + Treated with __antibiotics__.
++ Chills (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antipyretics__.
++ Rash (75% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Vomiting (70% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Nausea (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Abscess (30% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __incision and drainage__.
+    + Can lead to __septic shock__ if left untreated for __2 to 10__ hours.
++ Pneumonia (20% of cases | High Hazard | __Serious__)
+    + Revealed with __a chest X-ray__.
+    + Treated with __antibiotics__.
+    + Can lead to __acute respiratory distress syndrome (ards)__ if left untreated for __6 to 24__ hours.
++ Bacteremia (20% of cases | High Hazard | __Serious__)
+    + Revealed with __ICU blood analysis__ or __microbial cultivation__.
+    + Treated with __IV antibiotics__.
+    + Can lead to __septic shock__ if left untreated for __6 to 24__ hours.
+
+## Throat Cancer (Adenocarcinoma)
+__Occurrence: Exceptional | Base Payment: $1500__
+Squamous cell carcinoma of the throat is the most common type of throat cancer. Squamous cell carcinoma of the throat is an uncontrolled growth of abnormal cells of the lining of the throat. The throat consists of the pharynx (the upper part behind the tongue) and the larynx (the voice box).
+
+__Symptoms__
+
++ Adenocarcinoma Found In Throat (100% of cases | Medium Hazard)
+    + Revealed with __biopsy testing__.
+    + Treated with __chemotherapy__.
++ Dysphagia (98% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __diet modification__.
++ Decreased Pitch and Loudness (95% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __vocal therapy__.
++ Pain (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Sore Throat (86% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __analgesics__.
++ Swollen Lymph Nodes (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Lump In Throat (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Cannot be treated.
++ Dysphasia (80% of cases | Low Hazard)
+    + Revealed with __an interview__, __speech listening__, or __neurological testing__.
+    + Cannot be treated.
++ Chronic Wound (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antibiotics__.
++ Neck Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Irritable Cough (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ Hoarseness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __NSAIDs__.
++ Weight Loss (58% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Breathing Problems (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Bad Breath (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __antiseptics__.
++ Metastatic Cancer (25% of cases | Medium Hazard)
+    + Revealed with __a CT scan__ or __an MRI scan__.
+    + Cannot be treated.
++ Perineural Invasion (25% of cases | Low Hazard)
+    + Revealed with __biopsy testing__.
+    + Cannot be treated.
+
+## Throat Cancer (Squamous Cell Carcinoma)
+__Occurrence: Extremely Rare | Base Payment: $1100__
+Squamous cell carcinoma of the throat is the most common type of throat cancer. Squamous cell carcinoma of the throat is an uncontrolled growth of abnormal cells of the lining of the throat. The throat consists of the pharynx (the upper part behind the tongue) and the larynx (the voice box).
+
+__Symptoms__
+
++ Squamous Cell Carcinoma Found In Throat (100% of cases | Medium Hazard)
+    + Revealed with __biopsy testing__.
+    + Treated with __chemotherapy__.
++ Dysphagia (98% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __diet modification__.
++ Decreased Pitch and Loudness (95% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __vocal therapy__.
++ Pain (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Sore Throat (86% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __analgesics__.
++ Swollen Lymph Nodes (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Lump In Throat (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Cannot be treated.
++ Dysphasia (80% of cases | Low Hazard)
+    + Revealed with __an interview__, __speech listening__, or __neurological testing__.
+    + Cannot be treated.
++ Chronic Wound (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antibiotics__.
++ Neck Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Irritable Cough (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ Hoarseness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __NSAIDs__.
++ Weight Loss (58% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Breathing Problems (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Bad Breath (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __antiseptics__.
++ Metastatic Cancer (25% of cases | Medium Hazard)
+    + Revealed with __a CT scan__ or __an MRI scan__.
+    + Cannot be treated.
++ Perineural Invasion (25% of cases | Low Hazard)
+    + Revealed with __biopsy testing__.
+    + Cannot be treated.
+
+## Trauma of the Larynx
+__Occurrence: Rare | Base Payment: $2000__
+Laryngeal trauma is injury to the voice box, or larynx, the upper portion of the airway where the vocal cords are located.Blunt trauma to the airway is rather common, but happens less frequently in children than in adults. In pediatric cases, the trauma is usually caused by a fall or blow to the neck, or other throat injury.The damage can range from minor vocal cord weakness to fractures of the cartilage structures of the larynx or trachea. These fractures can cause air to escape into the neck and chest, leading to significant respiratory compromise and even death if not diagnosed and treated quickly.In childhood, the larynx and trachea have a soft cartilage structure and small size. Therefore, pediatric fractures occur less often. Even the largest hospitals only see a small number of real laryngotracheal fracture cases.
+
+__Symptoms__
+
++ Blunt Laryngeal Trauma Comfirmed (100% of cases | Medium Hazard | __Serious__)
+    + Revealed with __a CT scan__.
+    + Treated with __HDU hospitalization__.
+    + Can lead to __dyspnea__ if left untreated for __0 to 0.1__ hours.
++ Swelling (100% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Bruise (100% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Neck Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Swollen Neck (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __NSAIDs__.
++ Hemoptysis (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Pain (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Muscle and Skin Damage (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Cannot be treated.
++ Hoarseness (98% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __NSAIDs__.
++ Neck Pain (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Breathing Problems (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Swallow Pain (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Tenderness (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Dysphagia (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __diet modification__.
++ Redness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Nerve Damage (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __nerve reconstructive surgery__.
++ Blood Loss (20% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 8__ hours.
+
+## Turbinate Hypertrophy
+__Occurrence: Common | Base Payment: $500__
+The nasal turbinates are long, narrow passageways that help to warm and moisten the air that flows in through the nose. The turbinates are also called the nasal conchae. If the turbinates are too large, they can actually block airflow. Doctors call this condition turbinate hypertrophy. This condition can cause breathing problems, frequent infections, and nosebleeds. 
+
+__Symptoms__
+
++ Swollen Nasal Turbinates (100% of cases | Low Hazard)
+    + Revealed with __a CT scan__, __an MRI scan__, or __a nasal cavity inspection__.
+    + Treated with __corticosteroid nasal spray__.
++ Nasal Congestion (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __nasal drops__.
++ Difficulty Breathing Through the Nose (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Cannot be treated.
++ Breathing Problems (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Snoring (70% of cases | Medium Hazard)
+    + Revealed with __polysomnograph__, __an interview__, or __an evaluation__.
+    + Cannot be treated.
++ Xerostomia (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an evaluation__.
+    + Treated with __rehydration__.
++ Facial Pain (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Facial Pressure (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
+
+## Unhealed Rupture of the Eardrum
+__Occurrence: Rare | Base Payment: $1000__
+A ruptured eardrum (tympanic membrane perforation) is a hole or tear in the thin tissue that separates your ear canal from your middle ear (eardrum).A ruptured eardrum can result in hearing loss. It can also make your middle ear vulnerable to infections.A ruptured eardrum usually heals within a few weeks without treatment. But sometimes it requires a patch or surgical repair to heal.
+
+__Symptoms__
+
++ Unhealed Rupture of the Eardrum (100% of cases | Medium Hazard | __Serious__)
+    + Revealed with __an ear examination at ENT__ or __an ear examination__.
+    + Treated with __HDU hospitalization__.
+    + Can lead to __septic shock__ if left untreated for __0 to 0.1__ hours.
++ Otalgia (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __analgesics__.
++ Ear Damage (90% of cases | Medium Hazard)
+    + Revealed with __an ear examination at ENT__ or __an ear examination__.
+    + Cannot be treated.
++ Diminished Hearing (90% of cases | Medium Hazard)
+    + Revealed with __an interview__, __audiometry at ENT__, or __audiometry__.
+    + Treated with __ear drops__.
++ Ear Discharge (90% of cases | Medium Hazard)
+    + Revealed with __an interview__, __an ear examination at ENT__, or __an ear examination__.
+    + Treated with __NSAIDs__.
++ Hearing Problems (90% of cases | Low Hazard)
+    + Revealed with __an interview__, __audiometry at ENT__, or __audiometry__.
+    + Treated with __ear drops__.
++ Tinnitus (80% of cases | Low Hazard)
+    + Revealed with __an interview__, __an ear examination at ENT__, or __an ear examination__.
+    + Treated with __recommendations__.
++ Itching (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihistamines__.
++ Dizziness (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Infected Wound (70% of cases | Low Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __antiseptics__.
++ High Fever (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
+    + Can lead to __exhaustion__ if left untreated for __2 to 8__ hours.
++ Nausea (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Vomiting (50% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Bacteremia (20% of cases | High Hazard | __Serious__)
+    + Revealed with __ICU blood analysis__ or __microbial cultivation__.
+    + Treated with __IV antibiotics__.
+    + Can lead to __septic shock__ if left untreated for __6 to 24__ hours.
+
+## Vestibular Neuritis
+__Occurrence: Very Rare | Base Payment: $700__
+Vestibular neuritis is a disorder that affects the nerve of the inner ear called the vestibulocochlear nerve. This nerve sends balance and head position information from the inner ear to the brain. When this nerve becomes swollen (inflamed), it disrupts the way the information would normally be interpreted by the brain. 
+
+__Symptoms__
+
++ Inflammation of the Vestibular Nerve (100% of cases | Medium Hazard)
+    + Revealed with __an MRI scan__ or __a CT scan__.
+    + Treated with __antihistamines__.
++ Dizziness (90% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Nausea (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Vomiting (80% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Frequent Falling (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
+
+## Vocal Cord Nodules
+__Occurrence: Rare | Base Payment: $800__
+Vocal nodules are hard, rough, noncancerous growths on your vocal cords. They can be as small as a pinhead or as large as a pea. You get nodules from straining or overusing your voice, especially from singing, yelling, or talking loudly or for a long period of time. Vocal nodules go by other names based on their cause.
+
+__Symptoms__
+
++ Vocal Cord Nodules Found (100% of cases | Low Hazard)
+    + Revealed with __laryngoscopy at ENT__.
+    + Treated with __vocal therapy__.
++ Hoarseness (100% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __NSAIDs__.
++ Fatigue (90% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Stridor (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __NSAIDs__.
++ Lump In Throat (90% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Cannot be treated.
++ Neck Pain (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Pain (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Tenderness (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Dry Cough (86% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ Decreased Pitch and Loudness (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __vocal therapy__.
++ Otalgia (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __analgesics__.
++ Hemorrhagic Vocal Polyp (70% of cases | High Hazard | __Serious__)
+    + Revealed with __laryngoscopy at ENT__.
+    + Treated with __carbon dioxide laser surgery__.
+    + Can lead to __acute respiratory distress syndrome (ards)__ if left untreated for __4 to 8__ hours.
+
+## Vocal Cord Paralysis
+__Occurrence: Extremely Rare | Base Payment: $1200__
+Vocal cord paralysis occurs when the nerve impulses to your voice box (larynx) are disrupted. This results in paralysis of the vocal cord muscles. Vocal cord paralysis can affect your ability to speak and even breathe. That's because your vocal cords, sometimes called vocal folds, do more than just produce sound.
+
+__Symptoms__
+
++ Vocal Cord Paralysis (100% of cases | Medium Hazard)
+    + Revealed with __laryngoscopy at ENT__.
+    + Treated with __vocal therapy__.
++ Stridor (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __NSAIDs__.
++ Decreased Pitch and Loudness (98% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __vocal therapy__.
++ Irritable Cough (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ Hoarseness (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __NSAIDs__.
++ Breathing Problems (35% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Pneumonia (10% of cases | High Hazard | __Serious__)
+    + Revealed with __a chest X-ray__.
+    + Treated with __antibiotics__.
+    + Can lead to __acute respiratory distress syndrome (ards)__ if left untreated for __6 to 24__ hours.
+

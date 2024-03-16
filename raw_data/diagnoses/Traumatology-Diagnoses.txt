@@ -1,0 +1,2053 @@
+## Abdominal Ballistic Wound
+__Occurrence: Uncommon | Base Payment: $7100__
+Ballistic trauma caused by high-velocity flying projectile ending up with complex skeletal, vascular, and nerve injuries with large soft tissue defects - affecting patient's abdomen. 
+
+__Symptoms__
+
++ Ballistic Wound (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
++ Abdominal Pain (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
++ Lower Abdomen Cavitation (100% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __thoracic trauma surgery__.
+    + Can lead to __hypovolemic shock__ if left untreated for __10 to 24__ hours.
++ Hemorrhage (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Severe Hemorrhage (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __0.5 to 1__ hours.
++ Muscle and Skin Damage (70% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Cannot be treated.
++ Blood Loss (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 8__ hours.
++ Dizziness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Tenderness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Tachycardia (33% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Tachypnea (33% of cases | Medium Hazard)
+    + Revealed with __chest auscultation__.
+    + Treated with __oxygen therapy__.
++ Hypoxia (33% of cases | High Hazard | __Serious__)
+    + Revealed with __pulse oximetry__.
+    + Treated with __concentrated oxygen__.
+    + Can lead to __unconsciousness__ if left untreated for __8 to 24__ hours.
++ Small Intestine Perforated (30% of cases | High Hazard | __Serious__)
+    + Revealed with __a CT scan__.
+    + Treated with __small bowel resection__.
+    + Can lead to __septic shock__ if left untreated for __6 to 12__ hours.
++ Kidney Damaged (30% of cases | High Hazard | __Serious__)
+    + Revealed with __an MRI scan__.
+    + Treated with __laparoscopic pyeloplasty__.
+    + Can lead to __distributive shock__ if left untreated for __6 to 12__ hours.
++ Large Intestine Perforated (30% of cases | High Hazard | __Serious__)
+    + Revealed with __a CT scan__.
+    + Treated with __bowel resection__.
+    + Can lead to __septic shock__ if left untreated for __6 to 12__ hours.
++ Hypovolemic Shock (10% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __death__ if left untreated for __2 to 4__ hours.
+
+## Abdominal Blast Trauma
+__Occurrence: Uncommon | Base Payment: $10500__
+Blast injury is a complex type of physical trauma resulting from direct or indirect exposure to an explosion.
+
+__Symptoms__
+
++ Penetrating Wound (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
++ Blast Wound (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
++ Abdominal Pain (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
++ Abdominal Trauma (100% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __thoracic trauma surgery__.
+    + Can lead to __heart failure__ if left untreated for __10 to 24__ hours.
++ Muscle and Skin Damage (70% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Cannot be treated.
++ Hemorrhage (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Large Arteries Damaged (70% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __vascular surgery__.
+    + Can lead to __hypovolemic shock__ if left untreated for __8 to 24__ hours.
++ Blood Loss (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 8__ hours.
++ Degloved Skin (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __replantation__.
++ Foreign Object Present (70% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __foreign object removal__.
+    + Can lead to __septic shock__ if left untreated for __4 to 12__ hours.
++ Severe Hemorrhage (50% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __0.5 to 1__ hours.
++ Small Intestine Perforated (33% of cases | High Hazard | __Serious__)
+    + Revealed with __a CT scan__.
+    + Treated with __small bowel resection__.
+    + Can lead to __septic shock__ if left untreated for __6 to 12__ hours.
++ Kidney Damaged (33% of cases | High Hazard | __Serious__)
+    + Revealed with __an MRI scan__.
+    + Treated with __laparoscopic pyeloplasty__.
+    + Can lead to __distributive shock__ if left untreated for __6 to 12__ hours.
++ Stomach Perforated (33% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __gastric perforation repair__.
+    + Can lead to __septic shock__ if left untreated for __6 to 12__ hours.
++ Liver Damaged (33% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __hepatoplasty__.
+    + Can lead to __distributive shock__ if left untreated for __6 to 12__ hours.
++ Bradycardia (33% of cases | Medium Hazard)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __IV atropine__.
++ Femoral Fracture (33% of cases | Medium Hazard)
+    + Revealed with __a lower limb X-ray__.
+    + Treated with __trauma fracture surgery of the leg__.
++ Hypoxemia (33% of cases | High Hazard | __Serious__)
+    + Revealed with __pulse oximetry__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __unconsciousness__ if left untreated for __6 to 18__ hours.
++ Unconsciousness (33% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __coma__ if left untreated for __6 to 24__ hours.
++ Bradypnea (33% of cases | Medium Hazard)
+    + Revealed with __chest auscultation__.
+    + Treated with __ACE inhibitors__.
++ Tibial Fracture (33% of cases | Medium Hazard)
+    + Revealed with __a lower limb X-ray__.
+    + Treated with __trauma fracture surgery of the leg__.
++ Hypovolemic Shock (10% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __death__ if left untreated for __2 to 4__ hours.
+
+## Abdominal Shattered Wound
+__Occurrence: Common | Base Payment: $8800__
+Polytraumatic penetration of an object that pierces the skin and enters the body, with heavy damage to all neighboring structures and organs.
+
+__Symptoms__
+
++ Upper Abdomen Trauma (100% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __thoracic trauma surgery__.
+    + Can lead to __hypovolemic shock__ if left untreated for __10 to 24__ hours.
++ Penetrating Wound (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
++ Abdominal Pain (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
++ Malaise (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Tenderness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Skin Avulsion (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __wound closure__.
++ Multiple Arteries Damage (70% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
+    + Can lead to __hypovolemic shock__ if left untreated for __2 to 4__ hours.
++ Hemorrhage (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Muscle and Skin Damage (70% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Cannot be treated.
++ Blood Loss (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 8__ hours.
++ Severe Hemorrhage (50% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __0.5 to 1__ hours.
++ Tachycardia (33% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Hypoxia (33% of cases | High Hazard | __Serious__)
+    + Revealed with __pulse oximetry__.
+    + Treated with __concentrated oxygen__.
+    + Can lead to __unconsciousness__ if left untreated for __8 to 24__ hours.
++ Hypotension (33% of cases | Low Hazard)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __diet modification__.
++ Tachypnea (33% of cases | Medium Hazard)
+    + Revealed with __chest auscultation__.
+    + Treated with __oxygen therapy__.
++ Hypovolemic Shock (10% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __death__ if left untreated for __2 to 4__ hours.
++ Liver Damaged (10% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __hepatoplasty__.
+    + Can lead to __distributive shock__ if left untreated for __6 to 12__ hours.
++ Pancreas Damaged (10% of cases | High Hazard | __Serious__)
+    + Revealed with __an MRI scan__.
+    + Treated with __pancreaticoplasty__.
+    + Can lead to __distributive shock__ if left untreated for __6 to 12__ hours.
++ Spleen Damaged (10% of cases | High Hazard | __Serious__)
+    + Revealed with __a CT scan__.
+    + Treated with __a splenectomy__.
+    + Can lead to __distributive shock__ if left untreated for __6 to 12__ hours.
++ Stomach Perforated (10% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __gastric perforation repair__.
+    + Can lead to __septic shock__ if left untreated for __6 to 12__ hours.
++ Foreign Object Present (10% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __foreign object removal__.
+    + Can lead to __septic shock__ if left untreated for __4 to 12__ hours.
+
+## Abdominal Stab Wound
+__Occurrence: Uncommon | Base Payment: $7400__
+Stab wound is a specific form of penetrating trauma to the skin that results from a knife or a similar pointed object.
+
+__Symptoms__
+
++ Lower Abdomen Trauma (100% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __thoracic trauma surgery__.
+    + Can lead to __hypovolemic shock__ if left untreated for __10 to 24__ hours.
++ Stab Wound (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
++ Abdominal Pain (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
++ Blood Loss (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 8__ hours.
++ Tenderness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Skin Avulsion (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __wound closure__.
++ Multiple Arteries Damage (70% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
+    + Can lead to __hypovolemic shock__ if left untreated for __2 to 4__ hours.
++ Hemorrhage (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Muscle and Skin Damage (70% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Cannot be treated.
++ Malaise (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Severe Hemorrhage (50% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __0.5 to 1__ hours.
++ Tachycardia (33% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Hypoxia (33% of cases | High Hazard | __Serious__)
+    + Revealed with __pulse oximetry__.
+    + Treated with __concentrated oxygen__.
+    + Can lead to __unconsciousness__ if left untreated for __8 to 24__ hours.
++ Hypotension (33% of cases | Low Hazard)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __diet modification__.
++ Tachypnea (33% of cases | Medium Hazard)
+    + Revealed with __chest auscultation__.
+    + Treated with __oxygen therapy__.
++ Septic Shock (10% of cases | High Hazard | __Fatal__)
+    + Revealed with __CBC testing__.
+    + Treated with __IV antibiotics__.
+    + Can lead to __death__ if left untreated for __2 to 4__ hours.
++ Small Intestine Perforated (10% of cases | High Hazard | __Serious__)
+    + Revealed with __a CT scan__.
+    + Treated with __small bowel resection__.
+    + Can lead to __septic shock__ if left untreated for __6 to 12__ hours.
++ Kidney Damaged (10% of cases | High Hazard | __Serious__)
+    + Revealed with __an MRI scan__.
+    + Treated with __laparoscopic pyeloplasty__.
+    + Can lead to __distributive shock__ if left untreated for __6 to 12__ hours.
++ Large Intestine Perforated (10% of cases | High Hazard | __Serious__)
+    + Revealed with __a CT scan__.
+    + Treated with __bowel resection__.
+    + Can lead to __septic shock__ if left untreated for __6 to 12__ hours.
+
+## Arm Ballistic Wound
+__Occurrence: Common | Base Payment: $6500__
+Ballistic trauma caused by a high-velocity flying projectile resulting in complex skeletal, vascular and nerve injuries with large soft tissue defects affecting patient's upper limb.
+
+__Symptoms__
+
++ Upper Limb Cavitation (100% of cases | High Hazard | __Serious__)
+    + Revealed with __a CT scan__.
+    + Treated with __upper limb trauma surgery__.
+    + Can lead to __septic shock__ if left untreated for __10 to 24__ hours.
++ Ballistic Wound (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
++ Severe Arm Pain (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Limited Arm Motion (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Blood Loss (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 8__ hours.
++ Hemorrhage (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Muscle and Skin Damage (70% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Cannot be treated.
++ Large Arteries Damaged (70% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __vascular surgery__.
+    + Can lead to __hypovolemic shock__ if left untreated for __8 to 24__ hours.
++ Unstoppable Bleeding (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 2__ hours.
++ Severe Hemorrhage (50% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __0.5 to 1__ hours.
++ Tachycardia (33% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Tachypnea (33% of cases | Medium Hazard)
+    + Revealed with __chest auscultation__.
+    + Treated with __oxygen therapy__.
++ Ulnar Fracture (30% of cases | Medium Hazard)
+    + Revealed with __an upper limb X-ray__.
+    + Treated with __trauma fracture surgery of the arm__.
++ Radial Fracture (30% of cases | Medium Hazard)
+    + Revealed with __an upper limb X-ray__.
+    + Treated with __trauma fracture surgery of the arm__.
++ Humeral Fracture (30% of cases | Medium Hazard)
+    + Revealed with __an upper limb X-ray__.
+    + Treated with __trauma fracture surgery of the arm__.
++ Foreign Object Present (30% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __foreign object removal__.
+    + Can lead to __septic shock__ if left untreated for __4 to 12__ hours.
++ Hypovolemic Shock (10% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __death__ if left untreated for __2 to 4__ hours.
+
+## Arm Shattered Wound
+__Occurrence: Common | Base Payment: $5500__
+Polytraumatic penetration of an object that pierces the skin and enters the body, with heavy damage to all neighboring structures and organs.
+
+__Symptoms__
+
++ Penetrating Wound (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
++ Severe Arm Pain (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Upper Limb Trauma (100% of cases | High Hazard | __Serious__)
+    + Revealed with __a CT scan__.
+    + Treated with __upper limb trauma surgery__.
+    + Can lead to __hypovolemic shock__ if left untreated for __10 to 24__ hours.
++ Hemorrhage (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Muscle and Skin Damage (70% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Cannot be treated.
++ Blood Loss (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 8__ hours.
++ Severe Hemorrhage (50% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __0.5 to 1__ hours.
++ Limited Arm Motion (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Tachycardia (33% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Tachypnea (33% of cases | Medium Hazard)
+    + Revealed with __chest auscultation__.
+    + Treated with __oxygen therapy__.
++ Unstoppable Bleeding (33% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 2__ hours.
++ Large Arteries Damaged (33% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __vascular surgery__.
+    + Can lead to __hypovolemic shock__ if left untreated for __8 to 24__ hours.
++ Foreign Object Present (33% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __foreign object removal__.
+    + Can lead to __septic shock__ if left untreated for __4 to 12__ hours.
++ Hypovolemic Shock (10% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __death__ if left untreated for __2 to 4__ hours.
+
+## Chemical Burn of An Arm
+__Occurrence: Common | Base Payment: $1100__
+Chemical burn caused by contact with acid, base or oxidizer that can cause extensive tissue damage.
+
+__Symptoms__
+
++ Severe Arm Pain (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Burn Wound (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
++ Chemical Burn On An Arm (100% of cases | Medium Hazard)
+    + Revealed with __an evaluation__.
+    + Treated with __burn management__.
++ Blisters (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __protective dressing__.
++ Desquamation (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __protective dressing__.
++ Swelling (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Tremor (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __beta blockers__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Hemoptysis (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Itching (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihistamines__.
++ Tachycardia (70% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Hypoxia (70% of cases | High Hazard | __Serious__)
+    + Revealed with __pulse oximetry__.
+    + Treated with __concentrated oxygen__.
+    + Can lead to __unconsciousness__ if left untreated for __8 to 24__ hours.
++ Dark Skin (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __protective dressing__.
++ Necrosis (70% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __debridement__.
+    + Can lead to __septic shock__ if left untreated for __6 to 12__ hours.
+
+## Chemical Burn of the Torso
+__Occurrence: Common | Base Payment: $1100__
+Chemical burn caused by contact with acid, base or oxidizer that can cause extensive tissue damage.
+
+__Symptoms__
+
++ Burn Wound (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
++ Chemical Burn On Torso (100% of cases | Medium Hazard)
+    + Revealed with __an evaluation__.
+    + Treated with __burn management__.
++ Chest Pain (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Abdominal Pain (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
++ Blisters (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __protective dressing__.
++ Desquamation (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __protective dressing__.
++ Swelling (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Tremor (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __beta blockers__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Hemoptysis (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Itching (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihistamines__.
++ Tachycardia (70% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Hypoxia (70% of cases | High Hazard | __Serious__)
+    + Revealed with __pulse oximetry__.
+    + Treated with __concentrated oxygen__.
+    + Can lead to __unconsciousness__ if left untreated for __8 to 24__ hours.
++ Dark Skin (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __protective dressing__.
++ Necrosis (70% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __debridement__.
+    + Can lead to __septic shock__ if left untreated for __6 to 12__ hours.
+
+## Copperhead Snake Bite
+__Occurrence: Common | Base Payment: $200__
+Snakebites typically have two puncture wounds from the fangs. Identification of the snake species and providing the correct antivenom is an urgent task.
+
+__Symptoms__
+
++ Copperhead Snake Bite (100% of cases | Medium Hazard)
+    + Revealed with __an evaluation__.
+    + Treated with __antivenom__.
++ Pain (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Numbness (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Sweating (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anticholinergics__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Hypotension (70% of cases | Low Hazard)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __diet modification__.
++ Blurred Vision (70% of cases | Low Hazard)
+    + Revealed with __an interview__, __a basic visual test__, or __ophthalmoscopy__.
+    + Treated with __eye drops__.
++ Redness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
+
+## Hepatosplenic Laceration
+__Occurrence: Common | Base Payment: $6300__
+Occurs when an object pierces the body and tears the liver and the spleen simultaneously.
+
+__Symptoms__
+
++ Abdominal Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __emergency care__.
++ Open Wound (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __emergency care__.
++ Liver and Spleen Lacerated (100% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __thoracic trauma surgery__.
+    + Can lead to __heart failure__ if left untreated for __10 to 24__ hours.
++ Abdominal Guarding (70% of cases | Medium Hazard)
+    + Revealed with __abdominal palpation__.
+    + Cannot be treated.
++ Severe Hemorrhage (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __0.5 to 1__ hours.
++ Muscle and Skin Damage (70% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Cannot be treated.
++ Blood Loss (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 8__ hours.
++ Dizziness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Tenderness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Tachycardia (33% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Tachypnea (33% of cases | Medium Hazard)
+    + Revealed with __chest auscultation__.
+    + Treated with __oxygen therapy__.
++ Hypoxia (33% of cases | High Hazard | __Serious__)
+    + Revealed with __pulse oximetry__.
+    + Treated with __concentrated oxygen__.
+    + Can lead to __unconsciousness__ if left untreated for __8 to 24__ hours.
++ Foreign Object Present (30% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __foreign object removal__.
+    + Can lead to __septic shock__ if left untreated for __4 to 12__ hours.
++ Large Arteries Damaged (30% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __vascular surgery__.
+    + Can lead to __hypovolemic shock__ if left untreated for __8 to 24__ hours.
++ Small Intestine Perforated (30% of cases | High Hazard | __Serious__)
+    + Revealed with __a CT scan__.
+    + Treated with __small bowel resection__.
+    + Can lead to __septic shock__ if left untreated for __6 to 12__ hours.
++ Hypovolemic Shock (10% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __death__ if left untreated for __2 to 4__ hours.
++ Unconsciousness (10% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __coma__ if left untreated for __6 to 24__ hours.
+
+## High Voltage Burn
+__Occurrence: Common | Base Payment: $2900__
+Electrical burn is a result of electricity passing through the body. Unlike visible thermal or chemical burns it causes more sub-dermal damage.
+
+__Symptoms__
+
++ Burn Wound (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
++ Sub-Dermal Tissue Damaged (100% of cases | High Hazard | __Serious__)
+    + Revealed with __an MRI scan__.
+    + Treated with __thoracic trauma surgery__.
+    + Can lead to __septic shock__ if left untreated for __10 to 24__ hours.
++ Headache (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Confusion (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __tranquilizers__.
++ Tachycardia (70% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Hypoxia (70% of cases | High Hazard | __Serious__)
+    + Revealed with __pulse oximetry__.
+    + Treated with __concentrated oxygen__.
+    + Can lead to __unconsciousness__ if left untreated for __8 to 24__ hours.
++ Muscle Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Dark Urine (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __urine analysis testing__.
+    + Treated with __rehydration__.
++ Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Frequent Falling (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Dark Skin (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __protective dressing__.
++ Eschar (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Necrosis (70% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __debridement__.
+    + Can lead to __septic shock__ if left untreated for __6 to 12__ hours.
+
+## Leg Ballistic Wound
+__Occurrence: Common | Base Payment: $6300__
+Ballistic trauma caused by a high-velocity flying projectile resulting in complex skeletal, vascular and nerve injuries with large soft tissue defects affecting patient's lower limb.
+
+__Symptoms__
+
++ Ballistic Wound (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
++ Severe Leg Pain (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Lower Limb Cavitation (100% of cases | High Hazard | __Serious__)
+    + Revealed with __a CT scan__.
+    + Treated with __lower limb trauma surgery__.
+    + Can lead to __septic shock__ if left untreated for __10 to 24__ hours.
++ Limited Leg Motion (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Hemorrhage (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Muscle and Skin Damage (70% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Cannot be treated.
++ Blood Loss (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 8__ hours.
++ Unstoppable Bleeding (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 2__ hours.
++ Large Arteries Damaged (70% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __vascular surgery__.
+    + Can lead to __hypovolemic shock__ if left untreated for __8 to 24__ hours.
++ Severe Hemorrhage (50% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __0.5 to 1__ hours.
++ Tachycardia (33% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Tachypnea (33% of cases | Medium Hazard)
+    + Revealed with __chest auscultation__.
+    + Treated with __oxygen therapy__.
++ Tibial Fracture (30% of cases | Medium Hazard)
+    + Revealed with __a lower limb X-ray__.
+    + Treated with __trauma fracture surgery of the leg__.
++ Femoral Fracture (30% of cases | Medium Hazard)
+    + Revealed with __a lower limb X-ray__.
+    + Treated with __trauma fracture surgery of the leg__.
++ Foreign Object Present (30% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __foreign object removal__.
+    + Can lead to __septic shock__ if left untreated for __4 to 12__ hours.
++ Hypovolemic Shock (10% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __death__ if left untreated for __2 to 4__ hours.
+
+## Leg Shattered Wound
+__Occurrence: Common | Base Payment: $5700__
+Polytraumatic penetration of an object that pierces the skin and enters the body, with heavy damage to all neighboring structures and organs.
+
+__Symptoms__
+
++ Penetrating Wound (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
++ Severe Leg Pain (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Lower Limb Trauma (100% of cases | High Hazard | __Serious__)
+    + Revealed with __a CT scan__.
+    + Treated with __lower limb trauma surgery__.
+    + Can lead to __hypovolemic shock__ if left untreated for __10 to 24__ hours.
++ Hemorrhage (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Muscle and Skin Damage (70% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Cannot be treated.
++ Blood Loss (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 8__ hours.
++ Severe Hemorrhage (50% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __0.5 to 1__ hours.
++ Limited Leg Motion (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Tachycardia (33% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Tachypnea (33% of cases | Medium Hazard)
+    + Revealed with __chest auscultation__.
+    + Treated with __oxygen therapy__.
++ Unstoppable Bleeding (33% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 2__ hours.
++ Large Arteries Damaged (33% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __vascular surgery__.
+    + Can lead to __hypovolemic shock__ if left untreated for __8 to 24__ hours.
++ Foreign Object Present (33% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __foreign object removal__.
+    + Can lead to __septic shock__ if left untreated for __4 to 12__ hours.
++ Hypovolemic Shock (10% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __death__ if left untreated for __2 to 4__ hours.
+
+## Low Voltage Burn
+__Occurrence: Common | Base Payment: $200__
+Electrical burn is a result of electricity passing through the body. Unlike visible thermal or chemical burns it causes more sub-dermal damage.
+
+__Symptoms__
+
++ Low Voltage Burn (100% of cases | Low Hazard)
+    + Revealed with __an evaluation__.
+    + Treated with __burn management__.
++ Headache (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Confusion (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __tranquilizers__.
++ Dizziness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Redness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Burn Wound (70% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
++ Elevated CK (70% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Cannot be treated.
++ Blisters (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __protective dressing__.
+
+## Microwave Burn
+__Occurrence: Common | Base Payment: $400__
+Burn injury caused by microwave radiation. Unlike other radiation burns, microwave radiation damage is caused by heat.
+
+__Symptoms__
+
++ Skin and Fat Tissue Damaged (100% of cases | Medium Hazard)
+    + Revealed with __biopsy testing__.
+    + Treated with __burn management__.
++ Headache (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Muscle Pain (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Necrosis (70% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __debridement__.
+    + Can lead to __septic shock__ if left untreated for __6 to 12__ hours.
++ Dark Skin (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __protective dressing__.
++ Redness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Hand Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Burn Wound (70% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
++ Elevated CK (70% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Cannot be treated.
++ Blisters (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __protective dressing__.
++ Desquamation (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __protective dressing__.
++ Swelling (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
+
+## Mild Frostbite On Hands
+__Occurrence: Common | Base Payment: $900__
+Frostbite is a potentially serious injury caused by exposing parts of the body to freezing temperatures.
+
+__Symptoms__
+
++ Hand Pain (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Mild Frostbite On Hands (100% of cases | Medium Hazard)
+    + Revealed with __an evaluation__.
+    + Treated with __protective dressing__.
++ Blisters (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __protective dressing__.
++ Pale Skin (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __B-complex supplement__.
++ Hypothermia (70% of cases | High Hazard | __Serious__)
+    + Revealed with __temperature measurement__.
+    + Treated with __warmed iv fluids__.
+    + Can lead to __heart failure__ if left untreated for __6 to 18__ hours.
++ Redness of A Swelling (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Itching (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihistamines__.
++ Swelling (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Hypotension (70% of cases | Low Hazard)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __diet modification__.
++ Hypoxia (70% of cases | High Hazard | __Serious__)
+    + Revealed with __pulse oximetry__.
+    + Treated with __concentrated oxygen__.
+    + Can lead to __unconsciousness__ if left untreated for __8 to 24__ hours.
++ Bradycardia (70% of cases | Medium Hazard)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __IV atropine__.
++ Bradypnea (70% of cases | Medium Hazard)
+    + Revealed with __chest auscultation__.
+    + Treated with __ACE inhibitors__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Redness of Skin (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
+
+## Mild Frostbite On Legs
+__Occurrence: Common | Base Payment: $900__
+Frostbite is a potentially serious injury caused by exposing parts of the body to freezing temperatures.
+
+__Symptoms__
+
++ Pain (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Mild Frostbite On Legs (100% of cases | Medium Hazard)
+    + Revealed with __an evaluation__.
+    + Treated with __protective dressing__.
++ Blisters (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __protective dressing__.
++ Pale Skin (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __B-complex supplement__.
++ Hypothermia (70% of cases | High Hazard | __Serious__)
+    + Revealed with __temperature measurement__.
+    + Treated with __warmed iv fluids__.
+    + Can lead to __heart failure__ if left untreated for __6 to 18__ hours.
++ Redness of A Swelling (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Itching (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihistamines__.
++ Swelling (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Hypotension (70% of cases | Low Hazard)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __diet modification__.
++ Hypoxia (70% of cases | High Hazard | __Serious__)
+    + Revealed with __pulse oximetry__.
+    + Treated with __concentrated oxygen__.
+    + Can lead to __unconsciousness__ if left untreated for __8 to 24__ hours.
++ Bradycardia (70% of cases | Medium Hazard)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __IV atropine__.
++ Bradypnea (70% of cases | Medium Hazard)
+    + Revealed with __chest auscultation__.
+    + Treated with __ACE inhibitors__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Redness of Skin (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
+
+## Neck Ballistic Wound
+__Occurrence: Uncommon | Base Payment: $5200__
+Ballistic trauma caused by a high-velocity flying projectile resulting in complex skeletal, vascular and nerve injuries with large soft tissue defects affecting patient's neck area.
+
+__Symptoms__
+
++ Neck Cavitation (100% of cases | High Hazard | __Serious__)
+    + Revealed with __a CT scan__.
+    + Treated with __thoracic trauma surgery__.
+    + Can lead to __septic shock__ if left untreated for __10 to 24__ hours.
++ Ballistic Wound (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
++ Neck Pain (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Muscle and Skin Damage (70% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Cannot be treated.
++ Anxiety (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __anxiolytics__.
++ Malaise (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Blood Loss (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 8__ hours.
++ Hemorrhage (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Severe Hemorrhage (50% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __0.5 to 1__ hours.
++ Tachycardia (33% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Unconsciousness (33% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __coma__ if left untreated for __6 to 24__ hours.
++ Cyanosis (33% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __oxygen therapy__.
++ Hypoxia (33% of cases | High Hazard | __Serious__)
+    + Revealed with __pulse oximetry__.
+    + Treated with __concentrated oxygen__.
+    + Can lead to __unconsciousness__ if left untreated for __8 to 24__ hours.
++ Tachypnea (33% of cases | Medium Hazard)
+    + Revealed with __chest auscultation__.
+    + Treated with __oxygen therapy__.
++ Dyspnea (30% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __respiratory failure__ if left untreated for __1 to 24__ hours.
++ Unstoppable Bleeding (30% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 2__ hours.
++ Foreign Object Present (30% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __foreign object removal__.
+    + Can lead to __septic shock__ if left untreated for __4 to 12__ hours.
++ Large Arteries Damaged (30% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __vascular surgery__.
+    + Can lead to __hypovolemic shock__ if left untreated for __8 to 24__ hours.
++ Hypovolemic Shock (10% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __death__ if left untreated for __2 to 4__ hours.
+
+## Neck Shattered Wound
+__Occurrence: Common | Base Payment: $5100__
+Polytraumatic penetration of an object that pierces the skin and enters the body, with heavy damage to all neighboring structures and organs.
+
+__Symptoms__
+
++ Neck Trauma (100% of cases | High Hazard | __Serious__)
+    + Revealed with __an MRI scan__.
+    + Treated with __thoracic trauma surgery__.
+    + Can lead to __hypovolemic shock__ if left untreated for __10 to 24__ hours.
++ Penetrating Wound (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
++ Neck Pain (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Muscle and Skin Damage (70% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Cannot be treated.
++ Dyspnea (70% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __respiratory failure__ if left untreated for __1 to 24__ hours.
++ Anxiety (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __anxiolytics__.
++ Hemorrhage (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Malaise (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Blood Loss (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 8__ hours.
++ Severe Hemorrhage (50% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __0.5 to 1__ hours.
++ Unstoppable Bleeding (33% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 2__ hours.
++ Tachycardia (33% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Unconsciousness (33% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __coma__ if left untreated for __6 to 24__ hours.
++ Cyanosis (33% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __oxygen therapy__.
++ Hypoxia (33% of cases | High Hazard | __Serious__)
+    + Revealed with __pulse oximetry__.
+    + Treated with __concentrated oxygen__.
+    + Can lead to __unconsciousness__ if left untreated for __8 to 24__ hours.
++ Tachypnea (33% of cases | Medium Hazard)
+    + Revealed with __chest auscultation__.
+    + Treated with __oxygen therapy__.
++ Large Arteries Damaged (33% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __vascular surgery__.
+    + Can lead to __hypovolemic shock__ if left untreated for __8 to 24__ hours.
++ Foreign Object Present (33% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __foreign object removal__.
+    + Can lead to __septic shock__ if left untreated for __4 to 12__ hours.
++ Hypovolemic Shock (10% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __death__ if left untreated for __2 to 4__ hours.
+
+## Pulmonary Laceration
+__Occurrence: Common | Base Payment: $6100__
+Penetrating trauma is an injury that occurs when an object pierces the skin and enters a tissue of the body, creating an open wound. Pulmonary laceration can occur from such a trauma.
+
+__Symptoms__
+
++ Chest Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __emergency care__.
++ Severe Hemorrhage (100% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __0.5 to 1__ hours.
++ Open Wound (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __emergency care__.
++ Pulmonary Laceration (100% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __pulmonary surgery__.
+    + Can lead to __respiratory failure__ if left untreated for __10 to 24__ hours.
++ Hypovolemic Shock (70% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __death__ if left untreated for __2 to 4__ hours.
++ Pneumatocele (70% of cases | Medium Hazard)
+    + Revealed with __USG__ or __FAST__.
+    + Treated with __oxygen therapy__.
++ Tachycardia (33% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Tachypnea (33% of cases | Medium Hazard)
+    + Revealed with __chest auscultation__.
+    + Treated with __oxygen therapy__.
++ Hypoxemia (33% of cases | High Hazard | __Serious__)
+    + Revealed with __pulse oximetry__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __unconsciousness__ if left untreated for __6 to 18__ hours.
++ Fragmented Ribs (33% of cases | Medium Hazard)
+    + Revealed with __a chest X-ray__.
+    + Treated with __trauma fracture surgery of the thorax__.
++ Large Arteries Damaged (33% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __vascular surgery__.
+    + Can lead to __hypovolemic shock__ if left untreated for __8 to 24__ hours.
+
+## Radiation Dermatitis
+__Occurrence: Common | Base Payment: $300__
+Radiation dermatitis, also known as X-ray dermatitis, is a side effect of radiation therapy.
+
+__Symptoms__
+
++ Burn Wound (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
++ Pigmentation Changes (100% of cases | Medium Hazard)
+    + Revealed with __an evaluation__.
+    + Treated with __steroid cream__.
++ Redness (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Itching (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihistamines__.
++ Desquamation (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __protective dressing__.
++ Blisters (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __protective dressing__.
++ Swelling (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Dark Skin (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __protective dressing__.
++ Necrosis (70% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __debridement__.
+    + Can lead to __septic shock__ if left untreated for __6 to 12__ hours.
+
+## Rattlesnake Bite
+__Occurrence: Common | Base Payment: $200__
+Snakebites typically have two puncture wounds from the fangs. Identification of the snake species and providing the correct antivenom is an urgent task.
+
+__Symptoms__
+
++ Rattlesnake Bite (100% of cases | Medium Hazard)
+    + Revealed with __an evaluation__.
+    + Treated with __antivenom__.
++ Pain (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Numbness (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Swelling (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Nausea (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Vomiting (70% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Blurred Vision (70% of cases | Low Hazard)
+    + Revealed with __an interview__, __a basic visual test__, or __ophthalmoscopy__.
+    + Treated with __eye drops__.
+
+## Severe Frostbite On Hands
+__Occurrence: Common | Base Payment: $800__
+Frostbite is a potentially serious injury caused by exposing parts of the body to freezing temperatures.
+
+__Symptoms__
+
++ Severe Frostbite On Hands (100% of cases | Medium Hazard)
+    + Revealed with __an evaluation__.
+    + Treated with __burn management__.
++ Burn Wound (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
++ Hand Pain (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Hypothermia (70% of cases | High Hazard | __Serious__)
+    + Revealed with __temperature measurement__.
+    + Treated with __warmed iv fluids__.
+    + Can lead to __heart failure__ if left untreated for __6 to 18__ hours.
++ Desquamation (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __protective dressing__.
++ Itching (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihistamines__.
++ Swelling (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Severe Arm Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Cyanosis (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __oxygen therapy__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Pale Skin (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __B-complex supplement__.
++ Blisters (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __protective dressing__.
++ Redness of Skin (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Bradypnea (30% of cases | Medium Hazard)
+    + Revealed with __chest auscultation__.
+    + Treated with __ACE inhibitors__.
++ Tremor (30% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __beta blockers__.
++ Bradycardia (30% of cases | Medium Hazard)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __IV atropine__.
++ Hypotension (30% of cases | Low Hazard)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __diet modification__.
++ Hypoxemia (30% of cases | High Hazard | __Serious__)
+    + Revealed with __pulse oximetry__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __unconsciousness__ if left untreated for __6 to 18__ hours.
++ Eschar (30% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Necrosis (20% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __debridement__.
+    + Can lead to __septic shock__ if left untreated for __6 to 12__ hours.
++ Dyspnea (20% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __respiratory failure__ if left untreated for __1 to 24__ hours.
+
+## Severe Frostbite On Legs
+__Occurrence: Common | Base Payment: $900__
+Frostbite is a potentially serious injury caused by exposing parts of the body to freezing temperatures.
+
+__Symptoms__
+
++ Severe Frostbite On Legs (100% of cases | Medium Hazard)
+    + Revealed with __an evaluation__.
+    + Treated with __burn management__.
++ Burn Wound (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
++ Pain (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Hypothermia (70% of cases | High Hazard | __Serious__)
+    + Revealed with __temperature measurement__.
+    + Treated with __warmed iv fluids__.
+    + Can lead to __heart failure__ if left untreated for __6 to 18__ hours.
++ Desquamation (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __protective dressing__.
++ Itching (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihistamines__.
++ Swelling (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Severe Leg Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Cyanosis (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __oxygen therapy__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Pale Skin (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __B-complex supplement__.
++ Blisters (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __protective dressing__.
++ Redness of Skin (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Bradypnea (30% of cases | Medium Hazard)
+    + Revealed with __chest auscultation__.
+    + Treated with __ACE inhibitors__.
++ Tremor (30% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __beta blockers__.
++ Bradycardia (30% of cases | Medium Hazard)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __IV atropine__.
++ Hypotension (30% of cases | Low Hazard)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __diet modification__.
++ Hypoxemia (30% of cases | High Hazard | __Serious__)
+    + Revealed with __pulse oximetry__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __unconsciousness__ if left untreated for __6 to 18__ hours.
++ Eschar (30% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Necrosis (20% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __debridement__.
+    + Can lead to __septic shock__ if left untreated for __6 to 12__ hours.
++ Dyspnea (20% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __respiratory failure__ if left untreated for __1 to 24__ hours.
+
+## Severe thermal Burn
+__Occurrence: Common | Base Payment: $1000__
+Thermal burns are caused by contact with a heated object or a liquid.
+
+__Symptoms__
+
++ Severe thermal Burn (100% of cases | Medium Hazard)
+    + Revealed with __an evaluation__.
+    + Treated with __burn management__.
++ Severe Leg Pain (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Severe Arm Pain (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Chest Pain (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Abdominal Pain (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
++ Dark Skin (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __protective dressing__.
++ Desquamation (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __protective dressing__.
++ Blisters (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __protective dressing__.
++ Necrosis (70% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __debridement__.
+    + Can lead to __septic shock__ if left untreated for __6 to 12__ hours.
++ Dark Skin (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __protective dressing__.
++ Redness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Burn Wound (70% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
++ Swelling (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Dehydration (70% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __rehydration__.
+    + Can lead to __exhaustion__ if left untreated for __1 to 24__ hours.
++ Tachycardia (70% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Hypoxia (70% of cases | High Hazard | __Serious__)
+    + Revealed with __pulse oximetry__.
+    + Treated with __concentrated oxygen__.
+    + Can lead to __unconsciousness__ if left untreated for __8 to 24__ hours.
+
+## Splenopancreatic Laceration
+__Occurrence: Common | Base Payment: $6200__
+Occurs when an object pierces the body and tears the pancreas and the spleen simultaneously.
+
+__Symptoms__
+
++ Abdominal Injury (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __emergency care__.
++ Open Wound (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __emergency care__.
++ Spleen and Pancreas Lacerated (100% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __thoracic trauma surgery__.
+    + Can lead to __heart failure__ if left untreated for __10 to 24__ hours.
++ Abdominal Guarding (70% of cases | Medium Hazard)
+    + Revealed with __abdominal palpation__.
+    + Cannot be treated.
++ Severe Hemorrhage (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __0.5 to 1__ hours.
++ Muscle and Skin Damage (70% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Cannot be treated.
++ Blood Loss (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 8__ hours.
++ Dizziness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Tenderness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Tachycardia (33% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Tachypnea (33% of cases | Medium Hazard)
+    + Revealed with __chest auscultation__.
+    + Treated with __oxygen therapy__.
++ Hypoxia (33% of cases | High Hazard | __Serious__)
+    + Revealed with __pulse oximetry__.
+    + Treated with __concentrated oxygen__.
+    + Can lead to __unconsciousness__ if left untreated for __8 to 24__ hours.
++ Foreign Object Present (30% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __foreign object removal__.
+    + Can lead to __septic shock__ if left untreated for __4 to 12__ hours.
++ Large Arteries Damaged (30% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __vascular surgery__.
+    + Can lead to __hypovolemic shock__ if left untreated for __8 to 24__ hours.
++ Large Intestine Perforated (30% of cases | High Hazard | __Serious__)
+    + Revealed with __a CT scan__.
+    + Treated with __bowel resection__.
+    + Can lead to __septic shock__ if left untreated for __6 to 12__ hours.
++ Hypovolemic Shock (10% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __death__ if left untreated for __2 to 4__ hours.
++ Unconsciousness (10% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __coma__ if left untreated for __6 to 24__ hours.
+
+## Struck By Lightning
+__Occurrence: Common | Base Payment: $3100__
+A rare injury caused by direct or indirect hit by a lightning strike.
+
+__Symptoms__
+
++ Lightning Caused Lesions (100% of cases | Medium Hazard)
+    + Revealed with __an evaluation__.
+    + Treated with __burn management__.
++ Burn Wound (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
++ Tachycardia (90% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Hypoxia (70% of cases | High Hazard | __Serious__)
+    + Revealed with __pulse oximetry__.
+    + Treated with __concentrated oxygen__.
+    + Can lead to __unconsciousness__ if left untreated for __8 to 24__ hours.
++ Severe Leg Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Severe Arm Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Dark Skin (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __protective dressing__.
++ Muscle Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Tibial Fracture (20% of cases | Medium Hazard)
+    + Revealed with __a lower limb X-ray__.
+    + Treated with __trauma fracture surgery of the leg__.
++ Ulnar Fracture (20% of cases | Medium Hazard)
+    + Revealed with __an upper limb X-ray__.
+    + Treated with __trauma fracture surgery of the arm__.
++ Respiratory Failure (10% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __artificial ventilation__.
+    + Can lead to __death__ if left untreated for __0.1 to 0.5__ hours.
++ Unconsciousness (10% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __coma__ if left untreated for __6 to 24__ hours.
++ Heart Failure (10% of cases | High Hazard | __Fatal__)
+    + Revealed with __an ECG__.
+    + Treated with __defibrillation__.
+    + Can lead to __death__ if left untreated for __0.1 to 1__ hours.
+
+## Sunburn
+__Occurrence: Common | Base Payment: $200__
+Red painful skin that appears after overexposure to the ultraviolet light either from sunshine or from artificial sources.
+
+__Symptoms__
+
++ Sun-Burnt Skin (100% of cases | Low Hazard)
+    + Revealed with __an evaluation__.
+    + Treated with __burn management__.
++ Headache (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Confusion (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __tranquilizers__.
++ Dizziness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Redness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Tenderness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Itching (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihistamines__.
++ Swelling (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Rash (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
+
+## thermal Burn of A Leg
+__Occurrence: Common | Base Payment: $700__
+Thermal burns are caused by contact with a heated object or a liquid.
+
+__Symptoms__
+
++ Severe Leg Pain (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ thermal Burn On A Leg (100% of cases | Medium Hazard)
+    + Revealed with __an evaluation__.
+    + Treated with __burn management__.
++ Limited Leg Motion (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Blisters (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __protective dressing__.
++ Redness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Desquamation (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __protective dressing__.
++ Swelling (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Dark Skin (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __protective dressing__.
++ Eschar (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Burn Wound (70% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
++ Necrosis (30% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __debridement__.
+    + Can lead to __septic shock__ if left untreated for __6 to 12__ hours.
+
+## thermal Burn of An Arm
+__Occurrence: Common | Base Payment: $700__
+Thermal burns are caused by contact with a heated object or a liquid.
+
+__Symptoms__
+
++ Severe Arm Pain (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ thermal Burn On An Arm (100% of cases | Medium Hazard)
+    + Revealed with __an evaluation__.
+    + Treated with __burn management__.
++ Limited Arm Motion (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Blisters (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __protective dressing__.
++ Redness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Desquamation (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __protective dressing__.
++ Swelling (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Dark Skin (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __protective dressing__.
++ Eschar (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Burn Wound (70% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
++ Necrosis (30% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __debridement__.
+    + Can lead to __septic shock__ if left untreated for __6 to 12__ hours.
+
+## Thoracic Blast Trauma
+__Occurrence: Uncommon | Base Payment: $7500__
+Blast injury is a complex type of physical trauma resulting from direct or indirect exposure to an explosion.
+
+__Symptoms__
+
++ Penetrating Wound (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
++ Blast Wound (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
++ Chest Pain (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Chest Trauma (100% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __thoracic trauma surgery__.
+    + Can lead to __heart failure__ if left untreated for __10 to 24__ hours.
++ Muscle and Skin Damage (70% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Cannot be treated.
++ Hemorrhage (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Large Arteries Damaged (70% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __vascular surgery__.
+    + Can lead to __hypovolemic shock__ if left untreated for __8 to 24__ hours.
++ Blood Loss (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 8__ hours.
++ Degloved Skin (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __replantation__.
++ Foreign Object Present (70% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __foreign object removal__.
+    + Can lead to __septic shock__ if left untreated for __4 to 12__ hours.
++ Severe Hemorrhage (50% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __0.5 to 1__ hours.
++ Large Intestine Perforated (33% of cases | High Hazard | __Serious__)
+    + Revealed with __a CT scan__.
+    + Treated with __bowel resection__.
+    + Can lead to __septic shock__ if left untreated for __6 to 12__ hours.
++ Lungs Perforated (33% of cases | High Hazard | __Serious__)
+    + Revealed with __a CT scan__.
+    + Treated with __pulmonary surgery__.
+    + Can lead to __respiratory failure__ if left untreated for __6 to 12__ hours.
++ Fragmented Ribs (33% of cases | Medium Hazard)
+    + Revealed with __a chest X-ray__.
+    + Treated with __trauma fracture surgery of the thorax__.
++ Bradycardia (33% of cases | Medium Hazard)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __IV atropine__.
++ Hypoxemia (33% of cases | High Hazard | __Serious__)
+    + Revealed with __pulse oximetry__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __unconsciousness__ if left untreated for __6 to 18__ hours.
++ Unconsciousness (33% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __coma__ if left untreated for __6 to 24__ hours.
++ Bradypnea (33% of cases | Medium Hazard)
+    + Revealed with __chest auscultation__.
+    + Treated with __ACE inhibitors__.
++ Humeral Fracture (33% of cases | Medium Hazard)
+    + Revealed with __an upper limb X-ray__.
+    + Treated with __trauma fracture surgery of the arm__.
++ Ulnar Fracture (33% of cases | Medium Hazard)
+    + Revealed with __an upper limb X-ray__.
+    + Treated with __trauma fracture surgery of the arm__.
++ Hypovolemic Shock (10% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __death__ if left untreated for __2 to 4__ hours.
+
+## Thoracic Gunshot
+__Occurrence: Rare | Base Payment: $7600__
+Physical trauma caused by a bullet from a firearm penetrating patient's thorax.
+
+__Symptoms__
+
++ Chest Cavitation (100% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __thoracic trauma surgery__.
+    + Can lead to __respiratory failure__ if left untreated for __10 to 24__ hours.
++ Gunshot Wound (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
++ Chest Pain (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Abdominal Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Hemorrhage (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Muscle and Skin Damage (70% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Cannot be treated.
++ Tenderness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Blood Loss (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 8__ hours.
++ Dizziness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Severe Hemorrhage (50% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __0.5 to 1__ hours.
++ Tachycardia (33% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Hypoxemia (33% of cases | High Hazard | __Serious__)
+    + Revealed with __pulse oximetry__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __unconsciousness__ if left untreated for __6 to 18__ hours.
++ Tachypnea (33% of cases | Medium Hazard)
+    + Revealed with __chest auscultation__.
+    + Treated with __oxygen therapy__.
++ Lungs Perforated (30% of cases | High Hazard | __Serious__)
+    + Revealed with __a CT scan__.
+    + Treated with __pulmonary surgery__.
+    + Can lead to __respiratory failure__ if left untreated for __6 to 12__ hours.
++ Fragmented Ribs (30% of cases | Medium Hazard)
+    + Revealed with __a chest X-ray__.
+    + Treated with __trauma fracture surgery of the thorax__.
++ Large Arteries Damaged (30% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __vascular surgery__.
+    + Can lead to __hypovolemic shock__ if left untreated for __8 to 24__ hours.
++ Hypovolemic Shock (10% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __death__ if left untreated for __2 to 4__ hours.
+
+## Thoracic Stab Wound
+__Occurrence: Uncommon | Base Payment: $6200__
+Stab wound is a specific form of penetrating trauma to the skin that results from a knife or a similar pointed object.
+
+__Symptoms__
+
++ Stab Wound (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
++ Chest Pain (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Chest Trauma (100% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __thoracic trauma surgery__.
+    + Can lead to __respiratory failure__ if left untreated for __10 to 24__ hours.
++ Hemorrhage (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Muscle and Skin Damage (70% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Cannot be treated.
++ Blood Loss (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 8__ hours.
++ Dizziness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Tenderness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Severe Hemorrhage (50% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __0.5 to 1__ hours.
++ Tachycardia (33% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Tachypnea (33% of cases | Medium Hazard)
+    + Revealed with __chest auscultation__.
+    + Treated with __oxygen therapy__.
++ Hypoxia (33% of cases | High Hazard | __Serious__)
+    + Revealed with __pulse oximetry__.
+    + Treated with __concentrated oxygen__.
+    + Can lead to __unconsciousness__ if left untreated for __8 to 24__ hours.
++ Respiratory Failure (33% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __artificial ventilation__.
+    + Can lead to __death__ if left untreated for __0.1 to 0.5__ hours.
++ Lungs Perforated (33% of cases | High Hazard | __Serious__)
+    + Revealed with __a CT scan__.
+    + Treated with __pulmonary surgery__.
+    + Can lead to __respiratory failure__ if left untreated for __6 to 12__ hours.
++ Large Arteries Damaged (33% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __vascular surgery__.
+    + Can lead to __hypovolemic shock__ if left untreated for __8 to 24__ hours.
+
+## Upper Abdomen Gunshot
+__Occurrence: Rare | Base Payment: $8200__
+Physical trauma caused by a bullet from a firearm - penetrating in patient's upper abdomen. 
+
+__Symptoms__
+
++ Upper Abdomen Cavitation (100% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __thoracic trauma surgery__.
+    + Can lead to __hypovolemic shock__ if left untreated for __10 to 24__ hours.
++ Gunshot Wound (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __emergency care__.
++ Abdominal Pain (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
++ Blood Loss (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __hypovolemic shock__ if left untreated for __1 to 8__ hours.
++ Tenderness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Hemorrhage (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Severe Hemorrhage (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a pressure bandage__.
+    + Can lead to __hypovolemic shock__ if left untreated for __0.5 to 1__ hours.
++ Muscle and Skin Damage (70% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Cannot be treated.
++ Dizziness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Tachycardia (33% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Hypoxia (33% of cases | High Hazard | __Serious__)
+    + Revealed with __pulse oximetry__.
+    + Treated with __concentrated oxygen__.
+    + Can lead to __unconsciousness__ if left untreated for __8 to 24__ hours.
++ Tachypnea (33% of cases | Medium Hazard)
+    + Revealed with __chest auscultation__.
+    + Treated with __oxygen therapy__.
++ Liver Damaged (30% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __hepatoplasty__.
+    + Can lead to __distributive shock__ if left untreated for __6 to 12__ hours.
++ Stomach Perforated (30% of cases | High Hazard | __Serious__)
+    + Revealed with __FAST__ or __USG__.
+    + Treated with __gastric perforation repair__.
+    + Can lead to __septic shock__ if left untreated for __6 to 12__ hours.
++ Pancreas Damaged (30% of cases | High Hazard | __Serious__)
+    + Revealed with __an MRI scan__.
+    + Treated with __pancreaticoplasty__.
+    + Can lead to __distributive shock__ if left untreated for __6 to 12__ hours.
++ Spleen Damaged (30% of cases | High Hazard | __Serious__)
+    + Revealed with __a CT scan__.
+    + Treated with __a splenectomy__.
+    + Can lead to __distributive shock__ if left untreated for __6 to 12__ hours.
++ Hypovolemic Shock (10% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __blood transfusion__.
+    + Can lead to __death__ if left untreated for __2 to 4__ hours.
++ Heart Failure (10% of cases | High Hazard | __Fatal__)
+    + Revealed with __an ECG__.
+    + Treated with __defibrillation__.
+    + Can lead to __death__ if left untreated for __0.1 to 1__ hours.
+
+## Venomous Spider Bite
+__Occurrence: Common | Base Payment: $300__
+Bites of venomous spiders create tiny red bumps that are sometimes painful and itchy. The injected poison can also cause more severe symptoms.
+
+__Symptoms__
+
++ Pain (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Black Widow Bite (100% of cases | Medium Hazard)
+    + Revealed with __an evaluation__.
+    + Treated with __antivenom__.
++ Cramps (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Swelling (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Chills (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antipyretics__.
++ Nausea (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Sweating (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anticholinergics__.
++ Eschar (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Abnormal LFT (70% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __diet modification__.
++ Dark Urine (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __urine analysis testing__.
+    + Treated with __rehydration__.
+

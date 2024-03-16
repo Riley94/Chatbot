@@ -1,0 +1,963 @@
+## Ankle Contusion
+__Occurrence: Common | Base Payment: $400__
+A contusion, also known as a bruise, is a region of injured tissue usually with purple discoloration.
+
+__Symptoms__
+
++ Ankle Contusion (100% of cases | Low Hazard)
+    + Revealed with __a lower limb X-ray__.
+    + Treated with __numbing ointment__.
++ Ankle Injury (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __a leg orthosis__.
++ Warmth (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Swelling (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Ankle Bruise (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __numbing ointment__.
++ Tenderness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Joint Immobility (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
+
+## Arm Contusion
+__Occurrence: Common | Base Payment: $400__
+A contusion, also known as a bruise, is a region of injured tissue usually with purple discoloration.
+
+__Symptoms__
+
++ Forearm Contusion (100% of cases | Low Hazard)
+    + Revealed with __an upper limb X-ray__.
+    + Treated with __numbing ointment__.
++ Limited Arm Motion (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Arm Injury (80% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __bandage__.
++ Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Swelling (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Redness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Bruise (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Tenderness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
+
+## Athlete’s Foot
+__Occurrence: Common | Base Payment: $200__
+Athlete’s foot, also called Tinea pedis, is a highly contagious skin infection of the feet caused by fungi.
+
+__Symptoms__
+
++ Tinea Pedis Detected (100% of cases | Low Hazard)
+    + Revealed with __fungal cultivation__.
+    + Treated with __antifungal ointment__.
++ Itching (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihistamines__.
++ Nail Discoloration (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __foot cream__.
++ Crumbly Nail (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __foot cream__.
++ Nail Thickening (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __foot cream__.
+
+## Bacterial Tonsillitis
+__Occurrence: Common | Base Payment: $200__
+Bacterial tonsillitis is an infection of the tonsils. The most common bacterial tonsillitis is caused by Streptococcus pyogenes, and is known as 'strep throat'.
+
+__Symptoms__
+
++ S. Pyogenes Present (100% of cases | Low Hazard)
+    + Revealed with __microbial cultivation__.
+    + Treated with __antibiotics__.
++ Fever (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Red Swollen Tonsils (80% of cases | Medium Hazard)
+    + Revealed with __an oral cavity inspection__.
+    + Treated with __NSAIDs__.
++ Sore Throat (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __analgesics__.
++ Sputum Cough (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __mucolytics__.
++ Painful Lymph Nodes (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __analgesics__.
++ Pain In the Ears (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __analgesics__.
++ Suppurative Tonsils (80% of cases | Medium Hazard)
+    + Revealed with __an oral cavity inspection__.
+    + Treated with __NSAIDs__.
++ Nasal Congestion (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __nasal drops__.
++ ORL Findings (80% of cases | Low Hazard)
+    + Revealed with __laryngoscopy__.
+    + Treated with __antibiotics__.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
+
+## Beef Tapeworm
+__Occurrence: Uncommon | Base Payment: $200__
+Beef tapeworms (T. saginata) are parasitic flatworms living in the digestive system of humans. Cattle act as intermediate hosts when they consume fodder or water contaminated with human feces. Eating undercooked beef can cause infection.
+
+__Symptoms__
+
++ Beef Tapeworm Detected (100% of cases | Low Hazard)
+    + Revealed with __stool analysis__.
+    + Treated with __anthelmintic medication__.
++ Abdominal Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
++ Dizziness (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Headache (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Weight Loss (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Loss of Appetite (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
+
+## Bronchitis
+__Occurrence: Common | Base Payment: $500__
+Bronchitis is an inflammation of the lower airways called bronchi and is usually caused by virus.
+
+__Symptoms__
+
++ Bronchial Infection (100% of cases | Low Hazard)
+    + Revealed with __microbial cultivation__.
+    + Treated with __antibiotics__.
++ Dry Cough (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ Fatigue (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Breathing Problems (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Fever (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Chills (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antipyretics__.
++ Headache (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Wheezing (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Cannot be treated.
++ Chest Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Abnormal Lung Findings (20% of cases | Medium Hazard)
+    + Revealed with __a chest X-ray__.
+    + Treated with __NSAIDs__.
+
+## Chest Contusion
+__Occurrence: Common | Base Payment: $400__
+A contusion, also known as a bruise, is a region of injured tissue usually with purple discoloration.
+
+__Symptoms__
+
++ Thorax Contusion (100% of cases | Low Hazard)
+    + Revealed with __a chest X-ray__.
+    + Treated with __numbing ointment__.
++ Chest Injury (80% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __emergency care__.
++ Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Swelling (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Breathing Problems (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Redness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Bruise (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Tenderness (-1% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
+
+## Chickenpox
+__Occurrence: Common | Base Payment: $100__
+Chickenpox, also known as varicella, is a highly contagious disease caused by the initial infection with Varicella zoster virus. The disease results in a characteristic skin rash that forms small, itchy blisters, which eventually scab over.
+
+__Symptoms__
+
++ Papulas and Vesicles (100% of cases | Low Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __antivirals__.
++ Vomiting (80% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Loss of Appetite (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Headache (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Muscle and Joint Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Fever (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Itchy Blisters (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __numbing ointment__.
+
+## Chronic Fatigue Syndrome
+__Occurrence: Common | Base Payment: $100__
+Chronic fatigue syndrome is very complicated disease that refers to a condition of fatigue that can not be explained by any underlying medical condition.
+
+__Symptoms__
+
++ Chronic Fatigue Syndrome (100% of cases | Low Hazard)
+    + Revealed with __an evaluation__.
+    + Treated with __recommendations__.
++ Sleeping Problems (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __sleeping drugs__.
++ Fatigue (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Weakness (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Long Reaction Time (80% of cases | Low Hazard)
+    + Revealed with __speech listening__.
+    + Cannot be treated.
++ Muscle and Joint Pain (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Night Sweats (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __NSAIDs__.
++ Depression (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __antidepressants__.
++ Sore Throat (20% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __analgesics__.
++ Trouble Rising (20% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
+
+## Common Cold
+__Occurrence: Common | Base Payment: $100__
+The common cold is a viral infection located to the upper respiratory system, usually the nose or throat.
+
+__Symptoms__
+
++ Nasal Viral Infection (100% of cases | Low Hazard)
+    + Revealed with __a nasal cavity inspection__.
+    + Treated with __rest__.
++ Sore Throat (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __analgesics__.
++ Headache (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Nasal Congestion (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __nasal drops__.
++ Fever (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Breathing Problems (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Dry Cough (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ Wheezing (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Cannot be treated.
++ Malaise (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Sneezing (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Inflamed Sinuses (35% of cases | Low Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __saline nasal spray__.
+
+## Contact Dermatitis
+__Occurrence: Common | Base Payment: $100__
+Contact dermatitis is a localized rash or irritation of the skin caused by contact to an allergen or irritant.
+
+__Symptoms__
+
++ Allergen Detected (100% of cases | Low Hazard)
+    + Revealed with __a skin allergy test__.
+    + Treated with __antihistamines__.
++ Itching (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihistamines__.
++ Itchy Eyes (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Red Eye (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Rash On Arm (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Rash On Leg (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Rash On Neck (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Rash On Torso (30% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Painful Vesicular Rash (30% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __numbing ointment__.
++ Redness of Skin (20% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
+
+## Foot Contusion
+__Occurrence: Common | Base Payment: $400__
+A contusion, also known as a bruise, is a region of injured tissue usually with purple discoloration.
+
+__Symptoms__
+
++ Instep Contusion (100% of cases | Low Hazard)
+    + Revealed with __a lower limb X-ray__.
+    + Treated with __numbing ointment__.
++ Foot Injury (80% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __bandage__.
++ Warmth (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Swelling (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Bruise (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Tenderness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Limited Leg Motion (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
+
+## Golfer's Elbow
+__Occurrence: Common | Base Payment: $400__
+Golfer's elbow, also known as medial epicondylitis, is characterized by radiating pain from the inside of the elbow to the wrist. The condition is caused by performing repetitive movements resulting in irritation of the muscles and tendons responsible for said movements.
+
+__Symptoms__
+
++ Elbow Tendons Damaged (100% of cases | Low Hazard)
+    + Revealed with __an upper limb X-ray__.
+    + Treated with __an ice wrap__.
++ Tenderness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Fever (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Finger Numbness (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Hand Weakness (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Elbow Pain (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Limited Arm Motion (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Elbow Stiffness (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
+
+## Hand Contusion
+__Occurrence: Common | Base Payment: $400__
+A contusion, also known as a bruise, is a region of injured tissue usually with purple discoloration.
+
+__Symptoms__
+
++ Wrist Contusion (100% of cases | Low Hazard)
+    + Revealed with __an upper limb X-ray__.
+    + Treated with __numbing ointment__.
++ Hand Injury (80% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __bandage__.
++ Hand Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Hand Weakness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Swelling (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Bruise (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Tenderness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Redness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
+
+## Hay Fever
+__Occurrence: Common | Base Payment: $100__
+Hay fever, medically known as allergic rhinitis, is an inflammation in the nose caused by an allergic reaction to an allergen in the air, such as pollen. 
+
+__Symptoms__
+
++ Allergy Discovered (100% of cases | Low Hazard)
+    + Revealed with __a skin allergy test__.
+    + Treated with __antihistamines__.
++ Nasal Congestion (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __nasal drops__.
++ Sneezing (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Itchy Eyes (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Fatigue (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Red Eye (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Irritable Cough (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ Inflamed Sinuses (20% of cases | Low Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __saline nasal spray__.
+
+## Influenza
+__Occurrence: Common | Base Payment: $200__
+Influenza, commonly known as 'the flu', is a common infectious disease caused by the influenza virus family.
+
+__Symptoms__
+
++ Influenza A Detected (100% of cases | Low Hazard)
+    + Revealed with __serologic testing__.
+    + Treated with __antivirals__.
++ Chills (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antipyretics__.
++ Fever (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Muscle and Joint Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Malaise (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Fatigue (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Headache (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Nasal Congestion (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __nasal drops__.
++ Sneezing (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Sore Throat (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __analgesics__.
++ Irritable Cough (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
+
+## Influenza B
+__Occurrence: Common | Base Payment: $200__
+Influenza B is caused by the Influenza B virus, responsible for seasonal outbreaks of Influenza infection in humans.
+
+__Symptoms__
+
++ Influenza B Detected (100% of cases | Low Hazard)
+    + Revealed with __serologic testing__.
+    + Treated with __antivirals__.
++ Chills (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antipyretics__.
++ Fever (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Muscle and Joint Pain (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Malaise (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Fatigue (90% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Headache (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Sore Throat (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __analgesics__.
++ Irritable Cough (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ Nasal Congestion (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __nasal drops__.
++ Sneezing (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
+
+## Insomnia
+__Occurrence: Common | Base Payment: $100__
+Insomnia is defined as a subjective experience of bad sleep. This can be due to the inability to fall asleep, sleep continuously throughout the night or waking up too early.
+
+__Symptoms__
+
++ Insomnia Revealed (100% of cases | Low Hazard)
+    + Revealed with __an evaluation__.
+    + Treated with __sleeping drugs__.
++ Sleeping Problems (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __sleeping drugs__.
++ Depression (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __antidepressants__.
++ Long Reaction Time (80% of cases | Low Hazard)
+    + Revealed with __speech listening__.
+    + Cannot be treated.
++ Fatigue (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Irritability (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __tranquilizers__.
++ Confusion (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __tranquilizers__.
++ Anxiety (20% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __anxiolytics__.
+
+## Iron-Deficiency Anemia
+__Occurrence: Common | Base Payment: $200__
+Anemia is defined as a reduced ability of the blood to carry oxygen. This can be caused by a decrease in red blood cells or hemoglobin. Iron-deficiency anemia is the most common form of anemia.
+
+__Symptoms__
+
++ Low Hematocrit (100% of cases | Low Hazard)
+    + Revealed with __a blood test__.
+    + Treated with __iron supplements__.
++ Weakness (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Fatigue (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Chest Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Loss of Appetite (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Dizziness (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Pale Skin (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __B-complex supplement__.
++ Crumbly Nail (20% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __foot cream__.
++ Low Hemoglobin (10% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __diet modification__.
+
+## Lactose Intolerance
+__Occurrence: Common | Base Payment: $200__
+Lactose intolerance is the inability to digest lactose, a sugar found in milk products. Undigested lactose can result in bloating, diarrhea, gas or abdominal pain.
+
+__Symptoms__
+
++ Lactose Intolerance (100% of cases | Low Hazard)
+    + Revealed with __a blood test__.
+    + Treated with __diet modification__.
++ Diarrhea (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __antidiarrheals__.
++ Nausea (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Abdominal Cramps (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __spasmolytics__.
++ Bloating (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __diet modification__.
++ Vomiting (60% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Excessive Flatulence (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
+
+## Laryngitis
+__Occurrence: Common | Base Payment: $100__
+Laryngitis refers to inflammation of the voice box. It can be caused by bacteria or virus, but also because of excessive voice use.
+
+__Symptoms__
+
++ Larynx Infected (100% of cases | Low Hazard)
+    + Revealed with __laryngoscopy__.
+    + Treated with __antibiotics__.
++ Swallow Pain (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Fever (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Headache (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Hoarseness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __NSAIDs__.
++ Dysphagia (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __diet modification__.
++ Nasal Congestion (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __nasal drops__.
++ Swollen Lymph Nodes (20% of cases | Low Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Inflamed Sinuses (20% of cases | Low Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __saline nasal spray__.
+
+## Leg Contusion
+__Occurrence: Common | Base Payment: $400__
+A contusion, also known as a bruise, is a region of injured tissue usually with purple discoloration.
+
+__Symptoms__
+
++ Calf Contusion (100% of cases | Low Hazard)
+    + Revealed with __a lower limb X-ray__.
+    + Treated with __numbing ointment__.
++ Leg Injury (80% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __bandage__.
++ Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Limited Leg Motion (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Tenderness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Bruise (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Swelling (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Redness (20% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
+
+## Nail Fungus
+__Occurrence: Common | Base Payment: $200__
+Nail fungus, also called Onychomycosis or Tinea unguium, is a fungal infection that affects fingers or toenails.
+
+__Symptoms__
+
++ Fungal Infection (100% of cases | Low Hazard)
+    + Revealed with __fungal cultivation__.
+    + Treated with __antifungal ointment__.
++ Nail Discoloration (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __foot cream__.
++ Crumbly Nail (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __foot cream__.
++ Nail Thickening (40% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __foot cream__.
+
+## Pharyngitis
+__Occurrence: Common | Base Payment: $100__
+Pharyngitis refers to inflammation of the throat and can be caused by bacteria or virus.
+
+__Symptoms__
+
++ White Patches On Tonsils (100% of cases | Low Hazard)
+    + Revealed with __an oral cavity inspection__.
+    + Treated with __NSAIDs__.
++ Red Swollen Tonsils (80% of cases | Medium Hazard)
+    + Revealed with __an oral cavity inspection__.
+    + Treated with __NSAIDs__.
++ Swallow Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Fever (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Sputum Cough (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __mucolytics__.
++ Muscle and Joint Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Sneezing (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Nausea (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Vomiting (60% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Dysphagia (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __diet modification__.
++ Hoarseness (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __NSAIDs__.
++ Rash (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
+
+## Pork Tapeworm
+__Occurrence: Uncommon | Base Payment: $300__
+Pork tapeworms (T. solium) are parasitic flatworms living in the digestive system of humans. Pigs act as intermediate hosts when they consume fodder or water contaminated with human feces. Eating undercooked pork can cause infection.
+
+__Symptoms__
+
++ Pork Tapeworm Detected (100% of cases | Low Hazard)
+    + Revealed with __stool analysis__.
+    + Treated with __anthelmintic medication__.
++ Nausea (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Abdominal Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __analgesics__.
++ Fatigue (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Weight Loss (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __diet modification__.
++ Hunger (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __diet modification__.
++ Vitamin Deficiency (70% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __vitamin supplementation__.
++ Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
+
+## Raynaud's Syndrome
+__Occurrence: Common | Base Payment: $100__
+Raynaud's syndrome causes numbness and coldness of hands, fingers and toes as response to cold outdoor temperatures.
+
+__Symptoms__
+
++ Raynaud's Findings (100% of cases | Low Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __vasodilators__.
++ Finger Numbness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Cyanosis (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __oxygen therapy__.
++ Hand Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
+
+## Scoliosis
+__Occurrence: Common | Base Payment: $400__
+Scoliosis is a sideway curvature of the spine usually in a C or S shape. Scoliosis is usually painless.
+
+__Symptoms__
+
++ Scoliotic Findings (100% of cases | Low Hazard)
+    + Revealed with __a back X-ray__.
+    + Treated with __exercise__.
++ Back Pain (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Muscle Weakness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Numbness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
+
+## Shingles
+__Occurrence: Common | Base Payment: $100__
+Shingles is an infection caused by a reactivation of varicella-zoster virus. The disease results in a red skin rash that forms small blisters in a wide stripe following the course of a dermatome. Shingles can be extremely painful.
+
+__Symptoms__
+
++ Widespread Painful Rash (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __antivirals__.
++ Headache (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Fever (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Malaise (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Tenderness (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Rash On Arm (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Rash On Torso (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
++ Rash On Neck (20% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __steroid cream__.
+
+## Sinusitis
+__Occurrence: Common | Base Payment: $100__
+Sinusitis refers to inflammation of one or more sinuses. Sinusitis causes swelling and can compromise drainage of mucus or pus from the involved sinus cavity.
+
+__Symptoms__
+
++ Nasal Obstruction (100% of cases | Low Hazard)
+    + Revealed with __a nasal cavity inspection__.
+    + Treated with __saline nasal spray__.
++ Headache (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Fatigue (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Fever (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Nasal Congestion (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __nasal drops__.
++ Sputum Cough (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __mucolytics__.
++ Bad Breath (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __antiseptics__.
+
+## Viral Tonsillitis
+__Occurrence: Common | Base Payment: $200__
+Viral tonsillitis is an infection of the tonsils and can be caused by several viral agents.
+
+__Symptoms__
+
++ RSV Present (100% of cases | Low Hazard)
+    + Revealed with __serologic testing__.
+    + Treated with __rest__.
++ Fever (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Red Swollen Tonsils (80% of cases | Medium Hazard)
+    + Revealed with __an oral cavity inspection__.
+    + Treated with __NSAIDs__.
++ Sore Throat (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __analgesics__.
++ Fatigue (80% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Dry Cough (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __cough suppressants__.
++ Painful Lymph Nodes (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __analgesics__.
++ Pain In the Ears (80% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __analgesics__.
++ Suppurative Tonsils (80% of cases | Medium Hazard)
+    + Revealed with __an oral cavity inspection__.
+    + Treated with __NSAIDs__.
++ Nasal Congestion (80% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a nasal cavity inspection__.
+    + Treated with __nasal drops__.
++ ORL Findings (80% of cases | Low Hazard)
+    + Revealed with __laryngoscopy__.
+    + Treated with __antibiotics__.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Muscle and Joint Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
+

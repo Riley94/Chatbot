@@ -1,0 +1,1206 @@
+## Angle-Closure Glaucoma
+__Occurrence: Common | Base Payment: $3100__
+Acute angle-closure glaucoma is caused by sudden and rapid increase of the intraocular pressure.
+
+__Symptoms__
+
++ Closed Angle (100% of cases | Medium Hazard)
+    + Revealed with __gonioscopy__.
+    + Treated with __eye surgery__.
++ Watery Eyes (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Eye Pain (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Blurred Vision (60% of cases | Low Hazard)
+    + Revealed with __an interview__, __a basic visual test__, or __ophthalmoscopy__.
+    + Treated with __eye drops__.
++ Photophobia (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neurological testing__.
+    + Treated with __recommendations__.
++ Nausea (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Vomiting (50% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Headache (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Ocular Hypertension (50% of cases | Medium Hazard)
+    + Revealed with __tonometry__.
+    + Treated with __eye drops__.
++ Visual Field Limited (50% of cases | Medium Hazard)
+    + Revealed with __perimetry__.
+    + Cannot be treated.
+
+## Blepharitis
+__Occurrence: Common | Base Payment: $600__
+Blepharitis is inflammation of the eyelid.
+
+__Symptoms__
+
++ Bacterial Blepharitis (100% of cases | Low Hazard)
+    + Revealed with __microbial cultivation__.
+    + Treated with __antibiotic ointment__.
++ Red Eye (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Itchy Eyes (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Photophobia (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neurological testing__.
+    + Treated with __recommendations__.
++ Swollen Eyelids (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Watery Eyes (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Eye Pain (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Ocular Hypertension (40% of cases | Medium Hazard)
+    + Revealed with __tonometry__.
+    + Treated with __eye drops__.
++ Blurred Vision (35% of cases | Low Hazard)
+    + Revealed with __an interview__, __a basic visual test__, or __ophthalmoscopy__.
+    + Treated with __eye drops__.
+
+## Botulism
+__Occurrence: Common | Base Payment: $1800__
+Botulism is a rare and potentially fatal illness caused by toxins produced by bacterium Clostridium botulinum.
+
+__Symptoms__
+
++ C. Botulinum Detected (100% of cases | High Hazard | __Serious__)
+    + Revealed with __ELISA testing__.
+    + Treated with __botulinum antitoxin__.
+    + Can lead to __respiratory failure__ if left untreated for __8 to 24__ hours.
++ Dysphagia (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __diet modification__.
++ Slurred Speech (90% of cases | Low Hazard)
+    + Revealed with __speech listening__.
+    + Cannot be treated.
++ Nausea (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Vomiting (90% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Breathing Problems (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Hypotension (75% of cases | Low Hazard)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __diet modification__.
++ Constipation (75% of cases | Low Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __purgatives__.
++ Dyspnea (50% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __respiratory failure__ if left untreated for __1 to 24__ hours.
+
+## Cerebral Contusion
+__Occurrence: Common | Base Payment: $5500__
+Cerebral contusion is a traumatic brain injury usually due to blunt head trauma.
+
+__Symptoms__
+
++ Head Injury (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __bandage__.
++ Cerebral Contusion (100% of cases | High Hazard | __Serious__)
+    + Revealed with __a CT scan__.
+    + Treated with __NSAIDs__.
+    + Can lead to __coma__ if left untreated for __4 to 24__ hours.
++ Head Trauma (99% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __emergency care__.
++ Confusion (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __tranquilizers__.
++ Dizziness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Nausea (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Vomiting (70% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Slurred Speech (70% of cases | Low Hazard)
+    + Revealed with __speech listening__.
+    + Cannot be treated.
++ Long Reaction Time (70% of cases | Low Hazard)
+    + Revealed with __speech listening__.
+    + Cannot be treated.
++ Tinnitus (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __recommendations__.
++ Poor Balance (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Fainting (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __neurological testing__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __unconsciousness__ if left untreated for __1 to 24__ hours.
++ Increased ICP (70% of cases | Low Hazard)
+    + Revealed with __CSF analysis__.
+    + Treated with __VP shunting__.
++ Intracranial Hemorrhage (20% of cases | High Hazard | __Serious__)
+    + Revealed with __a CT scan__.
+    + Treated with __craniotomy__.
+    + Can lead to __coma__ if left untreated for __1 to 3__ hours.
++ Coma (20% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __life support__.
+    + Can lead to __death__ if left untreated for __1 to 24__ hours.
+
+## CIPD
+__Occurrence: Common | Base Payment: $1000__
+Chronic inflammatory demyelinizating polyneuropathy is an immune inflammatory disease affecting peripheral nervous system by destructing the cover sheet that protect and insulate the nerves and fibres.
+
+__Symptoms__
+
++ Demyelinization Findings (100% of cases | Medium Hazard)
+    + Revealed with __biopsy testing__.
+    + Treated with __IV immunoglobulin__.
++ Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Muscle Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Urinary Incontinence (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __exercise__.
++ Numbness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Autoimmune Antibodies (70% of cases | Low Hazard)
+    + Revealed with __serologic testing__.
+    + Treated with __plasmapheresis__.
++ Fatigue (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Malaise (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
+
+## Cluster Headache
+__Occurrence: Common | Base Payment: $900__
+Cluster headaches are extremely painful headaches, often with crying and a dripping nose, that only occur on one side of the head.
+
+__Symptoms__
+
++ Cluster Headache (100% of cases | Low Hazard)
+    + Revealed with __an MRI scan__.
+    + Treated with __oxygen therapy__.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Watery Eyes (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Pale Skin (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __B-complex supplement__.
++ Swollen Eyelids (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Red Eye (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Sweating (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anticholinergics__.
+
+## Concussion
+__Occurrence: Common | Base Payment: $1200__
+A concussion is a mild traumatic brain injury resulting in temporary altered mental state and/or loss of function.
+
+__Symptoms__
+
++ Head Trauma (100% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __emergency care__.
++ Concussion (100% of cases | High Hazard | __Serious__)
+    + Revealed with __a CT scan__.
+    + Treated with __analgesics__.
+    + Can lead to __fainting__ if left untreated for __1 to 24__ hours.
++ Confusion (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __tranquilizers__.
++ Dizziness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Nausea (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Vomiting (70% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Slurred Speech (70% of cases | Low Hazard)
+    + Revealed with __speech listening__.
+    + Cannot be treated.
++ Long Reaction Time (70% of cases | Low Hazard)
+    + Revealed with __speech listening__.
+    + Cannot be treated.
++ Post-Traumatic Amnesia (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Cannot be treated.
++ Tinnitus (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an ear examination__.
+    + Treated with __recommendations__.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Photophobia (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neurological testing__.
+    + Treated with __recommendations__.
++ Poor Balance (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Fainting (30% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __neurological testing__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __unconsciousness__ if left untreated for __1 to 24__ hours.
+
+## Conjunctivitis (Allergic)
+__Occurrence: Common | Base Payment: $200__
+Conjunctivitis  known as "Pink eye" is an inflammatory disease of the outermost layer of the white part of the eye.
+
+__Symptoms__
+
++ Allergic Conjunctivitis (100% of cases | Low Hazard)
+    + Revealed with __a skin allergy test__.
+    + Treated with __antihistamines__.
++ Red Eye (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Blurred Vision (70% of cases | Low Hazard)
+    + Revealed with __an interview__, __a basic visual test__, or __ophthalmoscopy__.
+    + Treated with __eye drops__.
++ Burning Eye (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Watery Eyes (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Itchy Eyes (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
+
+## Conjunctivitis (Bacterial)
+__Occurrence: Common | Base Payment: $600__
+Conjunctivitis  known as "Pink eye" is an inflammatory disease of the outermost layer of the white part of the eye.
+
+__Symptoms__
+
++ Bacterial Conjunctivitis (100% of cases | Low Hazard)
+    + Revealed with __microbial cultivation__.
+    + Treated with __antibiotic ointment__.
++ Red Eye (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Blurred Vision (70% of cases | Low Hazard)
+    + Revealed with __an interview__, __a basic visual test__, or __ophthalmoscopy__.
+    + Treated with __eye drops__.
++ Burning Eye (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Watery Eyes (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Photophobia (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neurological testing__.
+    + Treated with __recommendations__.
++ Itchy Eyes (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Eye Pain (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Ocular Hypertension (40% of cases | Medium Hazard)
+    + Revealed with __tonometry__.
+    + Treated with __eye drops__.
+
+## Corneal Abrasion
+__Occurrence: Common | Base Payment: $200__
+Corneal abrasion - known also as scratched eye is one of the most common eye injuries, when foreign obstacles scratches the eye and produce discomfort and related symptoms.
+
+__Symptoms__
+
++ Scratched Cornea (100% of cases | Low Hazard)
+    + Revealed with __gonioscopy__.
+    + Treated with __eye drops__.
++ Red Eye (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Watery Eyes (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Photophobia (60% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neurological testing__.
+    + Treated with __recommendations__.
++ Headache (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Eye Pain (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Itchy Eyes (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Loss of Vision (40% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __ophthalmoscopy__.
+    + Cannot be treated.
+
+## CRVO
+__Occurrence: Common | Base Payment: $1500__
+Central retinal vein occlusion is one of the common vascular disorders of the eye's retina.
+
+__Symptoms__
+
++ Retinal Vein Occlusion (100% of cases | Medium Hazard)
+    + Revealed with __angiography__.
+    + Treated with __corticosteroids__.
++ Blurred Vision (60% of cases | Low Hazard)
+    + Revealed with __an interview__, __a basic visual test__, or __ophthalmoscopy__.
+    + Treated with __eye drops__.
++ Loss of Vision (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __ophthalmoscopy__.
+    + Cannot be treated.
++ Visual Field Limited (50% of cases | Medium Hazard)
+    + Revealed with __perimetry__.
+    + Cannot be treated.
++ Hypertension (50% of cases | High Hazard | __Serious__)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __antihypertensive medication__.
+    + Can lead to __heart failure__ if left untreated for __6 to 24__ hours.
++ Ocular Hypertension (50% of cases | Medium Hazard)
+    + Revealed with __tonometry__.
+    + Treated with __eye drops__.
++ Elevated LDL (20% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __diet modification__.
+
+## Diffuse Axonal Injury
+__Occurrence: Common | Base Payment: $3900__
+Diffuse axonal injury is one of the most common head traumas, it occurs when the brain shifts too quickly inside the skull.
+
+__Symptoms__
+
++ Head Injury (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __bandage__.
++ Diffuse Axonal Injury (100% of cases | Medium Hazard)
+    + Revealed with __an MRI scan__.
+    + Treated with __diuretics__.
++ Confusion (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __tranquilizers__.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Nausea (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Vomiting (70% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Fainting (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __neurological testing__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __unconsciousness__ if left untreated for __1 to 24__ hours.
++ Sleeping Problems (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __sleeping drugs__.
++ Poor Balance (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Dizziness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Slurred Speech (70% of cases | Low Hazard)
+    + Revealed with __speech listening__.
+    + Cannot be treated.
++ Increased ICP (30% of cases | Low Hazard)
+    + Revealed with __CSF analysis__.
+    + Treated with __VP shunting__.
++ Unconsciousness (20% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __coma__ if left untreated for __6 to 24__ hours.
++ Coma (20% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __life support__.
+    + Can lead to __death__ if left untreated for __1 to 24__ hours.
+
+## Encephalitis
+__Occurrence: Uncommon | Base Payment: $900__
+Encephalitis is an inflammation of the brain, most commonly caused by an autoimmune reaction or viruses.
+
+__Symptoms__
+
++ Brain Inflammation (100% of cases | High Hazard | __Serious__)
+    + Revealed with __CSF analysis__.
+    + Treated with __antivirals__.
+    + Can lead to __coma__ if left untreated for __6 to 24__ hours.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Muscle and Joint Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Fatigue (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Confusion (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __tranquilizers__.
++ Hallucinations (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an EEG__.
+    + Treated with __antipsychotics__.
++ Muscle Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Slurred Speech (70% of cases | Low Hazard)
+    + Revealed with __speech listening__.
+    + Cannot be treated.
++ Poor Balance (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Irregular Heartbeat (50% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __beta blockers__.
+    + Can lead to __heart failure__ if left untreated for __4 to 24__ hours.
+
+## Guillain-Barre Syndrome
+__Occurrence: Common | Base Payment: $1300__
+Guillain-Barre syndrome is a serious disease where the immune system attacks its own nervous system.
+
+__Symptoms__
+
++ Guillain-Barre Findings (100% of cases | Medium Hazard)
+    + Revealed with __CSF analysis__.
+    + Treated with __IV immunoglobulin__.
++ Autoimmune Antibodies (90% of cases | Low Hazard)
+    + Revealed with __serologic testing__.
+    + Treated with __plasmapheresis__.
++ Finger Numbness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Walking Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Tachycardia (70% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Back Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Hypertension (70% of cases | High Hazard | __Serious__)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __antihypertensive medication__.
+    + Can lead to __heart failure__ if left untreated for __6 to 24__ hours.
++ Breathing Problems (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __chest auscultation__.
+    + Treated with __bronchodilators__.
++ Waddling Gait (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Respiratory Failure (10% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __artificial ventilation__.
+    + Can lead to __death__ if left untreated for __0.1 to 0.5__ hours.
+
+## Hypertensive Retinopathy
+__Occurrence: Uncommon | Base Payment: $900__
+Hypertensive retinopathy is damage to the retina and retina’s blood vessels due to high blood pressure.
+
+__Symptoms__
+
++ Retinopathy Discovered (100% of cases | Medium Hazard)
+    + Revealed with __ophthalmoscopy__.
+    + Treated with __ACE inhibitors__.
++ Visual Field Limited (70% of cases | Medium Hazard)
+    + Revealed with __perimetry__.
+    + Cannot be treated.
++ Swollen Eyelids (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Blurred Vision (70% of cases | Low Hazard)
+    + Revealed with __an interview__, __a basic visual test__, or __ophthalmoscopy__.
+    + Treated with __eye drops__.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Hypertension (70% of cases | High Hazard | __Serious__)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __antihypertensive medication__.
+    + Can lead to __heart failure__ if left untreated for __6 to 24__ hours.
++ Elevated LDL (60% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __diet modification__.
++ Irregular Heartbeat (20% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __beta blockers__.
+    + Can lead to __heart failure__ if left untreated for __4 to 24__ hours.
+
+## Keratitis - Bacterial
+__Occurrence: Common | Base Payment: $600__
+Keratitis is an inflammatory disease, mostly caused by bacteria, of the cornea - the clear dome surface of the eye.
+
+__Symptoms__
+
++ P. Aeruginosa (100% of cases | Low Hazard)
+    + Revealed with __microbial cultivation__.
+    + Treated with __antibiotic ointment__.
++ Eye Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Red Eye (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Watery Eyes (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Blurred Vision (50% of cases | Low Hazard)
+    + Revealed with __an interview__, __a basic visual test__, or __ophthalmoscopy__.
+    + Treated with __eye drops__.
++ Ocular Hypertension (50% of cases | Medium Hazard)
+    + Revealed with __tonometry__.
+    + Treated with __eye drops__.
++ Photophobia (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neurological testing__.
+    + Treated with __recommendations__.
++ Itchy Eyes (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
+
+## Migraine
+__Occurrence: Common | Base Payment: $700__
+Migraine is a severe, painful headache with or without aura.
+
+__Symptoms__
+
++ Migraine Detected (100% of cases | Low Hazard)
+    + Revealed with __an MRI scan__.
+    + Treated with __analgesics__.
++ Photophobia (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neurological testing__.
+    + Treated with __recommendations__.
++ Constipation (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __abdominal palpation__.
+    + Treated with __purgatives__.
++ Depression (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __antidepressants__.
++ Stiffness of the Neck (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __EMS__.
++ Thirst (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rehydration__.
++ Blurred Vision (70% of cases | Low Hazard)
+    + Revealed with __an interview__, __a basic visual test__, or __ophthalmoscopy__.
+    + Treated with __eye drops__.
++ Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Numbness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Slurred Speech (70% of cases | Low Hazard)
+    + Revealed with __speech listening__.
+    + Cannot be treated.
++ Hearing Problems (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __audiometry__.
+    + Treated with __ear drops__.
++ Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Dizziness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Vomiting (70% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
+
+## Neuromyelitis Optica
+__Occurrence: Common | Base Payment: $1400__
+Neuromyelitis optica is an auto-immune disease where the immune system attacks the eye nerves and the spinal cord. A condition that is often seen because of multiple sclerosis. 
+
+__Symptoms__
+
++ Neuromyelitis Discovered (100% of cases | Medium Hazard)
+    + Revealed with __an MRI scan__.
+    + Treated with __IV corticosteroids__.
++ Muscle Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Urinary Incontinence (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __exercise__.
++ Numbness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Loss of Vision (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __ophthalmoscopy__.
+    + Cannot be treated.
++ Autoimmune Antibodies (70% of cases | Low Hazard)
+    + Revealed with __serologic testing__.
+    + Treated with __plasmapheresis__.
++ Weakness (60% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Spasms (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __spasmolytics__.
++ Hemiparesis (20% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
+
+## Open-Angle Glaucoma
+__Occurrence: Uncommon | Base Payment: $1300__
+Glaucoma is a disease that results in damage to the optic nerve, because of high pressure inside the eye .
+
+__Symptoms__
+
++ Optic Nerve Atrophy (100% of cases | Medium Hazard)
+    + Revealed with __an MRI scan__.
+    + Treated with __eye drops__.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Nausea (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Vomiting (70% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Blurred Vision (70% of cases | Low Hazard)
+    + Revealed with __an interview__, __a basic visual test__, or __ophthalmoscopy__.
+    + Treated with __eye drops__.
++ Red Eye (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Loss of Vision (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __ophthalmoscopy__.
+    + Cannot be treated.
++ Eye Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Ocular Hypertension (70% of cases | Medium Hazard)
+    + Revealed with __tonometry__.
+    + Treated with __eye drops__.
++ Visual Field Limited (70% of cases | Medium Hazard)
+    + Revealed with __perimetry__.
+    + Cannot be treated.
+
+## PCF
+__Occurrence: Common | Base Payment: $300__
+PCF - Pharyngoconjunctival fever refers to a condition mostly caused by Human mastadenovirus B, that causes small outbreaks mostly between young people in collectives. The disease affects pharynx and eyes.
+
+__Symptoms__
+
++ Mastadenovirus B Detected (100% of cases | Low Hazard)
+    + Revealed with __PCR testing__.
+    + Treated with __eye drops__.
++ High Fever (90% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
+    + Can lead to __exhaustion__ if left untreated for __2 to 8__ hours.
++ Sore Throat (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __an oral cavity inspection__.
+    + Treated with __analgesics__.
++ Red Eye (90% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Swollen Lymph Nodes (75% of cases | Low Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Headache (75% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Malaise (75% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Weakness (75% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Watery Eyes (75% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Itchy Eyes (75% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Fever (75% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
+
+## Penetrating Trauma - Head
+__Occurrence: Uncommon | Base Payment: $5500__
+Penetrating head injury is an injury in which the dura mater, the outer layer of the meninges, is breached.
+
+__Symptoms__
+
++ Head Injury (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __bandage__.
++ Hemorrhage (100% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antihemorrhagics__.
+    + Can lead to __hypovolemic shock__ if left untreated for __4 to 8__ hours.
++ Skull Basis Fracture (100% of cases | High Hazard | __Serious__)
+    + Revealed with __a CT scan__.
+    + Treated with __fracture neurosurgery of the head__.
+    + Can lead to __coma__ if left untreated for __2 to 4__ hours.
++ Tachycardia (100% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Hypotension (100% of cases | Low Hazard)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __diet modification__.
++ CSF Leak (100% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __craniotomy__.
+    + Can lead to __coma__ if left untreated for __1 to 6__ hours.
++ Open Head Wound (100% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __craniotomy__.
+    + Can lead to __coma__ if left untreated for __1 to 5__ hours.
++ Unconsciousness (50% of cases | High Hazard | __Serious__)
+    + Revealed with __a physical examination__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __coma__ if left untreated for __6 to 24__ hours.
++ Coma (20% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __life support__.
+    + Can lead to __death__ if left untreated for __1 to 24__ hours.
+
+## Pneumococcal Meningitis
+__Occurrence: Uncommon | Base Payment: $900__
+Pneumococcal meningitis is an inflammation of membranes covering the spinal cord and brain due to the pneumococcal infection.
+
+__Symptoms__
+
++ Streptococcus Pneumoniae (100% of cases | High Hazard | __Serious__)
+    + Revealed with __CSF analysis__.
+    + Treated with __IV antibiotics__.
+    + Can lead to __unconsciousness__ if left untreated for __6 to 24__ hours.
++ Chest Pain (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __thorax percussion__.
+    + Treated with __analgesics__.
++ Chills (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __antipyretics__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Vomiting (70% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Irritability (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __tranquilizers__.
++ Tachycardia (70% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Stiffness of the Neck (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __EMS__.
++ Headache (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Confusion (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __tranquilizers__.
++ Weakness (50% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ High Fever (30% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
+    + Can lead to __exhaustion__ if left untreated for __2 to 8__ hours.
++ Diminished Hearing (0% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __audiometry__.
+    + Treated with __ear drops__.
+
+## Rabies
+__Occurrence: Uncommon | Base Payment: $1700__
+Rabies is a deadly virus spread by saliva of infected animals. Transmission is often through animal bites.
+
+__Symptoms__
+
++ Rabies Detected (100% of cases | High Hazard | __Serious__)
+    + Revealed with __PCR testing__.
+    + Treated with __rabies immunoglobulin__.
+    + Can lead to __septic shock__ if left untreated for __6 to 24__ hours.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Nausea (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __stomachics__.
++ Vomiting (70% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Confusion (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __tranquilizers__.
++ Hemiparesis (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Sleeping Problems (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __sleeping drugs__.
++ Anxiety (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __anxiolytics__.
++ Hallucinations (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __an EEG__.
+    + Treated with __antipsychotics__.
++ Irregular Heartbeat (20% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __beta blockers__.
+    + Can lead to __heart failure__ if left untreated for __4 to 24__ hours.
+
+## Scleritis
+__Occurrence: Common | Base Payment: $200__
+Scleritis refers to inflammation of the sclera of the eye.
+
+__Symptoms__
+
++ Scleral Changes (100% of cases | Low Hazard)
+    + Revealed with __gonioscopy__.
+    + Treated with __NSAIDs__.
++ Eye Pain (90% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Blurred Vision (70% of cases | Low Hazard)
+    + Revealed with __an interview__, __a basic visual test__, or __ophthalmoscopy__.
+    + Treated with __eye drops__.
++ Photophobia (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neurological testing__.
+    + Treated with __recommendations__.
++ Red Eye (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
++ Watery Eyes (20% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
+
+## Staphylococcal Meningitis
+__Occurrence: Common | Base Payment: $700__
+Staphylococcal meningitis is an inflammation of membranes covering the spinal cord and brain due to the staphylococcal infection.
+
+__Symptoms__
+
++ Staphylococcus Aureus (100% of cases | High Hazard | __Serious__)
+    + Revealed with __CSF analysis__.
+    + Treated with __IV antibiotics__.
+    + Can lead to __unconsciousness__ if left untreated for __6 to 24__ hours.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Vomiting (70% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Dizziness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Hypotension (70% of cases | Low Hazard)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __diet modification__.
++ Petechiae (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Stiffness of the Neck (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __EMS__.
++ Headache (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
+
+## Subdural Hematoma
+__Occurrence: Uncommon | Base Payment: $3800__
+Subdural hematoma is a condition where veins in the subdural space are torn and start to bleed. Blood accumulates in the narrow space which increases the pressure inside the skull cavity. The condition is often fatal if left untreated.
+
+__Symptoms__
+
++ Head Injury (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __bandage__.
++ Intracranial Hemorrhage (100% of cases | High Hazard | __Serious__)
+    + Revealed with __a CT scan__.
+    + Treated with __craniotomy__.
+    + Can lead to __coma__ if left untreated for __1 to 3__ hours.
++ Intracranial Hematoma (100% of cases | High Hazard | __Serious__)
+    + Revealed with __a CT scan__.
+    + Treated with __craniotomy__.
+    + Can lead to __coma__ if left untreated for __6 to 24__ hours.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Vomiting (70% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Fainting (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an interview__ or __neurological testing__.
+    + Treated with __oxygen therapy__.
+    + Can lead to __unconsciousness__ if left untreated for __1 to 24__ hours.
++ Dizziness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Confusion (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __tranquilizers__.
++ Slurred Speech (70% of cases | Low Hazard)
+    + Revealed with __speech listening__.
+    + Cannot be treated.
++ Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Coma (20% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __life support__.
+    + Can lead to __death__ if left untreated for __1 to 24__ hours.
+
+## Tetanus
+__Occurrence: Common | Base Payment: $900__
+Tetanus is a serious bacterial disease affecting the nervous system.
+
+__Symptoms__
+
++ Spatula Test Positive (100% of cases | Medium Hazard)
+    + Revealed with __an evaluation__.
+    + Treated with __IV immunoglobulin__.
++ Tachycardia (70% of cases | High Hazard | __Serious__)
+    + Revealed with __heart monitoring__ or __an ECG__.
+    + Treated with __antiarrhythmics__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Sweating (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __anticholinergics__.
++ Hypertension (70% of cases | High Hazard | __Serious__)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __antihypertensive medication__.
+    + Can lead to __heart failure__ if left untreated for __6 to 24__ hours.
++ Swallow Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neck palpation__.
+    + Treated with __NSAIDs__.
++ Stiffness of the Back (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __EMS__.
++ Stiffness of the Joints (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __EMS__.
++ Stiffness of the Neck (60% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __EMS__.
++ Numbness (50% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Spasms (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __spasmolytics__.
++ Respiratory Failure (20% of cases | High Hazard | __Fatal__)
+    + Revealed with __a physical examination__.
+    + Treated with __artificial ventilation__.
+    + Can lead to __death__ if left untreated for __0.1 to 0.5__ hours.
+
+## TIA
+__Occurrence: Common | Base Payment: $1300__
+TIA - Transient ischemic attack is similar to a stroke, but usually lasts  up to 24h and causes no permanent damage.
+
+__Symptoms__
+
++ TIA Detected (100% of cases | High Hazard | __Serious__)
+    + Revealed with __an MRI scan__.
+    + Treated with __ACE inhibitors__.
+    + Can lead to __unconsciousness__ if left untreated for __8 to 24__ hours.
++ Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Poor Balance (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __recommendations__.
++ Atherosclerosis (70% of cases | High Hazard | __Serious__)
+    + Revealed with __an urgent echocardiogram__ or __an echocardiogram__.
+    + Treated with __ACE inhibitors__.
+    + Can lead to __palpitations__ if left untreated for __6 to 24__ hours.
++ Elevated LDL (70% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __diet modification__.
++ Hemiparesis (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
++ Slurred Speech (50% of cases | Low Hazard)
+    + Revealed with __speech listening__.
+    + Cannot be treated.
++ Walking Problems (50% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
+
+## Tick-Borne Encephalitis
+__Occurrence: Common | Base Payment: $1300__
+Tick-borne encephalitis is a viral tick-borne infectious disease involving brain and central nervous system.
+
+__Symptoms__
+
++ TBE Detected (100% of cases | High Hazard | __Serious__)
+    + Revealed with __CSF analysis__.
+    + Treated with __IV corticosteroids__.
+    + Can lead to __respiratory failure__ if left untreated for __6 to 24__ hours.
++ Headache (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Fever (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __temperature measurement__.
+    + Treated with __antipyretics__.
++ Malaise (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __rest__.
++ Muscle Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Confusion (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __speech listening__.
+    + Treated with __tranquilizers__.
++ Dizziness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Leukopenia (70% of cases | Medium Hazard)
+    + Revealed with __CBC testing__.
+    + Cannot be treated.
++ Weakness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __rest__.
++ Slurred Speech (70% of cases | Low Hazard)
+    + Revealed with __speech listening__.
+    + Cannot be treated.
++ Abnormal LFT (70% of cases | Low Hazard)
+    + Revealed with __ICU blood analysis__ or __a blood test__.
+    + Treated with __diet modification__.
++ Hemiparesis (20% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Cannot be treated.
+
+## Traumatic Brain Injury
+__Occurrence: Uncommon | Base Payment: $5600__
+Occurs when an external force injures the brain. It can be caused by accidents or blunt trauma.
+
+__Symptoms__
+
++ Head Injury (100% of cases | Medium Hazard)
+    + Revealed with __a physical examination__.
+    + Treated with __bandage__.
++ Brain Hematomas (100% of cases | High Hazard | __Serious__)
+    + Revealed with __a CT scan__.
+    + Treated with __craniotomy__.
+    + Can lead to __coma__ if left untreated for __1 to 24__ hours.
++ Bruise (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __an ice wrap__.
++ Vomiting (70% of cases | Medium Hazard)
+    + Revealed with __an interview__.
+    + Treated with __stomachics__.
++ Photophobia (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neurological testing__.
+    + Treated with __recommendations__.
++ Numbness (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __NSAIDs__.
++ Dizziness (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Treated with __recommendations__.
++ Post-Traumatic Amnesia (70% of cases | Low Hazard)
+    + Revealed with __an interview__.
+    + Cannot be treated.
++ Slurred Speech (70% of cases | Low Hazard)
+    + Revealed with __speech listening__.
+    + Cannot be treated.
++ Hypertension (70% of cases | High Hazard | __Serious__)
+    + Revealed with __blood pressure measurement__.
+    + Treated with __antihypertensive medication__.
+    + Can lead to __heart failure__ if left untreated for __6 to 24__ hours.
++ Intracranial Hemorrhage (50% of cases | High Hazard | __Serious__)
+    + Revealed with __a CT scan__.
+    + Treated with __craniotomy__.
+    + Can lead to __coma__ if left untreated for __1 to 3__ hours.
++ Skull Fracture (50% of cases | High Hazard | __Serious__)
+    + Revealed with __a CT scan__.
+    + Treated with __fracture neurosurgery of the head__.
+    + Can lead to __coma__ if left untreated for __2 to 4__ hours.
+
+## Uveitis
+__Occurrence: Common | Base Payment: $800__
+Uveitis refers to inflammation of the part of the eye called the uvea. The uvea includes the iris and some adjacent structures.
+
+__Symptoms__
+
++ Retina Scarring (100% of cases | Low Hazard)
+    + Revealed with __angiography__.
+    + Treated with __corticosteroids__.
++ Blurred Vision (70% of cases | Low Hazard)
+    + Revealed with __an interview__, __a basic visual test__, or __ophthalmoscopy__.
+    + Treated with __eye drops__.
++ Photophobia (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __neurological testing__.
+    + Treated with __recommendations__.
++ Eye Pain (70% of cases | Medium Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __analgesics__.
++ Red Eye (70% of cases | Low Hazard)
+    + Revealed with __an interview__ or __a physical examination__.
+    + Treated with __eye drops__.
+
