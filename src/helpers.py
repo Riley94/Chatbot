@@ -69,32 +69,32 @@ class RNN(nn.Module):
     def initHidden(self):
         return torch.zeros(1, self.hidden_size)
     
-    def predict(self, input_line, n_predictions=3):
-        print('\n> %s' % input_line)
-        words, intents, _ = process_intents(load_data())
-        lemmatizer = WordNetLemmatizer()
+def predict(input_line, model, n_predictions=3):
+    print('\n> %s' % input_line)
+    words, intents, _ = process_intents(load_data())
+    lemmatizer = WordNetLemmatizer()
 
-        with torch.no_grad():
-            output = self.evaluate(torch.from_numpy(bag_of_words(input_line, words, lemmatizer)).view(1, -1))
+    with torch.no_grad():
+        output = evaluate(torch.from_numpy(bag_of_words(input_line, words, lemmatizer)).view(1, -1), model)
 
-            # Get top N categories
-            topv, topi = output.topk(n_predictions, 1, True)
-            predictions = []
+        # Get top N categories
+        topv, topi = output.topk(n_predictions, 1, True)
+        predictions = []
 
-            for i in range(n_predictions):
-                value = topv[0][i].item()
-                category_index = topi[0][i].item()
-                print('(%.2f) %s' % (value, intents[category_index]))
-                predictions.append([value, intents[category_index]])
+        for i in range(n_predictions):
+            value = topv[0][i].item()
+            category_index = topi[0][i].item()
+            print('(%.2f) %s' % (value, intents[category_index]))
+            predictions.append([value, intents[category_index]])
 
-        return predictions
+    return predictions
     
-    # Just return an output given a line
-    def evaluate(self, line_tensor):
-        hidden = self.initHidden()
-        output, hidden = self.forward(line_tensor, hidden)
+# Just return an output given a line
+def evaluate(line_tensor, model):
+    hidden = model.initHidden()
+    output, hidden = model(line_tensor, hidden)
 
-        return output
+    return output
     
 def bag_of_words(sentence, words, lemmatizer):
     if sentence is None:
