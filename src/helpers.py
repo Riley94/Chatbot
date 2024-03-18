@@ -13,10 +13,12 @@ def load_data():
         intents = json.load(file)['intents']
 
     intents_dict = {}
+    response_dict = {}
     for intent in intents:
         intents_dict[intent['tag']] = intent['patterns']
+        response_dict[intent['tag']] = intent['responses']
 
-    return intents_dict
+    return intents_dict, response_dict
 
 def process_intents(intents_dict):
     lemmatizer = WordNetLemmatizer()
@@ -71,7 +73,7 @@ class RNN(nn.Module):
     
 def predict(input_line, model, n_predictions=3):
     print('\n> %s' % input_line)
-    words, intents, _ = process_intents(load_data())
+    words, intents, _ = process_intents(load_data()[0])
     lemmatizer = WordNetLemmatizer()
 
     with torch.no_grad():
