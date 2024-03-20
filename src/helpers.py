@@ -6,8 +6,8 @@ import numpy as np
 import nltk
 from nltk.stem import WordNetLemmatizer
 
-def load_data():
-    data_path = os.path.join(os.path.dirname(__file__), '../raw_data/intents.json')
+def load_data(path):
+    data_path = os.path.join(os.path.dirname(__file__), path)
     # Load intents
     with open(data_path, 'r') as file:
         intents = json.load(file)['intents']
@@ -26,7 +26,7 @@ def process_intents(intents_dict):
     words = []
     intents = []
     words_tokenized = []
-    ignore = ['?', '!', '.', ',', '\'s']
+    ignore = ['?', '!', '.', ',']
 
     for intent in intents_dict:
         for pattern in intents_dict[intent]:
