@@ -73,7 +73,7 @@ class RNN(nn.Module):
     
 def predict(input_line, model, n_predictions=3):
     print('\n> %s' % input_line)
-    words, intents, _ = process_intents(load_data()[0])
+    words, intents, _ = process_intents(load_data('../clean_data/intents_enriched.json')[0])
     lemmatizer = WordNetLemmatizer()
 
     with torch.no_grad():
