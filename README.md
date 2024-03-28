@@ -1,11 +1,9 @@
 # Chatbot
 
-# ToDo (In pytorch. Some of this already acheived in TF)
+# ToDo
 - finish notebook
-  - NER
   - Query and Commands
   - Fuzzy Matching (Or something like it)
-  - Response Generation
   - Bot Implementation
 - Convert Scripts
   - Model Training
