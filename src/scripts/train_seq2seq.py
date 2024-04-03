@@ -5,7 +5,7 @@ import spacy
 # user defined
 from models.intents_classifier import RNN
 from models.seq2seq import EncoderRNN, AttnDecoderRNN
-from models.model_helpers.response_helpers import evaluateRandomly, evaluateAndShowAttention, process_input, get_dataloader, train
+from models.model_helpers.response_helpers import evaluateAndShowAttention, process_input, get_dataloader, train
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
