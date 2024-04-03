@@ -21,7 +21,7 @@ class RNN(nn.Module):
         output = self.h2o(hidden)
         output = self.ReLU(output)
         output = self.dropout(output)
-        output = self.softmax(output + 1e-9)
+        output = self.softmax(output + 1e-9) # to avoid log(0)
         return output, hidden
 
     def initHidden(self):

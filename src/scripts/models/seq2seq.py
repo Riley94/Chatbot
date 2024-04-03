@@ -19,7 +19,7 @@ class EncoderRNN(nn.Module):
         embedded = self.dropout(self.embedding(input))
         output, hidden = self.gru(embedded)
         return output, hidden
-    
+
 class DecoderRNN(nn.Module):
     def __init__(self, hidden_size, output_size):
         super(DecoderRNN, self).__init__()
