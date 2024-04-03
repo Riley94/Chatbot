@@ -24,6 +24,15 @@ SOS_token = 0
 EOS_token = 1
 lemmatizer = WordNetLemmatizer()
 
+base_path = os.path.dirname(__file__)
+clean_data_path = os.path.join(base_path, '../../../../clean_data')
+intents_path = os.path.join(clean_data_path, 'intents_enriched.json')
+intent_model_path = os.path.join(clean_data_path, 'models/intents_classifier.pth')
+entity_model_path = os.path.join(clean_data_path, 'models/ner_model')
+
+intent_model = torch.load(intent_model_path)
+entity_model = spacy.load(entity_model_path)
+
 INTENT_PREFIX = '[INTENT]'
 ENTITY_PREFIX = '[ENTITY]'
 
@@ -52,16 +61,7 @@ def augment_input_with_intent_and_entities(user_input, intent, entities):
 
 def makePairs():
     print("Reading lines...")
-    base_path = os.path.dirname(__file__)
-    clean_data_path = os.path.join(base_path, '../../../../clean_data')
-    intents_path = os.path.join(clean_data_path, 'intents_enriched.json')
-    intent_model_path = os.path.join(clean_data_path, 'models/intents_classifier.pth')
-    entity_model_path = os.path.join(clean_data_path, 'models/ner_model')
-    
     questions, responses = load_data(intents_path)
-
-    intent_model = torch.load(intent_model_path)
-    entity_model = spacy.load(entity_model_path)
 
     # make pairs of input and response and normalize
     pairs = []
@@ -222,7 +222,7 @@ def normalize_string(s):
     return lemmatized_sentence
 
 def process_input(text):
-    intent, entities = get_intents_and_entities(text)
+    intent, entities = get_intents_and_entities(text, intent_model, entity_model)
     augmented_input = augment_input_with_intent_and_entities(normalize_string(text), intent, entities)
     return augmented_input
 
