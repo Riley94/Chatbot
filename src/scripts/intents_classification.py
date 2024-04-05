@@ -7,21 +7,29 @@ from matplotlib import ticker
 import time
 import numpy as np
 import os
+import pickle
 
 # user defined
 from models.model_helpers.intents_class_helpers import load_data, process_intents, categoryFromOutput, randomTrainingExample, train, evaluate, timeSince
 from models.intents_classifier import RNN
 
 base_path = os.path.dirname(__file__)
-data_path = os.path.join(base_path, '../../clean_data/intents_enriched.json')
-model_path = os.path.join(base_path, '../../clean_data/models/intents_classifier.pth')
-confusion_path = os.path.join(base_path, '../../clean_data/figures/intents_classifier_confusion.png')
-loss_path = os.path.join(base_path, '../../clean_data/figures/intents_classifier_loss.png')
+clean_data_path = os.path.join(base_path, '../../clean_data')
+data_path = os.path.join(clean_data_path, 'intents_enriched.json')
+model_path = os.path.join(clean_data_path, 'models/intents_classifier.pth')
+confusion_path = os.path.join(clean_data_path, 'figures/intents_classifier_confusion.png')
+loss_path = os.path.join(clean_data_path, 'figures/intents_classifier_loss.png')
 
 intents_dict, response_dict = load_data(data_path)
 n_categories = len(intents_dict)
+
 # Lemmatize, tokenize and extract intent tags. See scripts/helpers.py for more details
 words, intents, words_tokenized = process_intents(intents_dict)
+
+# save for later use
+with open(os.path.join(clean_data_path, 'processed_intents.pkl'), 'wb') as f:
+    pickle.dump((words, intents, words_tokenized), f)
+
 lemmatizer = WordNetLemmatizer()
 train_x = []
 train_y = []

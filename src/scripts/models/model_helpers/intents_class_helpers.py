@@ -7,6 +7,10 @@ import numpy as np
 import random
 import math
 import time
+import pickle
+
+base_path = os.path.dirname(__file__)
+clean_data_path = os.path.join(base_path, '../../../../clean_data')
 
 def bag_of_words(sentence, words, lemmatizer):
     if sentence is None:
@@ -65,8 +69,11 @@ def evaluate(line_tensor, model):
     return output
 
 def predict(input_line, model, n_predictions=3):
-    data_path = os.path.join(os.path.dirname(__file__), '../../../../clean_data/intents_enriched.json')
-    words, intents, _ = process_intents(load_data(data_path)[0])
+    data_path = os.path.join(clean_data_path, 'processed_intents.pkl')
+    
+    with open(data_path, 'rb') as file:
+        words, intents, _ = pickle.load(file)
+
     lemmatizer = WordNetLemmatizer()
 
     with torch.no_grad():

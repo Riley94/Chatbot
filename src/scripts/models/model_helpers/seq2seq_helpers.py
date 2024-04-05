@@ -1,5 +1,4 @@
 import matplotlib.pyplot as plt
-import random
 import torch
 from torch.utils.data import TensorDataset, DataLoader, RandomSampler
 import numpy as np
@@ -13,10 +12,10 @@ import time
 import string
 import spacy
 import os
+import pickle
 
 # user defined
-from models.model_helpers.intents_class_helpers import timeSince, load_data, predict
-from models.model_helpers.corpus import Corpus
+from models.model_helpers.intents_class_helpers import timeSince
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -32,61 +31,6 @@ entity_model_path = os.path.join(clean_data_path, 'models/ner_model')
 
 intent_model = torch.load(intent_model_path)
 entity_model = spacy.load(entity_model_path)
-
-INTENT_PREFIX = '[INTENT]'
-ENTITY_PREFIX = '[ENTITY]'
-
-def get_intents_and_entities(text, intent_model, entity_model):
-    intent_prob = -np.inf
-    intents_pred = predict(text, intent_model)
-    intent = ''
-
-    for item in intents_pred:
-        if item[0] > intent_prob:
-            intent_prob = item[0]
-            intent = item[1]
-    ner_doc = entity_model(text)
-    entities = [(ent.text, ent.label_) for ent in ner_doc.ents]
-    return intent, entities
-
-def augment_input_with_intent_and_entities(user_input, intent, entities):
-    # Augment the input with the intent
-    augmented_input = f"{INTENT_PREFIX}{intent} " + user_input
-    
-    # Augment the input with entities
-    for entity, entity_type in entities:
-        augmented_input += f" {ENTITY_PREFIX}{entity_type}"
-    
-    return augmented_input
-
-def makePairs():
-    print("Reading lines...")
-    questions, responses = load_data(intents_path)
-
-    # make pairs of input and response and normalize
-    pairs = []
-    for tag in responses:
-        for i in range(len(responses[tag])):
-            _, entities = get_intents_and_entities(questions[tag][i], intent_model, entity_model)
-            augmented_input = augment_input_with_intent_and_entities(normalize_string(questions[tag][i]), tag, entities)
-            pairs.append([augmented_input, responses[tag][i]])
-        
-    inputs = Corpus('inputs')
-    outputs = Corpus('responses')
-
-    return inputs, outputs, pairs
-
-def prepareData():
-    input, output, pairs = makePairs()
-    print("Read %s sentence pairs" % len(pairs))
-    print("Counting words...")
-    for pair in pairs:
-        input.addSentence(pair[0])
-        output.addSentence(pair[1])
-    print("Counted words:")
-    print(input.name, input.n_words)
-    print(output.name, output.n_words)
-    return input, output, pairs
 
 def indexesFromSentence(obj, sentence):
     return [obj.word2index[word] for word in sentence.split(' ')]
@@ -109,7 +53,16 @@ def find_max_len(pairs):
     return max_length
 
 def get_dataloader(batch_size):
-    inputs, outputs, pairs = prepareData()
+
+    with open(os.path.join(clean_data_path, 'input_corpus.pkl'), 'rb') as f:
+        inputs = pickle.load(f)
+
+    with open(os.path.join(clean_data_path, 'output_corpus.pkl'), 'rb') as f:
+        outputs = pickle.load(f)
+
+    with open(os.path.join(clean_data_path, 'pairs.pkl'), 'rb') as f:
+        pairs = pickle.load(f)
+
     max_length = find_max_len(pairs)
 
     n = len(pairs)
@@ -184,15 +137,19 @@ def train(train_dataloader, encoder, decoder, n_epochs, learning_rate=0.001,
             plot_losses.append(plot_loss_avg)
             plot_loss_total = 0
 
-    showPlot(plot_losses)
+    torch.save(encoder, os.path.join(clean_data_path, 'models/encoder.pth'))
+    torch.save(decoder, os.path.join(clean_data_path, 'models/decoder.pth'))
 
-def showPlot(points):
+    return plot_losses
+
+def save_losses(points):
     plt.figure()
     fig, ax = plt.subplots()
     # this locator puts ticks at regular intervals
     loc = ticker.MultipleLocator(base=0.2)
     ax.yaxis.set_major_locator(loc)
     plt.plot(points)
+    plt.savefig(os.path.join(clean_data_path, 'figures/seq2seq_losses.png'))
 
 def evaluate(encoder, decoder, sentence, inputs, outputs):
     with torch.no_grad():
@@ -221,12 +178,7 @@ def normalize_string(s):
 
     return lemmatized_sentence
 
-def process_input(text):
-    intent, entities = get_intents_and_entities(text, intent_model, entity_model)
-    augmented_input = augment_input_with_intent_and_entities(normalize_string(text), intent, entities)
-    return augmented_input
-
-def showAttention(input_sentence, output_words, attentions):
+def showAttention(input_sentence, output_words, attentions, figure_name="attention"):
     fig = plt.figure()
     ax = fig.add_subplot(111)
     cax = ax.matshow(attentions.cpu().numpy(), cmap='bone')
@@ -244,10 +196,10 @@ def showAttention(input_sentence, output_words, attentions):
     ax.xaxis.set_major_locator(ticker.MultipleLocator(1))
     ax.yaxis.set_major_locator(ticker.MultipleLocator(1))
 
-    plt.show()
+    plt.savefig(os.path.join(clean_data_path, f'figures/{figure_name}.png'))
 
-def evaluateAndShowAttention(input_sentence, encoder, decoder, input_text, output_text):
+def evaluateAndShowAttention(input_sentence, encoder, decoder, input_text, output_text, figure_name="attention"):
     output_words, attentions = evaluate(encoder, decoder, input_sentence, input_text, output_text)
     print('input =', input_sentence)
     print('output =', ' '.join(output_words))
-    showAttention(input_sentence, output_words, attentions[0, :len(output_words), :])
+    showAttention(input_sentence, output_words, attentions[0, :len(output_words), :], figure_name=figure_name)
