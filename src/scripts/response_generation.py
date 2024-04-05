@@ -5,7 +5,7 @@ import pickle
 
 # user defined
 from augment_data import get_intents_and_entities, augment_input_with_intent_and_entities
-from models.model_helpers.seq2seq_helpers import normalize_string, evaluateAndShowAttention
+from helpers.seq2seq_helpers import normalize_string, evaluateAndShowAttention
 
 base_path = os.path.dirname(__file__)
 clean_data_path = os.path.join(base_path, '../../clean_data')

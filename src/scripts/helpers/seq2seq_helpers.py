@@ -15,7 +15,7 @@ import os
 import pickle
 
 # user defined
-from models.model_helpers.intents_class_helpers import timeSince
+from intents_class_helpers import timeSince
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 

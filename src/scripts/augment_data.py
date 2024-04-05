@@ -5,9 +5,9 @@ import spacy
 import pickle
 
 # user defined
-from models.model_helpers.intents_class_helpers import load_data, predict
-from models.model_helpers.corpus import Corpus
-from models.model_helpers.seq2seq_helpers import normalize_string
+from helpers.intents_class_helpers import load_data, predict
+from helpers.corpus import Corpus
+from helpers.seq2seq_helpers import normalize_string
 
 INTENT_PREFIX = '[INTENT]'
 ENTITY_PREFIX = '[ENTITY]'

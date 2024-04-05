@@ -2,41 +2,19 @@
 import spacy
 import os
 import json
-import pandas as pd
 import random
 from spacy.training import Example
 from spacy.util import minibatch, compounding
 
-# user defined
-from data_collection import get_diagnoses, get_medications, get_dosages, get_tests, get_symptoms, get_anatomies, generate_example
-
 base_path = os.path.dirname(__file__)
 clean_data_path = os.path.join(base_path, '../../clean_data')
 
-
-def collect_data():
+# convert data for training with spacy framework
+def format_data():
     train_data_path = os.path.join(clean_data_path, 'train_data.json')
+    with open(train_data_path, 'r') as file:
+        train_data = json.load(file)
 
-    # Data Collection
-    diagnoses = get_diagnoses()
-    medications = get_medications()
-    dosages = get_dosages()
-    tests = get_tests()
-    symptoms = get_symptoms()
-    anatomies = get_anatomies()
-
-    # Save or load the data to JSON for easy access
-    if os.path.exists(train_data_path):
-        # Load JSON data
-        with open(train_data_path, 'r') as file:
-            train_data = json.load(file)
-    else:
-        # Generate 1000 examples
-        train_data = [generate_example(diagnoses, medications, dosages, tests, symptoms, anatomies) for _ in range(1000)]
-        with open(train_data_path, 'w') as file:
-            json.dump(train_data, file, indent=2)
-
-    # Convert the JSON data to the desired format
     formatted_data = []
     for item in train_data:
         text = item['text']
@@ -52,7 +30,7 @@ def collect_data():
 
 
 def train():
-    formatted_data = collect_data()
+    formatted_data = format_data()
     entity_labels = set()
     for text, annotations in formatted_data:
         for entity in annotations['entities']:

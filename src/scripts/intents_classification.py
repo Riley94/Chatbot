@@ -10,7 +10,7 @@ import os
 import pickle
 
 # user defined
-from models.model_helpers.intents_class_helpers import load_data, process_intents, categoryFromOutput, randomTrainingExample, train, evaluate, timeSince
+from helpers.intents_class_helpers import load_data, process_intents, categoryFromOutput, randomTrainingExample, train, evaluate, timeSince
 from models.intents_classifier import RNN
 
 base_path = os.path.dirname(__file__)

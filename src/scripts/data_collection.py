@@ -11,6 +11,7 @@ from googleapiclient.http import MediaIoBaseDownload
 import io
 import re
 import datetime
+import json
 
 base_path = os.path.dirname(__file__)
 clean_data_path = os.path.join(base_path, '../../clean_data')
@@ -282,12 +283,9 @@ def get_anatomies():
                 "right thumb", "left hand", "right hand", "left wrist", "right wrist", "left forearm", "right forearm", "left elbow", "right elbow",
                 "left upper arm", "right upper arm", "left shoulder", "heart", "liver", "stomach", "intestines", "pancreas", "spleen", "bladder", "esophagus"]
 
-
     anatomies = list(set(anatomies))
     return anatomies
 
-# # Data Processing
-# Function to generate a random date
 def generate_example(diagnoses, medications, dosages, tests, symptoms, anatomies):
     output = {}
     genders = ['he', 'she', 'they', 'the patient']
@@ -326,3 +324,18 @@ def generate_example(diagnoses, medications, dosages, tests, symptoms, anatomies
     output["text"] = text
     output["entities"] = entities
     return output
+
+if __name__ == '__main__':
+
+    train_data_path = os.path.join(clean_data_path, 'train_data.json')
+    diagnoses = get_diagnoses()
+    medications = get_medications()
+    dosages = get_dosages()
+    tests = get_tests()
+    symptoms = get_symptoms()
+    anatomies = get_anatomies()
+    
+    # Generate 1000 examples
+    train_data = [generate_example(diagnoses, medications, dosages, tests, symptoms, anatomies) for _ in range(1000)]
+    with open(train_data_path, 'w') as file:
+        json.dump(train_data, file, indent=2)

@@ -4,7 +4,7 @@ import torch
 # user defined
 from models.intents_classifier import RNN
 from models.seq2seq import EncoderRNN, AttnDecoderRNN
-from models.model_helpers.seq2seq_helpers import get_dataloader, train, save_losses
+from helpers.seq2seq_helpers import get_dataloader, train, save_losses
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
