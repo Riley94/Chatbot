@@ -9,9 +9,6 @@ import math
 import time
 import pickle
 
-base_path = os.path.dirname(__file__)
-clean_data_path = os.path.join(base_path, '../../../../clean_data')
-
 def bag_of_words(sentence, words, lemmatizer):
     if sentence is None:
         return np.zeros(len(words))
@@ -69,6 +66,8 @@ def evaluate(line_tensor, model):
     return output
 
 def predict(input_line, model, n_predictions=3):
+    base_path = os.path.dirname(__file__)
+    clean_data_path = os.path.join(base_path, '../../../clean_data')
     data_path = os.path.join(clean_data_path, 'processed_intents.pkl')
     
     with open(data_path, 'rb') as file:

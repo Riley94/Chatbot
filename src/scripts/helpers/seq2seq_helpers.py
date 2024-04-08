@@ -4,38 +4,21 @@ from torch.utils.data import TensorDataset, DataLoader, RandomSampler
 import numpy as np
 from torch import optim
 import torch.nn as nn
-from nltk.stem import WordNetLemmatizer
-from nltk.tokenize import word_tokenize
 import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
 import time
-import string
-import spacy
 import os
 import pickle
 
 # user defined
-from intents_class_helpers import timeSince
+from helpers.intents_class_helpers import timeSince
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-
-SOS_token = 0
-EOS_token = 1
-lemmatizer = WordNetLemmatizer()
-
-base_path = os.path.dirname(__file__)
-clean_data_path = os.path.join(base_path, '../../../../clean_data')
-intents_path = os.path.join(clean_data_path, 'intents_enriched.json')
-intent_model_path = os.path.join(clean_data_path, 'models/intents_classifier.pth')
-entity_model_path = os.path.join(clean_data_path, 'models/ner_model')
-
-intent_model = torch.load(intent_model_path)
-entity_model = spacy.load(entity_model_path)
 
 def indexesFromSentence(obj, sentence):
     return [obj.word2index[word] for word in sentence.split(' ')]
 
-def tensorFromSentence(obj, sentence):
+def tensorFromSentence(obj, sentence, EOS_token):
     indexes = indexesFromSentence(obj, sentence)
     indexes.append(EOS_token)
     return torch.tensor(indexes, dtype=torch.long, device=device).view(1, -1)
@@ -52,7 +35,7 @@ def find_max_len(pairs):
 
     return max_length
 
-def get_dataloader(batch_size):
+def get_dataloader(batch_size, clean_data_path, EOS_token):
 
     with open(os.path.join(clean_data_path, 'input_corpus.pkl'), 'rb') as f:
         inputs = pickle.load(f)
@@ -110,7 +93,7 @@ def train_epoch(dataloader, encoder, decoder, encoder_optimizer,
 
     return total_loss / len(dataloader)
 
-def train(train_dataloader, encoder, decoder, n_epochs, learning_rate=0.001,
+def train(clean_data_path, train_dataloader, encoder, decoder, n_epochs, learning_rate=0.001,
                print_every=100, plot_every=100):
     start = time.time()
     plot_losses = []
@@ -142,7 +125,7 @@ def train(train_dataloader, encoder, decoder, n_epochs, learning_rate=0.001,
 
     return plot_losses
 
-def save_losses(points):
+def save_losses(points, clean_data_path):
     plt.figure()
     fig, ax = plt.subplots()
     # this locator puts ticks at regular intervals
@@ -151,9 +134,9 @@ def save_losses(points):
     plt.plot(points)
     plt.savefig(os.path.join(clean_data_path, 'figures/seq2seq_losses.png'))
 
-def evaluate(encoder, decoder, sentence, inputs, outputs):
+def evaluate(encoder, decoder, sentence, inputs, outputs, EOS_token):
     with torch.no_grad():
-        input_tensor = tensorFromSentence(inputs, sentence)
+        input_tensor = tensorFromSentence(inputs, sentence, EOS_token)
 
         encoder_outputs, encoder_hidden = encoder(input_tensor)
         decoder_outputs, decoder_hidden, decoder_attn = decoder(encoder_outputs, encoder_hidden)
@@ -168,17 +151,7 @@ def evaluate(encoder, decoder, sentence, inputs, outputs):
             decoded_words.append(outputs.index2word[idx.item()])
     return decoded_words, decoder_attn
 
-def normalize_string(s):
-    # Tokenize the sentence. This also implicitly removes punctuation if we do not consider them as separate tokens.
-    tokens = word_tokenize(s)
-    # Lemmatize and lowercase each word, excluding punctuation
-    lemmatized_tokens = [lemmatizer.lemmatize(token).lower() for token in tokens if token not in string.punctuation]
-    # Reconstruct the sentence from lemmatized tokens
-    lemmatized_sentence = ' '.join(lemmatized_tokens)
-
-    return lemmatized_sentence
-
-def showAttention(input_sentence, output_words, attentions, figure_name="attention"):
+def showAttention(input_sentence, clean_data_path, output_words, attentions, figure_name="attention"):
     fig = plt.figure()
     ax = fig.add_subplot(111)
     cax = ax.matshow(attentions.cpu().numpy(), cmap='bone')
@@ -196,10 +169,10 @@ def showAttention(input_sentence, output_words, attentions, figure_name="attenti
     ax.xaxis.set_major_locator(ticker.MultipleLocator(1))
     ax.yaxis.set_major_locator(ticker.MultipleLocator(1))
 
-    plt.savefig(os.path.join(clean_data_path, f'figures/{figure_name}.png'))
+    plt.savefig(os.path.join(clean_data_path, f'figures/{figure_name}.png'), bbox_inches='tight')
 
-def evaluateAndShowAttention(input_sentence, encoder, decoder, input_text, output_text, figure_name="attention"):
-    output_words, attentions = evaluate(encoder, decoder, input_sentence, input_text, output_text)
+def evaluateAndShowAttention(clean_data_path, input_sentence, encoder, decoder, input_text, output_text, figure_name="attention"):
+    output_words, attentions = evaluate(encoder, decoder, input_sentence, input_text, output_text, EOS_token=1)
     print('input =', input_sentence)
     print('output =', ' '.join(output_words))
-    showAttention(input_sentence, output_words, attentions[0, :len(output_words), :], figure_name=figure_name)
+    showAttention(input_sentence, clean_data_path, output_words, attentions[0, :len(output_words), :], figure_name=figure_name)

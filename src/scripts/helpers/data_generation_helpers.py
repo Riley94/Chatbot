@@ -310,6 +310,24 @@ def make_pharmacy_searches(intents_dict, response_dict):
 
     response_dict['pharmacy_search'] = responses
 
+def make_name_pharmacy_searches(intents_dict, response_dict):
+    searches = []
+    search_words = ['search for', 'find', 'locate', 'show', 'navigate to']
+    names = ['CVS', 'Walgreens', 'Rite Aid', 'Walmart', 'Costco', 'Kroger', 'Publix', 'Safeway', 'Albertsons', 'Target']
+    for search_word in search_words:
+        for name in names:
+            searches.append(f"I want to {search_word} {name}")
+            searches.append(f"{search_word.capitalize()} {name}")
+            searches.append(f"{search_word} {name} near me")
+            searches.append(f"{search_word.capitalize()} {name} nearby")
+            searches.append(f"{search_word.capitalize()} {name} near my location")
+    intents_dict['search_pharmacy_by_name'] = searches
+    responses = []
+    for search in searches:
+        responses.append('Loading pharmacy details')
+
+    response_dict['search_pharmacy_by_name'] = responses
+
 def make_hospital_searches(intents_dict, response_dict):
     searches = []
     search_words = ['search for', 'find', 'locate', 'view', 'show', 'display', 'pull up', 'load', 'lookup']
@@ -375,6 +393,7 @@ def update_intents(intents_dict, response_dict):
     make_blood_pressure_searches(intents_dict, response_dict)
     make_blood_pressure_searches_by_patient_id(intents_dict, response_dict)
     make_pharmacy_searches(intents_dict, response_dict)
+    make_name_pharmacy_searches(intents_dict, response_dict)
     make_hospital_searches(intents_dict, response_dict)
     make_hospital_param_searches(intents_dict, response_dict)
     make_type_hospital_searches(intents_dict, response_dict)

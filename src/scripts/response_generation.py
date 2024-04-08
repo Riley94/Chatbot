@@ -5,7 +5,8 @@ import pickle
 
 # user defined
 from augment_data import get_intents_and_entities, augment_input_with_intent_and_entities
-from helpers.seq2seq_helpers import normalize_string, evaluateAndShowAttention
+from helpers.seq2seq_helpers import evaluateAndShowAttention, evaluate
+from augment_data import normalize_string
 
 base_path = os.path.dirname(__file__)
 clean_data_path = os.path.join(base_path, '../../clean_data')
@@ -36,10 +37,23 @@ with open(os.path.join(clean_data_path, 'input_corpus.pkl'), 'rb') as f:
 with open(os.path.join(clean_data_path, 'output_corpus.pkl'), 'rb') as f:
     output_text = pickle.load(f)
 
-evaluateAndShowAttention(process_input('Hello. How are you?'), encoder, decoder, input_text, output_text, "attention1")
+if __name__ == '__main__':
 
-evaluateAndShowAttention(process_input('Bye. Have a good day.'), encoder, decoder, input_text, output_text, "attention2")
+    while (True):
+        user_input = input("User: ")
+        if user_input == 'exit':
+            break
+        else:
+            output, _ = evaluate(encoder, decoder, process_input(user_input), input_text, output_text, EOS_token=1)
+            print("Bot: ", output)
+            print("\n")
+            print("--------------------------------------------------")
+            print("\n")
 
-evaluateAndShowAttention(process_input('What can you do for me?'), encoder, decoder, input_text, output_text, "attention3")
+    # evaluateAndShowAttention(clean_data_path, process_input('Hello. How are you?'), encoder, decoder, input_text, output_text, "attention1")
 
-evaluateAndShowAttention(process_input('Find me a hospital nearby.'), encoder, decoder, input_text, output_text, "attention4")
+    # evaluateAndShowAttention(clean_data_path, process_input('Bye. Have a good day.'), encoder, decoder, input_text, output_text, "attention2")
+
+    # evaluateAndShowAttention(clean_data_path, process_input('What can you do for me?'), encoder, decoder, input_text, output_text, "attention3")
+
+    # evaluateAndShowAttention(clean_data_path, process_input('Find me a hospital nearby.'), encoder, decoder, input_text, output_text, "attention4")

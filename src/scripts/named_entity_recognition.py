@@ -29,7 +29,7 @@ def format_data():
     return formatted_data
 
 
-def train():
+def train_ner():
     formatted_data = format_data()
     entity_labels = set()
     for text, annotations in formatted_data:
@@ -67,4 +67,4 @@ def train():
     return nlp
 
 if __name__ == '__main__':
-    train()
+    train_ner()
